@@ -1,0 +1,33 @@
+<section id="crowns" class="scrollto">
+	<div class="row clearfix">
+		@if (crowns$ | async; as crown) {
+			<div class="col-3">
+				<div class="section-heading">
+					<a href="javascript:history.back()">
+						<h3>
+							<div class="icon">
+								<i class="fa fa-backward fa-1x"></i> {{ crown.tagline }}
+							</div>
+						</h3>
+					</a>
+
+					<h2 class="section-title">{{ crown.title }}</h2>
+					<p class="section-subtitle">{{ crown.description }}</p>
+				</div>
+			</div>
+		}
+
+		<div class="col-2-3">
+			@for (crownbl of coinList$ | async; track crownbl; let i = $index) {
+				<div class="container">
+					<app-cointype-block [coinTypeBlock]="crownbl"></app-cointype-block>
+					<div>
+						<h2 class="section-title">{{ crownbl.title }}</h2>
+						<p class="section-subtitle">{{ crownbl.description }}</p>
+					</div>
+					<span class="spacer"> &nbsp;</span>
+				</div>
+			}
+		</div>
+	</div>
+</section>

@@ -1,0 +1,21 @@
+<section id="crowns" class="scrollto clearfix">
+	<div class="row clearfix pull-right">
+		@if (crowns$ | async; as crown) {
+			<div class="col-3">
+				<div class="section-heading">
+					<h3>{{ crown.tagline }}</h3>
+					<h2 class="section-title">{{ crown.title }}</h2>
+					<p class="section-subtitle">{{ crown.description }}</p>
+				</div>
+			</div>
+		}
+
+		<div class="col-2-3">
+			@for (crownbl of crownList$ | async; track crownbl; let i = $index) {
+				<div>
+					<app-crowns-block [crownBlock]="crownbl"></app-crowns-block>
+				</div>
+			}
+		</div>
+	</div>
+</section>

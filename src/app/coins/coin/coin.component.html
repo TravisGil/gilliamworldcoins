@@ -1,0 +1,54 @@
+@if (coinList$ | async; as coin) {
+	<section id="about" class="introduction scrollto">
+		<div class="row clearfix">
+			<div class="col-3">
+				<div class="section-heading">
+					<a href="javascript:history.back()">
+						<h3>
+							<div class="icon">
+								<i class="fa fa-backward fa-1x"></i> {{ coin.tagline }}
+							</div>
+						</h3>
+					</a>
+					<h2 class="section-title">{{ coin.title }}</h2>
+					<p class="section-subtitle">{{ coin.description }}</p>
+				</div>
+			</div>
+			<div class="col-3"></div>
+			<div class="col-2-3" coin>
+				<blockquote class="col-3 coin classic">
+					<img
+						src="assets/images/coins/{{ coin.type }}/{{ coin.frontImg }}"
+						redZoom="assets/images/coins/{{ coin.type }}/{{ coin.frontImg }}"
+						redZoomClass="red-zoom--style--window"
+						redZoomBehavior="hover"
+						alt="{{ coin.name }}" />
+
+					<h3>{{ coin.frontTitle }}</h3>
+					<q>{{ coin.frontDescription }}</q>
+					<footer>{{ coin.name }} - {{ coin.price }}</footer>
+				</blockquote>
+
+				<blockquote class="col-3 coin classic">
+					<img
+						src="assets/images/coins/{{ coin.type }}/{{ coin.backImg }}"
+						redZoom="assets/images/coins/{{ coin.type }}/{{ coin.backImg }}"
+						redZoomClass="red-zoom--style--window"
+						redZoomBehavior="hover"
+						alt="{{ coin.name }}" />
+
+					<h3>{{ coin.backTitle }}</h3>
+					<q>{{ coin.backDescription }}</q>
+					<footer>
+						@if (coin.ebay !== '') {
+							<b>Ebay:</b>
+							<a href="{{ coin.ebay }}" target="_blank">
+								{{ coin.title }}
+							</a>
+						}
+					</footer>
+				</blockquote>
+			</div>
+		</div>
+	</section>
+}
