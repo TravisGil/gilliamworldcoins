@@ -49,7 +49,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				id: 6,
 				name: 'footer',
 				tagline: '❤ ',
-				developer: 'Yoski inc',
+				developer: 'gilliamworldcoins inc',
 				developerlink: 'gilliam.com',
 			},
 			{
