@@ -56,7 +56,9 @@ const routes = [{
 }];
 let AppRoutingModule = class AppRoutingModule {};
 AppRoutingModule = (0,tslib__WEBPACK_IMPORTED_MODULE_0__.__decorate)([(0,_angular_core__WEBPACK_IMPORTED_MODULE_1__.NgModule)({
-  imports: [_angular_common__WEBPACK_IMPORTED_MODULE_2__.CommonModule, _angular_router__WEBPACK_IMPORTED_MODULE_3__.RouterModule.forRoot(routes)],
+  imports: [_angular_common__WEBPACK_IMPORTED_MODULE_2__.CommonModule, _angular_router__WEBPACK_IMPORTED_MODULE_3__.RouterModule.forRoot(routes, {
+    useHash: true
+  })],
   exports: [_angular_router__WEBPACK_IMPORTED_MODULE_3__.RouterModule],
   declarations: []
 })], AppRoutingModule);
