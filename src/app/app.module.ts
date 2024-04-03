@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { ReactiveFormsModule } from '@angular/forms';
+import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 // Components
 import { AppComponent } from './app.component';
@@ -41,7 +42,10 @@ import { InMemoryDataService } from './shared/services/in-memory-data.service';
 		SocialComponent,
 		WebsiteBlockComponent,
 	],
-	providers: [ConfigService],
+	providers: [
+		{ provide: LocationStrategy, useClass: HashLocationStrategy },
+		ConfigService,
+	],
 	bootstrap: [AppComponent],
 })
 export class AppModule {}

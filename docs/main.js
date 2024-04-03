@@ -113,6 +113,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @angular/common/http */ 1332);
 /* harmony import */ var angular_in_memory_web_api__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! angular-in-memory-web-api */ 2795);
 /* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/forms */ 1904);
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! @angular/common */ 2676);
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./app.component */ 6108);
 /* harmony import */ var _footer_footer_component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./footer/footer.component */ 6940);
 /* harmony import */ var _navmenu_navmenu_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./navmenu/navmenu.component */ 9556);
@@ -123,6 +124,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var ngx_red_zoom__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ngx-red-zoom */ 20);
 /* harmony import */ var _shared_services_config_service__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./shared/services/config.service */ 9344);
 /* harmony import */ var _shared_services_in_memory_data_service__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./shared/services/in-memory-data.service */ 3796);
+
 
 
 
@@ -153,7 +155,10 @@ AppModule = (0,tslib__WEBPACK_IMPORTED_MODULE_9__.__decorate)([(0,_angular_core_
     dataEncapsulation: false,
     passThruUnknownUrl: true
   }), _footer_footer_component__WEBPACK_IMPORTED_MODULE_1__.FooterComponent, _navigation_navigation_component__WEBPACK_IMPORTED_MODULE_3__.NavigationComponent, _navmenu_navmenu_component__WEBPACK_IMPORTED_MODULE_2__.NavmenuComponent, _social_social_component__WEBPACK_IMPORTED_MODULE_4__.SocialComponent, _website_block_website_block_component__WEBPACK_IMPORTED_MODULE_5__.WebsiteBlockComponent],
-  providers: [_shared_services_config_service__WEBPACK_IMPORTED_MODULE_7__.ConfigService],
+  providers: [{
+    provide: _angular_common__WEBPACK_IMPORTED_MODULE_16__.LocationStrategy,
+    useClass: _angular_common__WEBPACK_IMPORTED_MODULE_16__.HashLocationStrategy
+  }, _shared_services_config_service__WEBPACK_IMPORTED_MODULE_7__.ConfigService],
   bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_0__.AppComponent]
 })], AppModule);
 
