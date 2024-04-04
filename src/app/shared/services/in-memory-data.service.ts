@@ -57,8 +57,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'header',
 				tagline: 'Coin Collecting',
 				title:
-					'Welcome to coin collecting, the intention of this site is to provide a way to start your journey.  enjoy!',
-				buttontext: 'START COLLECTION TODAY',
+					'Welcome to coin collecting, Coin collecting can be a masterclass in history, geography, and even economics.',
+				buttontext: 'Get an Appraisal',
 				buttonlink: '/home',
 				image: 'homepage.png',
 			},
@@ -1412,7 +1412,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'Queen Victoria 1895',
 				tagline: 'Shilling',
 				title: 'Queen Victoria',
-				description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description:
+					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
 				frontImg: '1895f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription: 'Queen Victoria',
@@ -1431,7 +1432,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'Queen Victoria 1889',
 				tagline: 'Shilling',
 				title: 'Queen Victoria',
-				description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description:
+					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
 				frontImg: '1889f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription: 'Queen Victoria',
@@ -1450,7 +1452,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'Queen Victoria 1887',
 				tagline: 'Shilling',
 				title: 'Queen Victoria',
-				description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description:
+					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
 				frontImg: '1887f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription: 'Queen Victoria',
@@ -1469,7 +1472,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'Queen Victoria 1881',
 				tagline: 'Shilling',
 				title: 'Queen Victoria',
-				description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description:
+					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
 				frontImg: '1881f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription: 'Queen Victoria',
@@ -1488,7 +1492,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'Queen Victoria 1875',
 				tagline: 'Shilling',
 				title: 'Queen Victoria',
-				description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description:
+					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
 				frontImg: '1875f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription: 'Queen Victoria',

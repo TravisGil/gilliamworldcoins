@@ -472,8 +472,8 @@ let InMemoryDataService = class InMemoryDataService {
       id: 7,
       name: 'header',
       tagline: 'Coin Collecting',
-      title: 'Welcome to coin collecting, the intention of this site is to provide a way to start your journey.  enjoy!',
-      buttontext: 'START COLLECTION TODAY',
+      title: 'Welcome to coin collecting, Coin collecting can be a masterclass in history, geography, and even economics.',
+      buttontext: 'Get an Appraisal',
       buttonlink: '/home',
       image: 'homepage.png'
     }, {
