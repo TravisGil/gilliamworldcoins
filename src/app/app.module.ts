@@ -4,6 +4,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { ReactiveFormsModule } from '@angular/forms';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
+import { OrderByPipe } from './shared/services/pipes/orderby.pipe';
 
 // Components
 import { AppComponent } from './app.component';
@@ -22,7 +23,7 @@ import { ConfigService } from './shared/services/config.service';
 import { InMemoryDataService } from './shared/services/in-memory-data.service';
 
 @NgModule({
-	declarations: [AppComponent],
+	declarations: [AppComponent, OrderByPipe],
 	imports: [
 		AppRoutingModule,
 		BrowserModule,

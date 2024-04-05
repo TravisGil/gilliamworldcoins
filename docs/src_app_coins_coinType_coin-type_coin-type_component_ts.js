@@ -121,7 +121,7 @@ module.exports = "<section id=\"crowns\" class=\"scrollto\">\r\n\t<div class=\"r
   \****************************************************************************************/
 /***/ ((module) => {
 
-module.exports = "\r\n<a href=\"#/coin/{{ coinTypeBlock.id }}\" class=\"col-4\">\r\n\t<img\r\n\t\tsrc=\"assets/images/coins/{{ coinTypeBlock.type }}/{{\r\n\t\t\tcoinTypeBlock.frontImg\r\n\t\t}}\"\r\n\r\n\t\talt=\"{{ coinTypeBlock.name }}\" />\r\n\t<div class=\"crown-overlay\">\r\n\t\t<span>{{ coinTypeBlock.name }}</span>\r\n\t</div>\r\n</a>\r\n\r\n";
+module.exports = "<a href=\"#/coin/{{ coinTypeBlock.id }}\" class=\"col-4\">\r\n\t<img\r\n\t\tsrc=\"assets/images/coins/{{ coinTypeBlock.type }}/{{\r\n\t\t\tcoinTypeBlock.frontImg\r\n\t\t}}\"\r\n\t\talt=\"{{ coinTypeBlock.name }}\" />\r\n\t<div class=\"crown-overlay\">\r\n\t\t<span>{{ coinTypeBlock.name }} {{ coinTypeBlock.year }}</span>\r\n\t</div>\r\n</a>\r\n";
 
 /***/ })
 

@@ -3,6 +3,7 @@ export class Coin {
 	country: string;
 	type: string;
 	name: string;
+	year: string;
 	tagline: string;
 	title: string;
 	description: string;

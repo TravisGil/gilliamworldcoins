@@ -62,12 +62,11 @@ p {
   flex-wrap: wrap;
 }
 
-
 .container {
 
-  border: 5px solid rgb(15, 13, 15);
+  border: 2px solid rgb(15, 13, 15);
   border-radius: .5em;
-  padding: 10px;
+  padding: 4x;
   justify-content: space-between;
   align-content: space-between;
 }
@@ -100,15 +99,6 @@ figure {
   margin: 0;
 }
 
-.red-zoom__lens-image {
-  --red-zoom-min-scale-factor: 1;
-  --red-zoom-max-scale-factor: 2;
-
-  min-width: calc(var(--red-zoom-thumb-w) * var(--red-zoom-min-scale-factor));
-  min-height: calc(var(--red-zoom-thumb-h) * var(--red-zoom-min-scale-factor));
-  max-width: calc(var(--red-zoom-thumb-w) * var(--red-zoom-max-scale-factor));
-  max-height: calc(var(--red-zoom-thumb-h) * var(--red-zoom-max-scale-factor));
-}
 
 /* You can add global styles to this file, and also import other style files */
 
@@ -118,6 +108,16 @@ figure {
 @import '../node_modules/ngx-red-zoom/styles/style-magnifier';
 @import '../node_modules/ngx-red-zoom/styles/style-window';
 @import '../node_modules/ngx-red-zoom/styles/style-overlay';
+
+.red-zoom__lens-image {
+  --red-zoom-min-scale-factor: 1;
+  --red-zoom-max-scale-factor: 6;
+
+  min-width: calc(var(--red-zoom-thumb-w) * var(--red-zoom-min-scale-factor));
+  min-height: calc(var(--red-zoom-thumb-h) * var(--red-zoom-min-scale-factor));
+  max-width: calc(var(--red-zoom-thumb-w) * var(--red-zoom-max-scale-factor));
+  max-height: calc(var(--red-zoom-thumb-h) * var(--red-zoom-max-scale-factor));
+}
 
 
 /* Page Border */

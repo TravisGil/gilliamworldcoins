@@ -4,6 +4,7 @@ export class Coin {
 	type: string;
 	typeid: number;
 	name: string;
+	year: string;
 	tagline: string;
 	title: string;
 	description: string;
