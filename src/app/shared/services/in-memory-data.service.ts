@@ -1997,7 +1997,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				type: 'florin',
 				typeid: 3,
 				name: 'Queen Victoria ',
-				year: '1877',
+				year: '1849',
 				tagline: 'Florin',
 				title: 'Queen Victoria',
 				description:
@@ -2018,7 +2018,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				type: 'florin',
 				typeid: 3,
 				name: 'Queen Victoria ',
-				year: '1878',
+				year: '1849',
 				tagline: 'Florin',
 				title: 'Queen Victoria',
 				description:
