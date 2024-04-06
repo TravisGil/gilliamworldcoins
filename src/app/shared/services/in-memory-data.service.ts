@@ -2246,7 +2246,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 87,
 				country: 'United States',
-				type: 'Morgan Dollars',
+				type: 'morgan',
 				typeid: 10,
 				name: 'Morgan Dollars',
 				year: '1881',
@@ -2269,7 +2269,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 88,
 				country: 'United States',
-				type: 'Morgan Dollars',
+				type: 'morgan',
 				typeid: 10,
 				name: 'Morgan Dollars',
 				year: '1885',
@@ -2292,7 +2292,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 89,
 				country: 'United States',
-				type: 'Morgan Dollars',
+				type: 'morgan',
 				typeid: 10,
 				name: 'Morgan Dollars',
 				year: '1890',
@@ -2315,7 +2315,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 90,
 				country: 'United States',
-				type: 'Morgan Dollars',
+				type: 'morgan',
 				typeid: 10,
 				name: 'Morgan Dollars',
 				year: '1900',
@@ -2338,7 +2338,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 91,
 				country: 'United States',
-				type: 'Morgan Dollars',
+				type: 'morgan',
 				typeid: 10,
 				name: 'Morgan Dollars',
 				year: '2023',

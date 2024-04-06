@@ -2472,7 +2472,7 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 87,
       country: 'United States',
-      type: 'Morgan Dollars',
+      type: 'morgan',
       typeid: 10,
       name: 'Morgan Dollars',
       year: '1881',
@@ -2491,7 +2491,7 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 88,
       country: 'United States',
-      type: 'Morgan Dollars',
+      type: 'morgan',
       typeid: 10,
       name: 'Morgan Dollars',
       year: '1885',
@@ -2510,7 +2510,7 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 89,
       country: 'United States',
-      type: 'Morgan Dollars',
+      type: 'morgan',
       typeid: 10,
       name: 'Morgan Dollars',
       year: '1890',
@@ -2529,7 +2529,7 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 90,
       country: 'United States',
-      type: 'Morgan Dollars',
+      type: 'morgan',
       typeid: 10,
       name: 'Morgan Dollars',
       year: '1900',
@@ -2548,7 +2548,7 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 91,
       country: 'United States',
-      type: 'Morgan Dollars',
+      type: 'morgan',
       typeid: 10,
       name: 'Morgan Dollars',
       year: '2023',
