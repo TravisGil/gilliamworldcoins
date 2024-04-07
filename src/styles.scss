@@ -631,7 +631,7 @@ nav#nav-mobile ul {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-  background-color: #fff;
+  background-color: #ccc;
   box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
 }
 
@@ -671,7 +671,7 @@ nav#nav-mobile a {
 }
 
 nav#nav-mobile a:hover {
-  background: #fafafa;
+  background: #9c9c9c;
   opacity: 1;
 }
 
@@ -2505,3 +2505,6 @@ h4 {
 #landing-footer i {
   color: #999;
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

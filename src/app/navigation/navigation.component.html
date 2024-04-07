@@ -29,10 +29,11 @@
 			<!--End of Main Navigation-->
 
 			<div id="nav-trigger">
-				<span
-					[class.open]="menuOpen === true"
-					(onClick)="toggleMenu(!menuOpen)"
-					(onKeyUp)="toggleMenu(!menuOpen)"></span>
+				<mat-icon
+					aria-hidden="false"
+					aria-label="Navigation icon"
+					fontIcon="reorder"
+					(click)="toggleMenu(!menuOpen)"></mat-icon>
 			</div>
 			<nav id="nav-mobile">
 				@if (menuOpen === true) {

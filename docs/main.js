@@ -111,9 +111,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @angular/platform-browser */ 168);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @angular/core */ 4280);
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/common/http */ 1332);
-/* harmony import */ var angular_in_memory_web_api__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! angular-in-memory-web-api */ 2795);
+/* harmony import */ var angular_in_memory_web_api__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! angular-in-memory-web-api */ 2795);
 /* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @angular/forms */ 1904);
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! @angular/common */ 2676);
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! @angular/common */ 2676);
 /* harmony import */ var _shared_services_pipes_orderby_pipe__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./shared/services/pipes/orderby.pipe */ 96);
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./app.component */ 6108);
 /* harmony import */ var _footer_footer_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./footer/footer.component */ 6940);
@@ -123,8 +123,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _website_block_website_block_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./website-block/website-block.component */ 2284);
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./app-routing.module */ 484);
 /* harmony import */ var ngx_red_zoom__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ngx-red-zoom */ 20);
+/* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! @angular/material/icon */ 2328);
 /* harmony import */ var _shared_services_config_service__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./shared/services/config.service */ 9344);
 /* harmony import */ var _shared_services_in_memory_data_service__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./shared/services/in-memory-data.service */ 3796);
+/* harmony import */ var _angular_platform_browser_animations_async__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! @angular/platform-browser/animations/async */ 5832);
 
 
 
@@ -143,24 +145,27 @@ __webpack_require__.r(__webpack_exports__);
 // Modules
 
 
+
 // Services
+
 
 
 let AppModule = class AppModule {};
 AppModule = (0,tslib__WEBPACK_IMPORTED_MODULE_10__.__decorate)([(0,_angular_core__WEBPACK_IMPORTED_MODULE_11__.NgModule)({
   declarations: [_app_component__WEBPACK_IMPORTED_MODULE_1__.AppComponent, _shared_services_pipes_orderby_pipe__WEBPACK_IMPORTED_MODULE_0__.OrderByPipe],
-  imports: [_app_routing_module__WEBPACK_IMPORTED_MODULE_7__.AppRoutingModule, _angular_platform_browser__WEBPACK_IMPORTED_MODULE_12__.BrowserModule, _angular_common_http__WEBPACK_IMPORTED_MODULE_13__.HttpClientModule, _angular_forms__WEBPACK_IMPORTED_MODULE_14__.ReactiveFormsModule, ngx_red_zoom__WEBPACK_IMPORTED_MODULE_15__.RedZoomModule,
+  imports: [_app_routing_module__WEBPACK_IMPORTED_MODULE_7__.AppRoutingModule, _angular_platform_browser__WEBPACK_IMPORTED_MODULE_12__.BrowserModule, _angular_common_http__WEBPACK_IMPORTED_MODULE_13__.HttpClientModule, _angular_forms__WEBPACK_IMPORTED_MODULE_14__.ReactiveFormsModule, ngx_red_zoom__WEBPACK_IMPORTED_MODULE_15__.RedZoomModule, _angular_material_icon__WEBPACK_IMPORTED_MODULE_16__.MatIconModule,
   // The HttpClientInMemoryWebApiModule module intercepts HTTP requests
   // and returns simulated server responses.
   // Remove it when a real server is ready to receive requests.
-  angular_in_memory_web_api__WEBPACK_IMPORTED_MODULE_16__.HttpClientInMemoryWebApiModule.forRoot(_shared_services_in_memory_data_service__WEBPACK_IMPORTED_MODULE_9__.InMemoryDataService, {
+  angular_in_memory_web_api__WEBPACK_IMPORTED_MODULE_17__.HttpClientInMemoryWebApiModule.forRoot(_shared_services_in_memory_data_service__WEBPACK_IMPORTED_MODULE_9__.InMemoryDataService, {
     dataEncapsulation: false,
     passThruUnknownUrl: true
   }), _footer_footer_component__WEBPACK_IMPORTED_MODULE_2__.FooterComponent, _navigation_navigation_component__WEBPACK_IMPORTED_MODULE_4__.NavigationComponent, _navmenu_navmenu_component__WEBPACK_IMPORTED_MODULE_3__.NavmenuComponent, _social_social_component__WEBPACK_IMPORTED_MODULE_5__.SocialComponent, _website_block_website_block_component__WEBPACK_IMPORTED_MODULE_6__.WebsiteBlockComponent],
+  schemas: [_angular_core__WEBPACK_IMPORTED_MODULE_11__.CUSTOM_ELEMENTS_SCHEMA],
   providers: [{
-    provide: _angular_common__WEBPACK_IMPORTED_MODULE_17__.LocationStrategy,
-    useClass: _angular_common__WEBPACK_IMPORTED_MODULE_17__.HashLocationStrategy
-  }, _shared_services_config_service__WEBPACK_IMPORTED_MODULE_8__.ConfigService],
+    provide: _angular_common__WEBPACK_IMPORTED_MODULE_18__.LocationStrategy,
+    useClass: _angular_common__WEBPACK_IMPORTED_MODULE_18__.HashLocationStrategy
+  }, _shared_services_config_service__WEBPACK_IMPORTED_MODULE_8__.ConfigService, (0,_angular_platform_browser_animations_async__WEBPACK_IMPORTED_MODULE_19__.provideAnimationsAsync)()],
   bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_1__.AppComponent]
 })], AppModule);
 
@@ -243,6 +248,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/common */ 2676);
 /* harmony import */ var _shared_services_config_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../shared/services/config.service */ 9344);
 /* harmony import */ var _navmenu_navmenu_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../navmenu/navmenu.component */ 9556);
+/* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/material/icon */ 2328);
+
 
 
 
@@ -278,7 +285,7 @@ NavigationComponent = (0,tslib__WEBPACK_IMPORTED_MODULE_5__.__decorate)([(0,_ang
   selector: 'app-navigation',
   template: _navigation_component_html_ngResource__WEBPACK_IMPORTED_MODULE_0__,
   standalone: true,
-  imports: [_navmenu_navmenu_component__WEBPACK_IMPORTED_MODULE_3__.NavmenuComponent],
+  imports: [_navmenu_navmenu_component__WEBPACK_IMPORTED_MODULE_3__.NavmenuComponent, _angular_material_icon__WEBPACK_IMPORTED_MODULE_7__.MatIconModule],
   styles: [(_navigation_component_scss_ngResource__WEBPACK_IMPORTED_MODULE_1___default())]
 })], NavigationComponent);
 
@@ -2806,7 +2813,7 @@ module.exports = "@if (footer$ | async; as footer) {\n\t<footer id=\"landing-foo
 /***/ ((module) => {
 
 "use strict";
-module.exports = "<div id=\"header\" class=\"nav-collapse nav-solid\">\n\t<div class=\"row clearfix\">\n\t\t<div class=\"col-1\">\n\t\t\t<!--Logo-->\n\t\t\t<div id=\"logo\">\n\t\t\t\t<!--Logo that is shown on the banner-->\n\t\t\t\t<img src=\"assets/images/logo.png\" id=\"banner-logo\" alt=\"Landing Page\" />\n\t\t\t\t<!--End of Banner Logo-->\n\n\t\t\t\t<!--The Logo that is shown on the sticky Navigation Bar-->\n\t\t\t\t<img\n\t\t\t\t\tsrc=\"assets/images/logo-2.png\"\n\t\t\t\t\tid=\"navigation-logo\"\n\t\t\t\t\talt=\"Landing Page\"\n\t\t\t\t\twidth=\"450px\"\n\t\t\t\t\theight=\"400px\" />\n\t\t\t\t<!--End of Navigation Logo-->\n\t\t\t</div>\n\t\t\t<!--End of Logo-->\n\n\t\t\t<!-- <aside>\n        <app-social></app-social>\n      </aside> -->\n\n\t\t\t<!--Main Navigation-->\n\t\t\t<nav id=\"nav-main\">\n\t\t\t\t<app-navmenu [menu]=\"menu\" [menuOpen]=\"true\"></app-navmenu>\n\t\t\t</nav>\n\t\t\t<!--End of Main Navigation-->\n\n\t\t\t<div id=\"nav-trigger\">\n\t\t\t\t<span\n\t\t\t\t\t[class.open]=\"menuOpen === true\"\n\t\t\t\t\t(onClick)=\"toggleMenu(!menuOpen)\"\n\t\t\t\t\t(onKeyUp)=\"toggleMenu(!menuOpen)\"></span>\n\t\t\t</div>\n\t\t\t<nav id=\"nav-mobile\">\n\t\t\t\t@if (menuOpen === true) {\n\t\t\t\t\t<app-navmenu\n\t\t\t\t\t\t[menu]=\"menu\"\n\t\t\t\t\t\t(menuStatus)=\"toggleMenu($event)\"\n\t\t\t\t\t\t[menuOpen]=\"menuOpen\"></app-navmenu>\n\t\t\t\t}\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<!--End of Header-->\n";
+module.exports = "<div id=\"header\" class=\"nav-collapse nav-solid\">\n\t<div class=\"row clearfix\">\n\t\t<div class=\"col-1\">\n\t\t\t<!--Logo-->\n\t\t\t<div id=\"logo\">\n\t\t\t\t<!--Logo that is shown on the banner-->\n\t\t\t\t<img src=\"assets/images/logo.png\" id=\"banner-logo\" alt=\"Landing Page\" />\n\t\t\t\t<!--End of Banner Logo-->\n\n\t\t\t\t<!--The Logo that is shown on the sticky Navigation Bar-->\n\t\t\t\t<img\n\t\t\t\t\tsrc=\"assets/images/logo-2.png\"\n\t\t\t\t\tid=\"navigation-logo\"\n\t\t\t\t\talt=\"Landing Page\"\n\t\t\t\t\twidth=\"450px\"\n\t\t\t\t\theight=\"400px\" />\n\t\t\t\t<!--End of Navigation Logo-->\n\t\t\t</div>\n\t\t\t<!--End of Logo-->\n\n\t\t\t<!-- <aside>\n        <app-social></app-social>\n      </aside> -->\n\n\t\t\t<!--Main Navigation-->\n\t\t\t<nav id=\"nav-main\">\n\t\t\t\t<app-navmenu [menu]=\"menu\" [menuOpen]=\"true\"></app-navmenu>\n\t\t\t</nav>\n\t\t\t<!--End of Main Navigation-->\n\n\t\t\t<div id=\"nav-trigger\">\n\t\t\t\t<mat-icon\n\t\t\t\t\taria-hidden=\"false\"\n\t\t\t\t\taria-label=\"Navigation icon\"\n\t\t\t\t\tfontIcon=\"reorder\"\n\t\t\t\t\t(click)=\"toggleMenu(!menuOpen)\"></mat-icon>\n\t\t\t</div>\n\t\t\t<nav id=\"nav-mobile\">\n\t\t\t\t@if (menuOpen === true) {\n\t\t\t\t\t<app-navmenu\n\t\t\t\t\t\t[menu]=\"menu\"\n\t\t\t\t\t\t(menuStatus)=\"toggleMenu($event)\"\n\t\t\t\t\t\t[menuOpen]=\"menuOpen\"></app-navmenu>\n\t\t\t\t}\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<!--End of Header-->\n";
 
 /***/ }),
 

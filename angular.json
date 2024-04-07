@@ -27,10 +27,11 @@
 							"src/assets"
 						],
 						"styles": [
-							"src/styles.scss",
-							"src/assets/css/animate.css",
-							"node_modules/font-awesome/css/font-awesome.css"
-						],
+              "@angular/material/prebuilt-themes/deeppurple-amber.css",
+              "src/styles.scss",
+              "src/assets/css/animate.css",
+              "node_modules/font-awesome/css/font-awesome.css"
+            ],
 						"scripts": [
 							"node_modules/wowjs/dist/wow.js",
 							"src/assets/js/wow.min.js",
@@ -89,9 +90,10 @@
 						"tsConfig": "tsconfig.spec.json",
 						"karmaConfig": "src/karma.conf.js",
 						"styles": [
-							"src/styles.scss",
-							"src/styles.scss"
-						],
+              "@angular/material/prebuilt-themes/deeppurple-amber.css",
+              "src/styles.scss",
+              "src/styles.scss"
+            ],
 						"scripts": [],
 						"assets": [
 							"src/favicon.ico",
