@@ -387,6 +387,10 @@ let ConfigService = class ConfigService {
     const url = countryId ? `api/${database}?countryId=${countryId}` : `api/${database}`;
     return this.http.get(url).pipe((0,rxjs_operators__WEBPACK_IMPORTED_MODULE_2__.catchError)(this.handleError(`Error getting data from ${database}`, [])));
   }
+  getCoins(database, id) {
+    const url = id ? `api/${database}?id=${id}` : `api/${database}`;
+    return this.http.get(url).pipe((0,rxjs_operators__WEBPACK_IMPORTED_MODULE_2__.catchError)(this.handleError(`Error getting data from ${database}`, [])));
+  }
   getSettings(database, id) {
     const url = id ? `api/${database}/${id}` : `api/${database}`;
     return this.http.get(url).pipe((0,rxjs_operators__WEBPACK_IMPORTED_MODULE_2__.catchError)(this.handleError(`Error getting data from ${database}`, [])));
@@ -480,7 +484,7 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 7,
       name: 'header',
-      tagline: 'Coin Collecting',
+      tagline: 'World Coin',
       title: 'Welcome to coin collecting, Coin collecting can be a masterclass in history, geography, and even economics.',
       buttontext: 'Get an Appraisal',
       buttonlink: '/home',
@@ -2813,7 +2817,7 @@ module.exports = "@if (footer$ | async; as footer) {\n\t<footer id=\"landing-foo
 /***/ ((module) => {
 
 "use strict";
-module.exports = "<div id=\"header\" class=\"nav-collapse nav-solid\">\n\t<div class=\"row clearfix\">\n\t\t<div class=\"col-1\">\n\t\t\t<!--Logo-->\n\t\t\t<div id=\"logo\">\n\t\t\t\t<!--Logo that is shown on the banner-->\n\t\t\t\t<img src=\"assets/images/logo.png\" id=\"banner-logo\" alt=\"Landing Page\" />\n\t\t\t\t<!--End of Banner Logo-->\n\n\t\t\t\t<!--The Logo that is shown on the sticky Navigation Bar-->\n\t\t\t\t<img\n\t\t\t\t\tsrc=\"assets/images/logo-2.png\"\n\t\t\t\t\tid=\"navigation-logo\"\n\t\t\t\t\talt=\"Landing Page\"\n\t\t\t\t\twidth=\"450px\"\n\t\t\t\t\theight=\"400px\" />\n\t\t\t\t<!--End of Navigation Logo-->\n\t\t\t</div>\n\t\t\t<!--End of Logo-->\n\n\t\t\t<!-- <aside>\n        <app-social></app-social>\n      </aside> -->\n\n\t\t\t<!--Main Navigation-->\n\t\t\t<nav id=\"nav-main\">\n\t\t\t\t<app-navmenu [menu]=\"menu\" [menuOpen]=\"true\"></app-navmenu>\n\t\t\t</nav>\n\t\t\t<!--End of Main Navigation-->\n\n\t\t\t<div id=\"nav-trigger\">\n\t\t\t\t<mat-icon\n\t\t\t\t\taria-hidden=\"false\"\n\t\t\t\t\taria-label=\"Navigation icon\"\n\t\t\t\t\tfontIcon=\"reorder\"\n\t\t\t\t\t(click)=\"toggleMenu(!menuOpen)\"></mat-icon>\n\t\t\t</div>\n\t\t\t<nav id=\"nav-mobile\">\n\t\t\t\t@if (menuOpen === true) {\n\t\t\t\t\t<app-navmenu\n\t\t\t\t\t\t[menu]=\"menu\"\n\t\t\t\t\t\t(menuStatus)=\"toggleMenu($event)\"\n\t\t\t\t\t\t[menuOpen]=\"menuOpen\"></app-navmenu>\n\t\t\t\t}\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<!--End of Header-->\n";
+module.exports = "<div id=\"header\" class=\"nav-collapse nav-solid\">\n\t<div class=\"row clearfix\">\n\t\t<div class=\"col-1\">\n\t\t\t<!--Logo-->\n\t\t\t<div id=\"logo\">\n\t\t\t\t<!--Logo that is shown on the banner-->\n\t\t\t\t<img src=\"assets/images/logo.png\" id=\"banner-logo\" alt=\"Landing Page\" />\n\t\t\t\t<!--End of Banner Logo-->\n\n\t\t\t\t<!--The Logo that is shown on the sticky Navigation Bar-->\n\t\t\t\t<img\n\t\t\t\t\tsrc=\"assets/images/logo-2.png\"\n\t\t\t\t\tid=\"navigation-logo\"\n\t\t\t\t\talt=\"Landing Page\" />\n\t\t\t\t<!--End of Navigation Logo-->\n\t\t\t</div>\n\t\t\t<!--End of Logo-->\n\n\t\t\t<!-- <aside>\n        <app-social></app-social>\n      </aside> -->\n\n\t\t\t<!--Main Navigation-->\n\t\t\t<nav id=\"nav-main\">\n\t\t\t\t<app-navmenu [menu]=\"menu\" [menuOpen]=\"true\"></app-navmenu>\n\t\t\t</nav>\n\t\t\t<!--End of Main Navigation-->\n\n\t\t\t<div id=\"nav-trigger\">\n\t\t\t\t<mat-icon\n\t\t\t\t\taria-hidden=\"false\"\n\t\t\t\t\taria-label=\"Navigation icon\"\n\t\t\t\t\tfontIcon=\"reorder\"\n\t\t\t\t\t(click)=\"toggleMenu(!menuOpen)\"></mat-icon>\n\t\t\t</div>\n\t\t\t<nav id=\"nav-mobile\">\n\t\t\t\t@if (menuOpen === true) {\n\t\t\t\t\t<app-navmenu\n\t\t\t\t\t\t[menu]=\"menu\"\n\t\t\t\t\t\t(menuStatus)=\"toggleMenu($event)\"\n\t\t\t\t\t\t[menuOpen]=\"menuOpen\"></app-navmenu>\n\t\t\t\t}\n\t\t\t</nav>\n\t\t</div>\n\t</div>\n</div>\n<!--End of Header-->\n";
 
 /***/ }),
 

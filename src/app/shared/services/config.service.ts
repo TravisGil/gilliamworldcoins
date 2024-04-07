@@ -44,6 +44,17 @@ export class ConfigService {
 		const url = countryId
 			? `api/${database}?countryId=${countryId}`
 			: `api/${database}`;
+
+		return this.http
+			.get<any>(url)
+			.pipe(
+				catchError(this.handleError(`Error getting data from ${database}`, []))
+			);
+	}
+
+	getCoins(database: string, id?: number): Observable<any> {
+		const url = id ? `api/${database}?id=${id}` : `api/${database}`;
+
 		return this.http
 			.get<any>(url)
 			.pipe(
@@ -53,6 +64,7 @@ export class ConfigService {
 
 	getSettings(database: string, id?: number): Observable<any> {
 		const url = id ? `api/${database}/${id}` : `api/${database}`;
+
 		return this.http
 			.get<any>(url)
 			.pipe(

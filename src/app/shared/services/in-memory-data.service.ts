@@ -55,7 +55,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 7,
 				name: 'header',
-				tagline: 'Coin Collecting',
+				tagline: 'World Coin',
 				title:
 					'Welcome to coin collecting, Coin collecting can be a masterclass in history, geography, and even economics.',
 				buttontext: 'Get an Appraisal',

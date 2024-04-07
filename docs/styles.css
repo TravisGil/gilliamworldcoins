@@ -781,7 +781,6 @@ section {
   margin: 0;
 }
 
-/* --------- 2.2 Logo ---------- */
 #logo {
   float: left;
   height: 71px;
@@ -1007,7 +1006,7 @@ nav#nav-mobile ul {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-  background-color: #ccc;
+  background-color: #030000;
   box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
 }
 
@@ -1898,7 +1897,16 @@ blockquote {
 }
 /* Landscape mobile & down
 ===============================*/
-@media (max-width: 480px) {
+@media (max-width: 500px) {
+  #logo {
+    display: none;
+  }
+  #navigation-logo {
+    display: none;
+  }
+  #banner-logo {
+    display: none;
+  }
   #wrapper {
     margin: 0;
     padding: 0;
