@@ -58,7 +58,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'World Coin',
 				title:
 					'Welcome to coin collecting, Coin collecting can be a masterclass in history, geography, and even economics.',
-				buttontext: 'Get an Appraisal',
+				buttontext: 'Get an Estimate',
 				buttonlink: '/home',
 				image: 'homepage.png',
 			},
@@ -326,7 +326,8 @@ export class InMemoryDataService implements InMemoryDbService {
 				name: 'sixpence',
 				tagline: 'British Coin List',
 				title: 'The Sixpence',
-				description: 'The British sixpence piece, sometimes known as a tanner or sixpenny bit, was a denomination of sterling coinage worth 1⁄40 of one pound or half of one shilling. It was first minted in 1551, during the reign of Edward VI, and circulated until 1980. The coin was made from silver from its introduction in 1551 until 1947, and thereafter in cupronickel.',
+				description:
+					'The British sixpence piece, sometimes known as a tanner or sixpenny bit, was a denomination of sterling coinage worth 1⁄40 of one pound or half of one shilling. It was first minted in 1551, during the reign of Edward VI, and circulated until 1980. The coin was made from silver from its introduction in 1551 until 1947, and thereafter in cupronickel.',
 				Img: 'sixpence.jpg',
 				bottomContent: 'sixpence.',
 			},

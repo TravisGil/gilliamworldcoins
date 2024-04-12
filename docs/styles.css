@@ -903,7 +903,7 @@ section {
 /*Navigation Solid*/
 #header.nav-solid [class*=col-] {
   padding: 0 20px;
-  background-color: #202020;
+  background-color: #000000;
 }
 
 #header.nav-solid {
@@ -944,7 +944,7 @@ section {
   display: inline-block;
   width: 38px;
   height: 71px;
-  color: #111;
+  color: #000;
   cursor: pointer;
   text-transform: uppercase;
   font-size: 22px;
@@ -978,7 +978,7 @@ section {
 
 #nav-trigger span.open,
 #nav-trigger span.open:hover {
-  color: #111;
+  color: #000;
 }
 
 .nav-solid #nav-trigger span.open:hover {
@@ -1006,7 +1006,7 @@ nav#nav-mobile ul {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-  background-color: #030000;
+  background-color: #000000;
   box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
 }
 
@@ -2266,7 +2266,7 @@ body {
   font-family: "Open Sans", sans-serif, Arial, Helvetica;
   font-size: 15px;
   font-weight: normal;
-  color: #111;
+  color: #000;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
@@ -2289,14 +2289,14 @@ body {
   font-size: 62px;
   line-height: 60px;
   font-weight: 800;
-  color: #111;
+  color: #000;
 }
 
 #banner h2 {
   font-family: "Open Sans", sans-serif, Arial, Helvetica;
   font-size: 18px;
   font-weight: 300;
-  color: #111;
+  color: #000;
 }
 
 /* Section Title and Subtitle */
