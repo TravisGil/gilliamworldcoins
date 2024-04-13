@@ -425,7 +425,7 @@ section {
 
 .nav-solid #logo #navigation-logo {
   display: inline-block;
-  padding-left: 15px !important;
+
 }
 
 /* --------- 2.3 Buttons ---------- */
@@ -674,7 +674,7 @@ nav#nav-mobile a:hover {
   opacity: 1;
 }
 
-/* --------- 2.5 Social Elements ---------- */
+/* ---------  Social Elements ---------- */
 
 #header .col-4 {
   text-align: right;
@@ -818,10 +818,10 @@ h4 {
 }
 
 /*------------------------------------------------------------------------------------------*/
-/* 5. Content Elements */
+/*  Content  */
 /*------------------------------------------------------------------------------------------*/
 
-/* --------- 5.1 Icons ---------- */
+/* --------- Icons ---------- */
 
 /*Font Icon sizes*/
 
@@ -883,9 +883,9 @@ h4 {
   padding-top: 25px;
 }
 
-/* --------- 5.2 Parallax Elements ---------- */
+/* ---------  Parallax  ---------- */
 
-/* --------- 5.3 Divider ---------- */
+/* ---------  Divider ---------- */
 
 .divider {
   position: relative;
@@ -906,24 +906,22 @@ h4 {
 }
 
 /*------------------------------------------------------------------------------------------*/
-/* 6. Landing Page Sections */
+/* Home Page  */
 /*------------------------------------------------------------------------------------------*/
 
-/* --------- 6.1 Introduction ---------- */
+/* ---------  Introduction ---------- */
 
 .introduction img.featured {
   padding: 55px 0 0 0;
 }
 
-/* --------- 6.2 Features ---------- */
+/* --------- Features ---------- */
 
 .features div:nth-child(4) {
   clear: both;
 }
 
 /* --------- coin ---------- */
-
-
 
 .coin {
   background: #fff;
@@ -957,7 +955,7 @@ h4 {
   margin: 10px auto 15px auto;
 }
 
-/* --------- 6.3 Testimonials ---------- */
+/* ---------  Testimonials ---------- */
 
 .testimonial {
   padding: 15px;
@@ -997,7 +995,7 @@ blockquote {
 
 /* Style Big */
 
-/* --------- 6.4 Gallery ---------- */
+/* ---------  Gallery ---------- */
 
 #gallery img {
   max-height: 300px;
@@ -1066,8 +1064,7 @@ blockquote {
   }
 }
 
-/* --------- 6.5 Video ---------- */
-
+/* ---------  Video ---------- */
 
 .video_container,
 .easyContainer {
@@ -1928,10 +1925,12 @@ blockquote {
 ===============================*/
 @media (max-width: 500px) {
 
-  #logo {
-    display: none;
-  }
-
+#logo,
+#logo img {
+    margin: 0;
+    padding: 0;
+    height: 70px;
+}
 #navigation-logo  {
   display: none;
 }
