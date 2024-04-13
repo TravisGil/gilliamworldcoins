@@ -16,7 +16,7 @@ import { CointypeBlockComponent } from '../cointype-block/cointype-block.compone
 export class CoinTypeComponent implements OnInit {
 	crowns$: Observable<CoinType> = new Observable();
 	coinList$: Observable<Coin[]> = new Observable();
-	coinId: number;
+	coinId: string;
 
 	constructor(
 		private config: ConfigService,
@@ -26,9 +26,9 @@ export class CoinTypeComponent implements OnInit {
 	ngOnInit() {
 		this.route.params.subscribe(params => {
 			this.coinId = params['id']; // Access the 'id' parameter from the URL
-			console.log('Test ID:', this.coinId);
-			this.getPageData('cointypeList', this.coinId);
-			this.getBlockData('coinList', this.coinId);
+			const strList = this.coinId.split('-');
+			this.getBlockData('coinList', strList[0]);
+			this.getPageData('cointypeList', parseInt(strList[1]));
 		});
 	}
 
@@ -41,14 +41,12 @@ export class CoinTypeComponent implements OnInit {
 		);
 	}
 
-	getBlockData(database: string, typeid: number) {
-		this.coinList$ = this.config
-			.getCoinLisyByTypeSettings(database, typeid)
-			.pipe(
-				catchError(error => {
-					console.error('Error fetching feature data:', error);
-					return throwError(error);
-				})
-			);
+	getBlockData(database: string, type: string) {
+		this.coinList$ = this.config.getCoinLisyByTypeSettings(database, type).pipe(
+			catchError(error => {
+				console.error('Error fetching feature data:', error);
+				return throwError(error);
+			})
+		);
 	}
 }

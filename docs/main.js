@@ -379,8 +379,8 @@ let ConfigService = class ConfigService {
   getConfig() {
     return this.config;
   }
-  getCoinLisyByTypeSettings(database, typeid) {
-    const url = typeid ? `api/${database}?typeid=${typeid}` : `api/${database}`;
+  getCoinLisyByTypeSettings(database, type) {
+    const url = type ? `api/${database}?type=${type}` : `api/${database}`;
     return this.http.get(url).pipe((0,rxjs_operators__WEBPACK_IMPORTED_MODULE_2__.catchError)(this.handleError(`Error getting data from ${database}`, [])));
   }
   getCoinTypeByCountryIDSettings(database, countryId) {

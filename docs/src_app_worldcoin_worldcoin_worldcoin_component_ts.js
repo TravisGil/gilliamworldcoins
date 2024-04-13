@@ -93,7 +93,7 @@ WorldCoinComponent = (0,tslib__WEBPACK_IMPORTED_MODULE_6__.__decorate)([(0,_angu
   \*****************************************************************************/
 /***/ ((module) => {
 
-module.exports = "<a href=\"#/cointype/{{ image.id }}\" class=\"col-3\">\n\t<img\n\t\tsrc=\"assets/images/coins/type/{{ image.Img }}\"\n\t\twidth=\"250px\"\n\t\theight=\"250px\"\n\t\talt=\"{{ image.Img }}\" />\n\t<div class=\"crown-overlay\">\n\t\t<span>{{ image.title }}</span>\n\t</div>\n</a>\n";
+module.exports = "<a href=\"#/cointype/{{ image.type }}-{{ image.id }}\" class=\"col-3\">\n\t<img\n\t\tsrc=\"assets/images/coins/type/{{ image.Img }}\"\n\t\twidth=\"250px\"\n\t\theight=\"250px\"\n\t\talt=\"{{ image.Img }}\" />\n\t<div class=\"crown-overlay\">\n\t\t<span>{{ image.title }}</span>\n\t</div>\n</a>\n";
 
 /***/ }),
 

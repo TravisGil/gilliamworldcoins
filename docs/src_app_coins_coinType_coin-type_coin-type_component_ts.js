@@ -39,9 +39,9 @@ let CoinTypeComponent = class CoinTypeComponent {
   ngOnInit() {
     this.route.params.subscribe(params => {
       this.coinId = params['id']; // Access the 'id' parameter from the URL
-      console.log('Test ID:', this.coinId);
-      this.getPageData('cointypeList', this.coinId);
-      this.getBlockData('coinList', this.coinId);
+      const strList = this.coinId.split('-');
+      this.getBlockData('coinList', strList[0]);
+      this.getPageData('cointypeList', parseInt(strList[1]));
     });
   }
   getPageData(database, id) {
@@ -50,8 +50,8 @@ let CoinTypeComponent = class CoinTypeComponent {
       return (0,rxjs__WEBPACK_IMPORTED_MODULE_5__.throwError)(error);
     }));
   }
-  getBlockData(database, typeid) {
-    this.coinList$ = this.config.getCoinLisyByTypeSettings(database, typeid).pipe((0,rxjs__WEBPACK_IMPORTED_MODULE_4__.catchError)(error => {
+  getBlockData(database, type) {
+    this.coinList$ = this.config.getCoinLisyByTypeSettings(database, type).pipe((0,rxjs__WEBPACK_IMPORTED_MODULE_4__.catchError)(error => {
       console.error('Error fetching feature data:', error);
       return (0,rxjs__WEBPACK_IMPORTED_MODULE_5__.throwError)(error);
     }));

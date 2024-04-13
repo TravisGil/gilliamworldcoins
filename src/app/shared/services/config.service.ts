@@ -25,11 +25,8 @@ export class ConfigService {
 		return this.config;
 	}
 
-	getCoinLisyByTypeSettings(
-		database: string,
-		typeid?: number
-	): Observable<any> {
-		const url = typeid ? `api/${database}?typeid=${typeid}` : `api/${database}`;
+	getCoinLisyByTypeSettings(database: string, type?: string): Observable<any> {
+		const url = type ? `api/${database}?type=${type}` : `api/${database}`;
 		return this.http
 			.get<any>(url)
 			.pipe(
