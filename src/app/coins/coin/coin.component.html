@@ -25,7 +25,10 @@
 						alt="{{ coin.name }}" />
 
 					<h3>{{ coin.frontTitle }}</h3>
-					<q>{{ coin.frontDescription }}</q>
+          <br />
+					<P>
+						<q>{{ coin.frontDescription }}</q>
+					</P>
 					<footer>{{ coin.name }} - {{ coin.price }}</footer>
 				</blockquote>
 
@@ -38,7 +41,10 @@
 						alt="{{ coin.name }}" />
 
 					<h3>{{ coin.backTitle }}</h3>
-					<q>{{ coin.backDescription }}</q>
+					<br />
+					<P>
+						<q>{{ coin.backDescription }}</q>
+					</P>
 					<footer>
 						@if (coin.ebay !== '') {
 							<b>Ebay:</b>

@@ -54,6 +54,13 @@ const routes: Routes = [
 			),
 	},
 	{
+		path: 'worldcointype/:id',
+		loadComponent: () =>
+			import('./worldcoin/worldcointype/worldcointype.component').then(
+				mod => mod.WorldcointypeComponent
+			),
+	},
+	{
 		path: 'coin/:id',
 		loadComponent: () =>
 			import('./coins/coin/coin.component').then(mod => mod.CoinComponent),

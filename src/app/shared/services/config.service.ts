@@ -49,6 +49,34 @@ export class ConfigService {
 			);
 	}
 
+	getPageDeailsByCountrySettings(
+		database: string,
+		id?: number
+	): Observable<any> {
+		const url = id ? `api/${database}/${id}` : `api/${database}`;
+
+		return this.http
+			.get<any>(url)
+			.pipe(
+				catchError(this.handleError(`Error getting data from ${database}`, []))
+			);
+	}
+
+	getCoinListByCountrySettings(
+		database: string,
+		countryName?: string
+	): Observable<any> {
+		const url = countryName
+			? `api/${database}?countryname=${countryName}`
+			: `api/${database}`;
+
+		return this.http
+			.get<any>(url)
+			.pipe(
+				catchError(this.handleError(`Error getting data from ${database}`, []))
+			);
+	}
+
 	getCoins(database: string, id?: number): Observable<any> {
 		const url = id ? `api/${database}?id=${id}` : `api/${database}`;
 
@@ -58,7 +86,6 @@ export class ConfigService {
 				catchError(this.handleError(`Error getting data from ${database}`, []))
 			);
 	}
-
 	getSettings(database: string, id?: number): Observable<any> {
 		const url = id ? `api/${database}/${id}` : `api/${database}`;
 

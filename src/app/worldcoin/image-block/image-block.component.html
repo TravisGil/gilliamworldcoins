@@ -1,10 +1,9 @@
-<a href="#/cointype/{{ image.type }}-{{ image.id }}" class="col-3">
+<a href="#/worldcointype/{{ country.country }}-{{ country.id }}" class="col-33">
 	<img
-		src="assets/images/coins/type/{{ image.Img }}"
-		width="250px"
-		height="250px"
-		alt="{{ image.Img }}" />
-	<div class="crown-overlay">
-		<span>{{ image.title }}</span>
+		src="assets/images/countryimg/{{ country.Img }}"
+
+		alt="{{ country.Img }}" />
+	<div class="country-overlay">
+		<span>{{ country.name }}</span>
 	</div>
 </a>

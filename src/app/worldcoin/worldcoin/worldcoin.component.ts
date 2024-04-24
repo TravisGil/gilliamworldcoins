@@ -1,27 +1,27 @@
 import { Observable, throwError, catchError } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
 import { ConfigService } from '../../shared/services/config.service';
-import { Image } from '../models/image.model';
+import { Country } from '../models/country.model';
 import { AsyncPipe } from '@angular/common';
 import { ImageBlockComponent } from '../image-block/image-block.component';
 
 @Component({
-	selector: 'app-britishcoin-page',
+	selector: 'app-worldcoin-page',
 	templateUrl: './worldcoin.component.html',
 	standalone: true,
 	imports: [ImageBlockComponent, AsyncPipe],
 })
 export class WorldCoinComponent implements OnInit {
-	images$: Observable<Image[]> = new Observable();
+	Country$: Observable<Country[]> = new Observable();
 
 	constructor(private config: ConfigService) {}
 
 	ngOnInit() {
-		this.getBlockData('cointypeList');
+		this.getBlockData('countrytypeList');
 	}
 
 	getBlockData(database: string) {
-		this.images$ = this.config.getCoinTypeByCountryIDSettings(database, 3).pipe(
+		this.Country$ = this.config.getSettings(database).pipe(
 			catchError(error => {
 				console.error('Error fetching feature data:', error);
 				return throwError(error);

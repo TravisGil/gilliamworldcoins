@@ -1,6 +1,7 @@
 export class Coin {
 	id: number;
 	country: string;
+  countryname: string;
 	type: string;
 	typeid: number;
 	name: string;

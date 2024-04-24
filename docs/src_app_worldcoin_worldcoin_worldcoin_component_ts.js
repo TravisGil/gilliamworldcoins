@@ -19,7 +19,7 @@ __webpack_require__.r(__webpack_exports__);
 
 let ImageBlockComponent = class ImageBlockComponent {
   static #_ = this.propDecorators = {
-    image: [{
+    country: [{
       type: _angular_core__WEBPACK_IMPORTED_MODULE_1__.Input
     }]
   };
@@ -62,13 +62,13 @@ __webpack_require__.r(__webpack_exports__);
 let WorldCoinComponent = class WorldCoinComponent {
   constructor(config) {
     this.config = config;
-    this.images$ = new rxjs__WEBPACK_IMPORTED_MODULE_3__.Observable();
+    this.Country$ = new rxjs__WEBPACK_IMPORTED_MODULE_3__.Observable();
   }
   ngOnInit() {
-    this.getBlockData('cointypeList');
+    this.getBlockData('countrytypeList');
   }
   getBlockData(database) {
-    this.images$ = this.config.getCoinTypeByCountryIDSettings(database, 3).pipe((0,rxjs__WEBPACK_IMPORTED_MODULE_4__.catchError)(error => {
+    this.Country$ = this.config.getSettings(database).pipe((0,rxjs__WEBPACK_IMPORTED_MODULE_4__.catchError)(error => {
       console.error('Error fetching feature data:', error);
       return (0,rxjs__WEBPACK_IMPORTED_MODULE_5__.throwError)(error);
     }));
@@ -78,7 +78,7 @@ let WorldCoinComponent = class WorldCoinComponent {
   }];
 };
 WorldCoinComponent = (0,tslib__WEBPACK_IMPORTED_MODULE_6__.__decorate)([(0,_angular_core__WEBPACK_IMPORTED_MODULE_7__.Component)({
-  selector: 'app-britishcoin-page',
+  selector: 'app-worldcoin-page',
   template: _worldcoin_component_html_ngResource__WEBPACK_IMPORTED_MODULE_0__,
   standalone: true,
   imports: [_image_block_image_block_component__WEBPACK_IMPORTED_MODULE_2__.ImageBlockComponent, _angular_common__WEBPACK_IMPORTED_MODULE_8__.AsyncPipe]
@@ -93,7 +93,7 @@ WorldCoinComponent = (0,tslib__WEBPACK_IMPORTED_MODULE_6__.__decorate)([(0,_angu
   \*****************************************************************************/
 /***/ ((module) => {
 
-module.exports = "<a href=\"#/cointype/{{ image.type }}-{{ image.id }}\" class=\"col-3\">\n\t<img\n\t\tsrc=\"assets/images/coins/type/{{ image.Img }}\"\n\t\twidth=\"250px\"\n\t\theight=\"250px\"\n\t\talt=\"{{ image.Img }}\" />\n\t<div class=\"crown-overlay\">\n\t\t<span>{{ image.title }}</span>\n\t</div>\n</a>\n";
+module.exports = "<a href=\"#/worldcointype/{{ country.country }}-{{ country.id }}\" class=\"col-33\">\n\t<img\n\t\tsrc=\"assets/images/countryimg/{{ country.Img }}\"\n\n\t\talt=\"{{ country.Img }}\" />\n\t<div class=\"country-overlay\">\n\t\t<span>{{ country.name }}</span>\n\t</div>\n</a>\n";
 
 /***/ }),
 
@@ -103,7 +103,7 @@ module.exports = "<a href=\"#/cointype/{{ image.type }}-{{ image.id }}\" class=\
   \*************************************************************************/
 /***/ ((module) => {
 
-module.exports = "<section id=\"crowns\" class=\"scrollto clearfix\">\n\t<div class=\"row clearfix\">\n\t\t<aside id=\"gallery\" class=\"row text-center scrollto clearfix\">\n\t\t\t@for (image of images$ | async; track image; let i = $index) {\n\t\t\t\t<div>\n\t\t\t\t\t<app-image-block [image]=\"image\"></app-image-block>\n\t\t\t\t</div>\n\t\t\t}\n\t\t</aside>\n\t</div>\n</section>\n";
+module.exports = "<section id=\"crowns\" class=\"scrollto\">\n\t<div class=\"row clearfix\">\n\t\t<div class=\"col-3\">\n\t\t\t<div class=\"section-heading\">\n\t\t\t\t<a href=\"javascript:history.back()\">\n\t\t\t\t\t<h3>\n\t\t\t\t\t\t<div class=\"icon\"><i class=\"fa fa-backward fa-1x\"></i> Home</div>\n\t\t\t\t\t</h3>\n\t\t\t\t</a>\n\n\t\t\t\t<h2 class=\"section-title\">Country</h2>\n\t\t\t\t<p class=\"section-subtitle\">\n\t\t\t\t\tVisit and Explore coins from around the world.\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col-2-3\">\n\t\t\t@for (Country of Country$ | async; track Country; let i = $index) {\n\t\t\t\t<div class=\"container\">\n\t\t\t\t\t<app-image-block [country]=\"Country\"></app-image-block>\n\t\t\t\t\t<div>\n\t\t\t\t\t\t<h2 class=\"section-title\">\n\t\t\t\t\t\t\t{{ Country.name }}: {{ Country.title }}\n\t\t\t\t\t\t</h2>\n\t\t\t\t\t\t<p class=\"section-subtitle\">{{ Country.description }}</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<span class=\"spacer\"> &nbsp;</span>\n\t\t\t\t</div>\n\t\t\t}\n\t\t</div>\n\t</div>\n</section>\n";
 
 /***/ })
 

@@ -1,11 +1,33 @@
-<section id="crowns" class="scrollto clearfix">
+<section id="crowns" class="scrollto">
 	<div class="row clearfix">
-		<aside id="gallery" class="row text-center scrollto clearfix">
-			@for (image of images$ | async; track image; let i = $index) {
-				<div>
-					<app-image-block [image]="image"></app-image-block>
+		<div class="col-3">
+			<div class="section-heading">
+				<a href="javascript:history.back()">
+					<h3>
+						<div class="icon"><i class="fa fa-backward fa-1x"></i> Home</div>
+					</h3>
+				</a>
+
+				<h2 class="section-title">Country</h2>
+				<p class="section-subtitle">
+					Visit and Explore coins from around the world.
+				</p>
+			</div>
+		</div>
+
+		<div class="col-2-3">
+			@for (Country of Country$ | async; track Country; let i = $index) {
+				<div class="container">
+					<app-image-block [country]="Country"></app-image-block>
+					<div>
+						<h2 class="section-title">
+							{{ Country.name }}: {{ Country.title }}
+						</h2>
+						<p class="section-subtitle">{{ Country.description }}</p>
+					</div>
+					<span class="spacer"> &nbsp;</span>
 				</div>
 			}
-		</aside>
+		</div>
 	</div>
 </section>
