@@ -3,14 +3,14 @@ import { Component, OnInit } from '@angular/core';
 import { ConfigService } from '../../shared/services/config.service';
 import { Country } from '../models/country.model';
 import { AsyncPipe } from '@angular/common';
-import { CointypeBlockComponent } from '../cointype-block/cointype-block.component';
+import { WorldcointypeBlockComponent } from '../worldcointype-block/worldcointype-block.component';
 import { ActivatedRoute } from '@angular/router';
 import { Coin } from '../models/coin.model';
 
 @Component({
 	selector: 'app-worldcointype',
 	standalone: true,
-	imports: [CointypeBlockComponent, AsyncPipe],
+	imports: [WorldcointypeBlockComponent, AsyncPipe],
 	templateUrl: './worldcointype.component.html',
 })
 export class WorldcointypeComponent implements OnInit {

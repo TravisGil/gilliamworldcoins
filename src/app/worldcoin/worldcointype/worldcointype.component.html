@@ -1,4 +1,4 @@
-<section id="about" class="scrollto">
+<section id="crowns" class="scrollto">
 	<div class="row clearfix">
 		@if (countryPageHeader$ | async; as country) {
 			<div class="col-3">
@@ -15,19 +15,19 @@
 					<p class="section-subtitle">{{ country.description }}</p>
 				</div>
 			</div>
-
-			<div class="col-2-3">
-				@for (crownbl of coinList$ | async; track crownbl; let i = $index) {
-					<div class="container">
-						<app-cointype-block [coinTypeBlock]="crownbl"></app-cointype-block>
-						<div>
-							<h2 class="section-title">{{ crownbl.title }}</h2>
-							<p class="section-subtitle">{{ crownbl.description }}</p>
-						</div>
-						<span class="spacer"> &nbsp;</span>
-					</div>
-				}
-			</div>
 		}
+		<div class="col-2-3">
+			@for (coinbl of coinList$ | async; track coinbl) {
+				<div class="container">
+					<app-worldcointype-block
+						[coinTypeBlock]="coinbl"></app-worldcointype-block>
+					<div>
+						<h2 class="section-title">{{ coinbl.title }}</h2>
+						<p class="section-subtitle">{{ coinbl.description }}</p>
+					</div>
+					<span class="spacer"> &nbsp;</span>
+				</div>
+			}
+		</div>
 	</div>
 </section>
