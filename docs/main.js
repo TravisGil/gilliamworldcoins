@@ -1053,7 +1053,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'An original crown from the reign of Charles II .',
       bottomContent: 'An original crown from the reign of Charles II .',
       price: '$1,400',
-      '': ''
+      ebay: ''
     }, {
       id: 2,
       country: 'United Kingdom',
@@ -1073,7 +1073,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Qvarto edge Crowned Cruciform shields.',
       bottomContent: 'Qvarto edge, Crowned Cruciform shields.',
       price: '$1,200',
-      '': ''
+      ebay: ''
     }, {
       id: 3,
       country: 'United Kingdom',
@@ -1093,7 +1093,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'First harp in left shield',
       bottomContent: 'First harp in left shield',
       price: '$1,400',
-      '': ''
+      ebay: ''
     }, {
       id: 4,
       country: 'United Kingdom',
@@ -1113,7 +1113,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned shields cruciform six strings to Irish harp.',
       bottomContent: 'Crowned shields cruciform, six strings to Irish harp.',
       price: '$800',
-      '': ''
+      ebay: ''
     }, {
       id: 5,
       country: 'United Kingdom',
@@ -1133,7 +1133,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'One of the first coins to feature the iconic St George and the dragon design.',
       bottomContent: 'One of the first coins to feature the iconic St George and the dragon design.',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 6,
       country: 'United Kingdom',
@@ -1153,7 +1153,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Shame on him who thinks evil of it.',
       bottomContent: 'GEORGE',
       price: '$200',
-      '': ''
+      ebay: ''
     }, {
       id: 7,
       country: 'United Kingdom',
@@ -1173,7 +1173,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Reverse by the legendary Benedetto Pistrucc.',
       bottomContent: 'reverse by the legendary Benedetto Pistrucc.',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 8,
       country: 'United Kingdom',
@@ -1193,7 +1193,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned arms within branches',
       bottomContent: 'Crowned arms within branches',
       price: '$200',
-      '': ''
+      ebay: ''
     }, {
       id: 9,
       country: 'United Kingdom',
@@ -1213,7 +1213,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The reverse though the crowned cruciform shields motif is the work of Scottish artist William Wyon.',
       bottomContent: 'Just 8,000 Gothic crowns were used in 1847 and it remains one of the most beautiful and rarest coins in the world.',
       price: '$7,200',
-      '': ''
+      ebay: ''
     }, {
       id: 10,
       country: 'United Kingdom',
@@ -1233,7 +1233,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Featuring the traditional George and Dragon',
       bottomContent: 'Victoria',
       price: '$200',
-      '': ''
+      ebay: ''
     }, {
       id: 11,
       country: 'United Kingdom',
@@ -1253,7 +1253,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Featuring the traditional George and Dragon',
       bottomContent: 'Featuring the traditional George and Dragon',
       price: '$200',
-      '': ''
+      ebay: ''
     }, {
       id: 12,
       country: 'United Kingdom',
@@ -1273,7 +1273,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Coronation day was set for 26th June 1902',
       bottomContent: 'EDWARD',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 13,
       country: 'United Kingdom',
@@ -1293,7 +1293,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A large royal crown surrounded by a wreath of shamrocks with roses and thistles.',
       bottomContent: 'GEORGE',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 14,
       country: 'United Kingdom',
@@ -1313,7 +1313,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Stylised St George and dragon.',
       bottomContent: 'GEORGE',
       price: '$300',
-      '': ''
+      ebay: ''
     }, {
       id: 15,
       country: 'United Kingdom',
@@ -1333,7 +1333,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The engravers initials K.G. appear at either side of the shield between the animals legs.',
       bottomContent: 'The engravers initials K.G. appear at either side of the shield, between the animals legs.',
       price: '$150',
-      '': ''
+      ebay: ''
     }, {
       id: 17,
       country: 'United Kingdom',
@@ -1353,7 +1353,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The coronation of Queen Elizabeth II',
       bottomContent: 'The coronation of Queen Elizabeth II',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 18,
       country: 'United Kingdom',
@@ -1373,7 +1373,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'DEI GRATIA REGINA F D. FIVE SHILLINGS',
       bottomContent: 'DEI GRATIA REGINA F D. FIVE SHILLINGS',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 19,
       country: 'United Kingdom',
@@ -1393,7 +1393,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Portrait of Churchill.',
       bottomContent: 'Portrait of Churchill.',
       price: '$10',
-      '': ''
+      ebay: ''
     }, {
       id: 20,
       country: 'United Kingdom',
@@ -1413,7 +1413,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Silver Jubilee of Her Majesty Queen Elizabeth II.',
       bottomContent: 'Silver Jubilee of Her Majesty, Queen Elizabeth II.',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 21,
       country: 'United Kingdom',
@@ -1433,7 +1433,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The Royal Arms',
       bottomContent: 'The Royal Arms',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 22,
       country: 'United Kingdom',
@@ -1453,7 +1453,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Great Britain Silver Britannia.',
       bottomContent: 'Great Britain Silver Britannia.',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 23,
       country: 'United Kingdom',
@@ -1473,7 +1473,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Very attractive original coin.',
       bottomContent: 'William & Mary',
       price: '$500',
-      '': ''
+      ebay: ''
     }, {
       id: 24,
       country: 'United Kingdom',
@@ -1493,7 +1493,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around cental Nassau lion divided date above legend around.',
       bottomContent: 'William III',
       price: '$500',
-      '': ''
+      ebay: ''
     }, {
       id: 25,
       country: 'United Kingdom',
@@ -1513,7 +1513,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 26,
       country: 'United Kingdom',
@@ -1533,7 +1533,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'George II',
       price: '$850',
-      '': ''
+      ebay: ''
     }, {
       id: 27,
       country: 'United Kingdom',
@@ -1553,7 +1553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned and quartered ornate shield',
       bottomContent: 'George III',
       price: '$300',
-      '': ''
+      ebay: ''
     }, {
       id: 28,
       country: 'United Kingdom',
@@ -1573,7 +1573,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned and quartered ornate shield',
       bottomContent: 'George III',
       price: '$300',
-      '': ''
+      ebay: ''
     }, {
       id: 29,
       country: 'United Kingdom',
@@ -1593,7 +1593,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'George IIII',
       price: '$300',
-      '': ''
+      ebay: ''
     }, {
       id: 30,
       country: 'United Kingdom',
@@ -1613,7 +1613,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'George IV',
       price: '$300',
-      '': ''
+      ebay: ''
     }, {
       id: 31,
       country: 'United Kingdom',
@@ -1633,7 +1633,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'King William IIII',
       price: '$300',
-      '': ''
+      ebay: ''
     }, {
       id: 32,
       country: 'United Kingdom',
@@ -1653,7 +1653,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within olive wreath legend around national flower emblems below.',
       bottomContent: 'Queen Victoria',
       price: '$250',
-      '': ''
+      ebay: ''
     }, {
       id: 33,
       country: 'United Kingdom',
@@ -1673,7 +1673,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within garter and collar legend around divided date below.',
       bottomContent: 'Queen Victoria',
       price: '$250',
-      '': ''
+      ebay: ''
     }, {
       id: 34,
       country: 'United Kingdom',
@@ -1693,7 +1693,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Silver Half Crown',
       bottomContent: 'Queen Victoria',
       price: '$250',
-      '': ''
+      ebay: ''
     }, {
       id: 35,
       country: 'United Kingdom',
@@ -1713,7 +1713,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within Garter legend around.',
       bottomContent: 'Edward VII',
       price: '$200',
-      '': ''
+      ebay: ''
     }, {
       id: 36,
       country: 'United Kingdom',
@@ -1733,7 +1733,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within Garter band legend around.',
       bottomContent: 'George V',
       price: '$150',
-      '': ''
+      ebay: ''
     }, {
       id: 37,
       country: 'United Kingdom',
@@ -1753,7 +1753,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within Garter band legend around.',
       bottomContent: 'George V',
       price: '$150',
-      '': ''
+      ebay: ''
     }, {
       id: 38,
       country: 'United Kingdom',
@@ -1773,7 +1773,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Quartered shield of arms flanked by crowned royal cyphers legend above denomination.',
       bottomContent: 'George VI',
       price: '$100',
-      '': ''
+      ebay: ''
     }, {
       id: 39,
       country: 'United Kingdom',
@@ -1793,7 +1793,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 40,
       country: 'United Kingdom',
@@ -1813,7 +1813,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 41,
       country: 'United Kingdom',
@@ -1833,7 +1833,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 42,
       country: 'United Kingdom',
@@ -1853,7 +1853,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 43,
       country: 'United Kingdom',
@@ -1873,7 +1873,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 44,
       country: 'United Kingdom',
@@ -1893,7 +1893,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 45,
       country: 'United Kingdom',
@@ -1913,7 +1913,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 46,
       country: 'United Kingdom',
@@ -1933,7 +1933,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 47,
       country: 'United Kingdom',
@@ -1953,7 +1953,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 48,
       country: 'United Kingdom',
@@ -1973,7 +1973,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown legend above',
       bottomContent: 'George V',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 49,
       country: 'United Kingdom',
@@ -1993,7 +1993,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown legend above',
       bottomContent: 'George V',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 50,
       country: 'United Kingdom',
@@ -2013,7 +2013,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown legend above',
       bottomContent: 'George V',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 51,
       country: 'United Kingdom',
@@ -2033,7 +2033,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown dividing date.',
       bottomContent: 'Edward VII',
       price: '$20',
-      '': ''
+      ebay: ''
     }, {
       id: 52,
       country: 'United Kingdom',
@@ -2053,7 +2053,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned shields of arms with national flower emblems between all within Garter.',
       bottomContent: 'Queen Victoria',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 53,
       country: 'United Kingdom',
@@ -2073,7 +2073,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned Royal shield within Garter divided date below.',
       bottomContent: 'Queen Victoria',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 54,
       country: 'United Kingdom',
@@ -2093,7 +2093,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned Royal shield within Garter divided date below.',
       bottomContent: 'Queen Victoria',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 55,
       country: 'United Kingdom',
@@ -2113,7 +2113,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crown above denomination within wreath',
       bottomContent: 'Queen Victoria',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 56,
       country: 'United Kingdom',
@@ -2133,7 +2133,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crown above denomination within wreath',
       bottomContent: 'Queen Victoria',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 57,
       country: 'United Kingdom',
@@ -2153,7 +2153,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George IIII',
       price: '$160',
-      '': ''
+      ebay: ''
     }, {
       id: 58,
       country: 'United Kingdom',
@@ -2173,7 +2173,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown legend around national flower emblems below.',
       bottomContent: 'George IV',
       price: '$140',
-      '': ''
+      ebay: ''
     }, {
       id: 59,
       country: 'United Kingdom',
@@ -2193,7 +2193,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown legend around national flower emblems below.',
       bottomContent: 'George IV',
       price: '$140',
-      '': ''
+      ebay: ''
     }, {
       id: 60,
       country: 'United Kingdom',
@@ -2213,7 +2213,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George IIII',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 61,
       country: 'United Kingdom',
@@ -2233,7 +2233,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George IIII',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 62,
       country: 'United Kingdom',
@@ -2253,7 +2253,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 63,
       country: 'United Kingdom',
@@ -2273,7 +2273,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 64,
       country: 'United Kingdom',
@@ -2293,7 +2293,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 65,
       country: 'United Kingdom',
@@ -2313,7 +2313,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 66,
       country: 'United Kingdom',
@@ -2333,7 +2333,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 67,
       country: 'United Kingdom',
@@ -2353,7 +2353,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'George II',
       price: '$250',
-      '': ''
+      ebay: ''
     }, {
       id: 68,
       country: 'United Kingdom',
@@ -2373,7 +2373,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'George II',
       price: '$250',
-      '': ''
+      ebay: ''
     }, {
       id: 69,
       country: 'United Kingdom',
@@ -2393,7 +2393,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Duke of Brunswick and Lueneburg Arch Treasurer and Prince Elector of the Holy Roman Empire',
       bottomContent: 'George I',
       price: '$600',
-      '': ''
+      ebay: ''
     }, {
       id: 70,
       country: 'United Kingdom',
@@ -2413,7 +2413,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
       price: '$500',
-      '': ''
+      ebay: ''
     }, {
       id: 71,
       country: 'United Kingdom',
@@ -2433,7 +2433,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
       price: '$500',
-      '': ''
+      ebay: ''
     }, {
       id: 72,
       country: 'United Kingdom',
@@ -2453,7 +2453,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
       price: '$500',
-      '': ''
+      ebay: ''
     }, {
       id: 73,
       country: 'United Kingdom',
@@ -2473,7 +2473,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Magnae Britanniae Franciae Et Hiberniae Regina',
       bottomContent: 'Queen Anne',
       price: '$500',
-      '': ''
+      ebay: ''
     }, {
       id: 74,
       country: 'United Kingdom',
@@ -2493,7 +2493,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The Reverse is four crowned shields bearing the arms of England Scotland France and Ireland arranged in a cross. Star of the Garter at the centre.',
       bottomContent: 'King James II',
       price: '$600',
-      '': ''
+      ebay: ''
     }, {
       id: 75,
       country: 'United Kingdom',
@@ -2513,7 +2513,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
       bottomContent: 'King Charles II',
       price: '$800',
-      '': ''
+      ebay: ''
     }, {
       id: 76,
       country: 'United Kingdom',
@@ -2533,7 +2533,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Queen ELIZABETH II',
       bottomContent: 'Queen ELIZABETH II',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 77,
       country: 'United Kingdom',
@@ -2553,7 +2553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
       bottomContent: 'Queen Victoria',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 78,
       country: 'United Kingdom',
@@ -2573,7 +2573,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
       bottomContent: 'Queen Victoria',
       price: '$400',
-      '': ''
+      ebay: ''
     }, {
       id: 79,
       country: 'United Kingdom',
@@ -2593,7 +2593,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields of England Scotland and Ireland sceptres with national flower emblems in angles divided date above legend around.',
       bottomContent: 'Queen Victoria',
       price: '$150',
-      '': ''
+      ebay: ''
     }, {
       id: 80,
       country: 'United Kingdom',
@@ -2613,7 +2613,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crown above shields of England Scotland and Ireland with national flower emblems between all within Garter with divided date below and legend around.',
       bottomContent: 'Queen Victoria',
       price: '$150',
-      '': ''
+      ebay: ''
     }, {
       id: 81,
       country: 'United Kingdom',
@@ -2633,7 +2633,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left legend around date below.",
       bottomContent: 'Edward VII',
       price: '$100',
-      '': ''
+      ebay: ''
     }, {
       id: 82,
       country: 'United Kingdom',
@@ -2653,7 +2653,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.',
       bottomContent: 'George V',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 83,
       country: 'United Kingdom',
@@ -2673,7 +2673,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.',
       bottomContent: 'George V',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 84,
       country: 'United Kingdom',
@@ -2693,7 +2693,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Coat of arms',
       bottomContent: 'George VI',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 85,
       country: 'United Kingdom',
@@ -2713,7 +2713,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Coat of arms',
       bottomContent: 'George VI',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 86,
       country: 'United Kingdom',
@@ -2733,7 +2733,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'floral design',
       bottomContent: 'Queen ELIZABETH II',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 87,
       country: 'United Kingdom',
@@ -2753,7 +2753,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'floral design',
       bottomContent: 'Queen ELIZABETH II',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 88,
       country: 'United Kingdom',
@@ -2773,7 +2773,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'floral design',
       bottomContent: 'Queen ELIZABETH II',
       price: '$40',
-      '': ''
+      ebay: ''
     }, {
       id: 89,
       country: 'United States',
@@ -2793,7 +2793,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 90,
       country: 'United States',
@@ -2813,7 +2813,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 91,
       country: 'United States',
@@ -2833,7 +2833,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 92,
       country: 'United States',
@@ -2853,7 +2853,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 93,
       country: 'United States',
@@ -2873,7 +2873,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       price: '$60',
-      '': ''
+      ebay: ''
     }, {
       id: 94,
       country: 'United Kingdom',
@@ -2893,7 +2893,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
       bottomContent: 'King Charles II',
       price: '$600',
-      '': ''
+      ebay: ''
     }, {
       id: 95,
       country: 'United Kingdom',
@@ -2913,7 +2913,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central lion rampant divided date above legend around.',
       bottomContent: '',
       price: '$600',
-      '': ''
+      ebay: ''
     }, {
       id: 96,
       country: 'United Kingdom',
@@ -2933,7 +2933,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
       price: 'N/A',
-      '': ''
+      ebay: ''
     }, {
       id: 97,
       country: 'United Kingdom',
@@ -2953,7 +2953,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'King George I',
       price: '$600',
-      '': ''
+      ebay: ''
     }, {
       id: 98,
       country: 'United Kingdom',
@@ -2973,7 +2973,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'King George II',
       price: '$150',
-      '': ''
+      ebay: ''
     }, {
       id: 99,
       country: 'United Kingdom',
@@ -2993,7 +2993,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Cruciform shields around central Garter star with crowns in angles legend around date below.',
       bottomContent: 'King George III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 100,
       country: 'United Kingdom',
@@ -3013,7 +3013,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       bottomContent: 'King George III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 101,
       country: 'United Kingdom',
@@ -3033,7 +3033,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Ornate garnished crowned quartered shield of arms overlaid with second smaller crowned shield national flower emblems around date below',
       bottomContent: 'King George IIII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 102,
       country: 'United Kingdom',
@@ -3053,7 +3053,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Square topped crowned quartered shield of arms overlaid with second smaller crowned shield Garter with legend around date below.',
       bottomContent: 'King George IIII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 103,
       country: 'United Kingdom',
@@ -3073,7 +3073,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms overlaid with smaller crowned shield legend around on garter.',
       bottomContent: 'King George IIII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 104,
       country: 'United Kingdom',
@@ -3093,7 +3093,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within Garter legend around divided date below.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 105,
       country: 'United Kingdom',
@@ -3113,7 +3113,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within Garter legend around divided date below.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 106,
       country: 'United Kingdom',
@@ -3133,7 +3133,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned quartered shield of arms within Garter legend around divided date below.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 107,
       country: 'United Kingdom',
@@ -3153,7 +3153,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination within wreath date below.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 108,
       country: 'United Kingdom',
@@ -3173,7 +3173,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination within wreath (olive sprig on left oak on right) date below.',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 109,
       country: 'United Kingdom',
@@ -3193,7 +3193,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned lion passant atop crown dividing date within circle legend above denomination below.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 110,
       country: 'United Kingdom',
@@ -3213,7 +3213,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Three oak sprigs with six acorns denomination above date below.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 111,
       country: 'United Kingdom',
@@ -3233,7 +3233,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned royal cypher dividing date legend above denomination below.',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 112,
       country: 'United Kingdom',
@@ -3253,7 +3253,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned royal cypher dividing date legend above denomination below.',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 113,
       country: 'United Kingdom',
@@ -3273,7 +3273,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned royal cypher dividing date legend above denomination below.',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 114,
       country: 'United Kingdom',
@@ -3293,7 +3293,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Tudor rose shamrock thistle and leek aligned in a cross legend above denomination and date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 115,
       country: 'United Kingdom',
@@ -3313,7 +3313,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination divides date within oak wreath.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 116,
       country: 'United Kingdom',
@@ -3333,7 +3333,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination divides date within oak wreath.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 117,
       country: 'United Kingdom',
@@ -3353,7 +3353,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination divides date within oak sprigs.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 118,
       country: 'United Kingdom',
@@ -3373,7 +3373,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination dividing date within oak wreath.',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 119,
       country: 'United Kingdom',
@@ -3393,7 +3393,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination dividing date within oak wreath.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 120,
       country: 'United Kingdom',
@@ -3413,7 +3413,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Three oak sprigs with three acorns denomination above date below.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 121,
       country: 'United Kingdom',
@@ -3433,7 +3433,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "Three-headed thrift'plant denomination above date below.",
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 122,
       country: 'United Kingdom',
@@ -3453,7 +3453,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "Three-headed thrift'plant denomination above date below.",
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 123,
       country: 'United Kingdom',
@@ -3473,7 +3473,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 124,
       country: 'United Kingdom',
@@ -3493,7 +3493,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 125,
       country: 'United Kingdom',
@@ -3513,7 +3513,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 126,
       country: 'United Kingdom',
@@ -3533,7 +3533,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 127,
       country: 'United Kingdom',
@@ -3553,7 +3553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 128,
       country: 'United Kingdom',
@@ -3573,7 +3573,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 129,
       country: 'United Kingdom',
@@ -3593,7 +3593,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 130,
       country: 'United Kingdom',
@@ -3613,7 +3613,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 131,
       country: 'United Kingdom',
@@ -3633,7 +3633,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 132,
       country: 'United Kingdom',
@@ -3653,7 +3653,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 133,
       country: 'United Kingdom',
@@ -3673,7 +3673,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 134,
       country: 'United Kingdom',
@@ -3693,7 +3693,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 135,
       country: 'United Kingdom',
@@ -3713,7 +3713,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 136,
       country: 'United Kingdom',
@@ -3733,7 +3733,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 137,
       country: 'United Kingdom',
@@ -3753,7 +3753,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 138,
       country: 'United Kingdom',
@@ -3773,7 +3773,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 139,
       country: 'United Kingdom',
@@ -3793,7 +3793,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'King William III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 140,
       country: 'United Kingdom',
@@ -3813,7 +3813,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 141,
       country: 'United Kingdom',
@@ -3833,7 +3833,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 142,
       country: 'United Kingdom',
@@ -3853,7 +3853,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 143,
       country: 'United Kingdom',
@@ -3873,7 +3873,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 144,
       country: 'United Kingdom',
@@ -3893,7 +3893,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 145,
       country: 'United Kingdom',
@@ -3913,7 +3913,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 146,
       country: 'United Kingdom',
@@ -3933,7 +3933,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 147,
       country: 'United Kingdom',
@@ -3953,7 +3953,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 148,
       country: 'United Kingdom',
@@ -3973,7 +3973,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 149,
       country: 'United Kingdom',
@@ -3993,7 +3993,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 150,
       country: 'United Kingdom',
@@ -4013,7 +4013,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 151,
       country: 'United Kingdom',
@@ -4033,7 +4033,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 152,
       country: 'United Kingdom',
@@ -4053,7 +4053,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 153,
       country: 'United Kingdom',
@@ -4073,7 +4073,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 154,
       country: 'United Kingdom',
@@ -4093,7 +4093,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 155,
       country: 'United Kingdom',
@@ -4113,7 +4113,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 156,
       country: 'United Kingdom',
@@ -4133,7 +4133,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 157,
       country: 'United Kingdom',
@@ -4153,7 +4153,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 158,
       country: 'United Kingdom',
@@ -4173,7 +4173,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 159,
       country: 'United Kingdom',
@@ -4193,7 +4193,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 160,
       country: 'United Kingdom',
@@ -4213,7 +4213,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 161,
       country: 'United Kingdom',
@@ -4233,7 +4233,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia left with olive branch in raised right hand spear in left shield bearing the Union flag resting at left legend around date in exergue.',
       bottomContent: 'William and Mary',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 162,
       country: 'United Kingdom',
@@ -4253,7 +4253,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 163,
       country: 'United Kingdom',
@@ -4273,7 +4273,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 164,
       country: 'United Kingdom',
@@ -4293,7 +4293,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 165,
       country: 'United Kingdom',
@@ -4313,7 +4313,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 166,
       country: 'United Kingdom',
@@ -4333,7 +4333,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'King George IIII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 167,
       country: 'United Kingdom',
@@ -4353,7 +4353,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'King William III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 168,
       country: 'United Kingdom',
@@ -4373,7 +4373,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 169,
       country: 'United Kingdom',
@@ -4393,7 +4393,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 170,
       country: 'United Kingdom',
@@ -4413,7 +4413,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 171,
       country: 'United Kingdom',
@@ -4433,7 +4433,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 172,
       country: 'United Kingdom',
@@ -4453,7 +4453,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 173,
       country: 'United Kingdom',
@@ -4473,7 +4473,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 174,
       country: 'United Kingdom',
@@ -4493,7 +4493,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The Golden Hind',
       bottomContent: '',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 175,
       country: 'United Kingdom',
@@ -4513,7 +4513,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Three-masted ship sailing left denomination above date below.',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 176,
       country: 'United Kingdom',
@@ -4533,7 +4533,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing left trident in left hand shield with Union flag resting on left olive branch in raised right hand legend above sea behind with ship on left.',
       bottomContent: 'King George III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 177,
       country: 'United Kingdom',
@@ -4553,7 +4553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right legend around national flower emblems in exergue.',
       bottomContent: 'King William III',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 178,
       country: 'United Kingdom',
@@ -4573,7 +4573,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above date in exergue sea behind with lighthouse on left and ship on right.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 179,
       country: 'United Kingdom',
@@ -4593,7 +4593,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia right trident in left hand shield with Union flag in right hand denomination above sea behind date in exergue.',
       bottomContent: 'Queen Victoria',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 180,
       country: 'United Kingdom',
@@ -4613,7 +4613,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 181,
       country: 'United Kingdom',
@@ -4633,7 +4633,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 182,
       country: 'United Kingdom',
@@ -4653,7 +4653,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 183,
       country: 'United Kingdom',
@@ -4673,7 +4673,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 184,
       country: 'United Kingdom',
@@ -4693,7 +4693,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George V',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 185,
       country: 'United Kingdom',
@@ -4713,7 +4713,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 186,
       country: 'United Kingdom',
@@ -4733,7 +4733,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 187,
       country: 'United Kingdom',
@@ -4753,7 +4753,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 188,
       country: 'United Kingdom',
@@ -4773,7 +4773,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 189,
       country: 'United Kingdom',
@@ -4793,7 +4793,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 190,
       country: 'United Kingdom',
@@ -4813,7 +4813,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'Queen Elizabeth II',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 191,
       country: 'United Kingdom',
@@ -4833,7 +4833,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King Edward VII',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 192,
       country: 'Austria',
@@ -4853,7 +4853,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The Austrian escutcheon the face value and two laurel branchesBinomial Name: Laurus nobilis',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 193,
       country: 'United Kingdom',
@@ -4873,7 +4873,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'Queen Victoria',
       price: 500,
-      '': ''
+      ebay: ''
     }, {
       id: 194,
       country: 'United Kingdom',
@@ -4893,7 +4893,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'Queen Victoria',
       price: 500,
-      '': ''
+      ebay: ''
     }, {
       id: 195,
       country: 'United Kingdom',
@@ -4913,7 +4913,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'Queen Victoria',
       price: 500,
-      '': ''
+      ebay: ''
     }, {
       id: 196,
       country: 'United Kingdom',
@@ -4933,7 +4933,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'King Edward VII',
       price: 450,
-      '': ''
+      ebay: ''
     }, {
       id: 197,
       country: 'United Kingdom',
@@ -4953,7 +4953,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'King George V',
       price: 450,
-      '': ''
+      ebay: ''
     }, {
       id: 198,
       country: 'United Kingdom',
@@ -4973,7 +4973,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'King George VI',
       price: 450,
-      '': ''
+      ebay: ''
     }, {
       id: 199,
       country: 'Austria',
@@ -4993,7 +4993,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Three edelweiss flowers (Leontopodium alpinum or Leontopodium nivale ssp.) and face value in words surrounding',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 200,
       country: 'Austria',
@@ -5013,7 +5013,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Woman head wearing the traditional Lower Austria hat',
       bottomContent: 'austria',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 201,
       country: 'Austria',
@@ -5033,7 +5033,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "The face value divides the date and a gentian flower or Stemless gentian flower (Binomial Name: Gentiana acaulis) partially inside the number '50'",
       bottomContent: 'austria',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 202,
       country: 'Belgium',
@@ -5053,7 +5053,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Spray of leaves to left of center hole denomination to right',
       bottomContent: 'belgium',
       price: 25,
-      '': ''
+      ebay: ''
     }, {
       id: 203,
       country: 'Belgium',
@@ -5073,7 +5073,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Plant divides denomination Crown at top legend in Dutch',
       bottomContent: 'belgium',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 204,
       country: 'CCCP',
@@ -5093,7 +5093,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 205,
       country: 'CCCP',
@@ -5113,7 +5113,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 206,
       country: 'CCCP',
@@ -5133,7 +5133,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 207,
       country: 'CCCP',
@@ -5153,7 +5153,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 208,
       country: 'Denmark',
@@ -5173,7 +5173,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned royal arms divide date value above',
       bottomContent: 'denmark',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 209,
       country: 'Norway',
@@ -5193,7 +5193,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned Norwegian coat of arms with the Norwegian lion',
       bottomContent: 'norway',
       price: 40,
-      '': ''
+      ebay: ''
     }, {
       id: 210,
       country: 'Norway',
@@ -5213,7 +5213,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Den norske løve.',
       bottomContent: 'norway',
       price: 25,
-      '': ''
+      ebay: ''
     }, {
       id: 211,
       country: 'Norway',
@@ -5233,7 +5233,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
       price: 30,
-      '': ''
+      ebay: ''
     }, {
       id: 212,
       country: 'Norway',
@@ -5253,7 +5253,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 213,
       country: 'Norway',
@@ -5273,7 +5273,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 214,
       country: 'Norway',
@@ -5293,7 +5293,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 215,
       country: 'Norway',
@@ -5313,7 +5313,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned collar chain of the Royal Norwegian Order of Saint Olav around a hole.',
       bottomContent: 'norway',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 216,
       country: 'Norway',
@@ -5333,7 +5333,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Central hole. Date below with value at bottom an ornamental rose either side crown at top.',
       bottomContent: 'norway',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 217,
       country: 'Norway',
@@ -5353,7 +5353,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date below two ornamental roses flank centre hole crown above',
       bottomContent: 'norway',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 218,
       country: 'Norway',
@@ -5373,7 +5373,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'All for Norway',
       bottomContent: 'norway',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 219,
       country: 'Norway',
@@ -5393,7 +5393,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Kingdom of Norway',
       bottomContent: 'norway',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 220,
       country: 'Poland',
@@ -5413,7 +5413,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A Stylized flower on either side of Denomination',
       bottomContent: 'poland',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 221,
       country: 'France',
@@ -5433,7 +5433,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date with mintmark on left.',
       bottomContent: 'france',
       price: 30,
-      '': ''
+      ebay: ''
     }, {
       id: 222,
       country: 'France',
@@ -5453,7 +5453,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Rooster facing right laurel branch value year of production pattern around edge.',
       bottomContent: 'france',
       price: 35,
-      '': ''
+      ebay: ''
     }, {
       id: 223,
       country: 'France',
@@ -5473,7 +5473,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Denomination above date inscription below grain columns flank.',
       bottomContent: 'france',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 224,
       country: 'France',
@@ -5493,7 +5493,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value encompassed on either side by Cornucopia (or horn of plenty overflowing with produce flowers or nuts).',
       bottomContent: 'france',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 225,
       country: 'France',
@@ -5513,7 +5513,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Denomination in center lettering surrounding',
       bottomContent: 'france',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 226,
       country: 'France',
@@ -5533,7 +5533,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Denomination in center lettering surrounding',
       bottomContent: 'france',
       price: 40,
-      '': ''
+      ebay: ''
     }, {
       id: 227,
       country: 'France',
@@ -5553,7 +5553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A plant below the hole date at the bottom. Lettering above the hole value divided by hole date at the bottom and the privy mark on the left below the 1',
       bottomContent: 'france',
       price: 40,
-      '': ''
+      ebay: ''
     }, {
       id: 228,
       country: 'Spain',
@@ -5573,7 +5573,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The Spanish coat of arms with the eagle of Saint John and the year in the star to the left with the denomination at the top',
       bottomContent: 'spain',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 229,
       country: 'Sweden',
@@ -5593,7 +5593,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned coat of arms divides date',
       bottomContent: 'sweden',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 230,
       country: 'Sweden',
@@ -5613,7 +5613,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value with date below and name of the country above. At sides of value there are: the mintmark at left and at right there is the first letter in the surname of the Governor of the Riksbank.',
       bottomContent: 'sweden',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 231,
       country: 'Sweden',
@@ -5633,7 +5633,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The Three crowns of Sweden divides value in letters at base of lower crown. Above the crowns there is the value in number and below the mintmark of Stockholm mint.',
       bottomContent: 'sweden',
       price: '',
-      '': ''
+      ebay: ''
     }, {
       id: 232,
       country: 'Switzerland',
@@ -5653,7 +5653,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value within wreath',
       bottomContent: 'switzerland',
       price: 75,
-      '': ''
+      ebay: ''
     }, {
       id: 233,
       country: 'Yugoslavia',
@@ -5673,7 +5673,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seven stars above value the date on the left and right sides.',
       bottomContent: 'yugoslavia',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 234,
       country: 'Yugoslavia',
@@ -5693,7 +5693,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seven stars above value the date on the left and right sides.',
       bottomContent: 'yugoslavia',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 235,
       country: 'Switzerland',
@@ -5713,7 +5713,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 236,
       country: 'Switzerland',
@@ -5733,7 +5733,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 237,
       country: 'Switzerland',
@@ -5753,7 +5753,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 238,
       country: 'Switzerland',
@@ -5773,7 +5773,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 239,
       country: 'Switzerland',
@@ -5793,7 +5793,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 240,
       country: 'Switzerland',
@@ -5813,7 +5813,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 241,
       country: 'Switzerland',
@@ -5833,7 +5833,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Wreath with two laurel branches tied with a ribbon below.',
       bottomContent: 'switzerland',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 242,
       country: 'Switzerland',
@@ -5853,7 +5853,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Wreath with two laurel branches tied with a ribbon below.',
       bottomContent: 'switzerland',
       price: 30,
-      '': ''
+      ebay: ''
     }, {
       id: 243,
       country: 'Switzerland',
@@ -5873,7 +5873,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value within wreath',
       bottomContent: 'switzerland',
       price: 100,
-      '': ''
+      ebay: ''
     }, {
       id: 244,
       country: 'Switzerland',
@@ -5893,7 +5893,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value within wreath',
       bottomContent: 'switzerland',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 245,
       country: 'Switzerland',
@@ -5913,7 +5913,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Coat of arms of Switzerland on square shield.',
       bottomContent: 'switzerland',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 246,
       country: 'Switzerland',
@@ -5933,7 +5933,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Wreath formed of oak and alpine rose branches tied with a ribbon below.',
       bottomContent: 'switzerland',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 247,
       country: 'Denmark',
@@ -5953,7 +5953,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value country name mint mark initials N-S',
       bottomContent: 'denmark',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 248,
       country: 'Italy',
@@ -5973,7 +5973,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date of the coin within a hexagon surrounded by a laurel wreath and the mintmark below the date',
       bottomContent: 'italy',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 249,
       country: 'Italy',
@@ -5993,7 +5993,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A honeybee on a flower with the value on the bottom right the date on the bottom and the mintmark to the left',
       bottomContent: 'italy',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 250,
       country: 'Italy',
@@ -6013,7 +6013,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Large central ear of wheat divides value with the date to the lower right and the mintmark to the bottom right of the wheat.',
       bottomContent: 'italy',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 251,
       country: 'Italy',
@@ -6033,7 +6033,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Denomination inside a central beaded circle and lettering around outside of circle',
       bottomContent: 'italy',
       price: 90,
-      '': ''
+      ebay: ''
     }, {
       id: 252,
       country: 'Italy',
@@ -6053,7 +6053,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: "Savoia coat of arms decorated with the Collare dell'Annunziata both within a laurel wreath.Below value of the coin and mintmark.",
       bottomContent: 'italy',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 253,
       country: 'Italy',
@@ -6073,7 +6073,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date within two branches one of laurel and the other of oak with the star of Italy above and the mintmark below',
       bottomContent: 'italy',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 254,
       country: 'Italy',
@@ -6093,7 +6093,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Representation of the god Vulcan beating iron on an anvil. Date left denomination right',
       bottomContent: 'italy',
       price: 30,
-      '': ''
+      ebay: ''
     }, {
       id: 255,
       country: 'Italy',
@@ -6113,7 +6113,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Two ears of wheat dividing by value',
       bottomContent: 'italy',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 256,
       country: 'Italy',
@@ -6133,7 +6133,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Dolphin and value',
       bottomContent: 'italy',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 257,
       country: 'Italy',
@@ -6153,7 +6153,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Side view of an eagle with raised wings holding a fasces with an axe in its claws date and year of Fascist Era on the left near the tail. Below the fasces in exergue the Savoy shield divides the value and mintmark at sides.',
       bottomContent: 'italy',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 258,
       country: 'Italy',
@@ -6173,7 +6173,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Bust left within wreath',
       bottomContent: 'italy',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 259,
       country: 'Italy',
@@ -6193,7 +6193,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Goddess Minerva facing left reaching an olive tree with her raised right hand while in the left holds a long spear. Value at left of olive trunk; mintmark at right of the Goddess. Date below in exergu',
       bottomContent: 'italy',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 260,
       country: 'Italy',
@@ -6213,7 +6213,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Eagle in profile with outstretched wings and head left has fasces with axe in its claws. The eagle is encircled by a laurel wreath made of two branches. Where the branches meet together at base is the Shield of Savoy which divides the value below. The date is on the left of the value while the mint mark and the year in the Fascist Era are at right.',
       bottomContent: 'italy',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 261,
       country: 'Italy',
@@ -6233,7 +6233,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value and date within two branches one of laurel and the other of oak and the star of Italy above and the sign of the mint below',
       bottomContent: 'italy',
       price: 50,
-      '': ''
+      ebay: ''
     }, {
       id: 262,
       country: 'Austria',
@@ -6253,7 +6253,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'A sower the face value and the state title',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 263,
       country: 'Austria',
@@ -6273,7 +6273,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Austrian escutcheon and four ears',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 264,
       country: 'Austria',
@@ -6293,7 +6293,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Austrian escutcheon and four ears',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 265,
       country: 'Austria',
@@ -6313,7 +6313,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The face value above the year in a scalloped rim.',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 266,
       country: 'Austria',
@@ -6333,7 +6333,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'enomination in circle of dots name of the state around date below.',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 267,
       country: 'Austria',
@@ -6353,7 +6353,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Coat of arms on spray of edelweiss',
       bottomContent: 'austria',
       price: 40,
-      '': ''
+      ebay: ''
     }, {
       id: 268,
       country: 'Austria',
@@ -6373,7 +6373,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The value above year within a circular floral wreath of gentian flowers alternating with edelweiss flowers',
       bottomContent: 'austria',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 269,
       country: 'Austria',
@@ -6393,7 +6393,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: '2oo',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 270,
       country: 'Austria',
@@ -6413,7 +6413,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value within wreath date below',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 271,
       country: 'Austria',
@@ -6433,7 +6433,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value within wreath date below',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 272,
       country: 'Austria',
@@ -6453,7 +6453,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value within wreath date below',
       bottomContent: 'austria',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 273,
       country: 'Austria',
@@ -6473,7 +6473,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Value above sprays date below within curved stylised shield',
       bottomContent: 'austria',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 274,
       country: 'Austria',
@@ -6493,7 +6493,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned imperial eagle value at centre legend around (starts 1h) for Hungariae Bohemiae Galiciae Lodomeriae Illyriae Rex Archidux Austriae.',
       bottomContent: 'austria',
       price: 30,
-      '': ''
+      ebay: ''
     }, {
       id: 275,
       country: 'Austria',
@@ -6513,7 +6513,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned double headed imperial eagle with value on breast. Legend around (starts 1h) date at end of legend.',
       bottomContent: 'austria',
       price: 15,
-      '': ''
+      ebay: ''
     }, {
       id: 276,
       country: 'Austria',
@@ -6533,7 +6533,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Crowned denomination above date',
       bottomContent: 'austria',
       price: 25,
-      '': ''
+      ebay: ''
     }, {
       id: 277,
       country: 'Austria',
@@ -6553,7 +6553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'The value above dividing line year and mintmark below',
       bottomContent: 'austria',
       price: 10,
-      '': ''
+      ebay: ''
     }, {
       id: 278,
       country: 'Ireland',
@@ -6573,7 +6573,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Bull facing right. Denomination above and in exergue.',
       bottomContent: 'ireland',
       price: 75,
-      '': ''
+      ebay: ''
     }, {
       id: 279,
       country: 'Ireland',
@@ -6593,7 +6593,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Irish Wolfhound facing left',
       bottomContent: 'ireland',
       price: 20,
-      '': ''
+      ebay: ''
     }, {
       id: 280,
       country: 'Ireland',
@@ -6613,7 +6613,7 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Seated hare facing left',
       bottomContent: 'ireland',
       price: 5,
-      '': ''
+      ebay: ''
     }, {
       id: 281,
       country: 'Ireland',
@@ -6633,7 +6633,87 @@ let InMemoryDataService = class InMemoryDataService {
       backDescription: 'Bull facing right. Denomination above and in exergue.',
       bottomContent: 'ireland',
       price: 30,
-      '': ''
+      ebay: ''
+    }, {
+      id: 282,
+      country: 'Ireland',
+      countryname: 'ireland',
+      type: 'ireland',
+      typeid: 22,
+      name: '1 Reul',
+      year: 1948,
+      tagline: 'ireland',
+      title: '1948 1 Reul',
+      description: 'The Irish Free State (1922\u001a1937) was established as an independent Dominion within the British Empire.',
+      frontImg: '19481rf.jpg',
+      frontTitle: 'saorstátéireann',
+      frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
+      backImg: '19481rb.jpg',
+      backTitle: 'Irish Free State',
+      backDescription: 'Irish Wolfhound facing left',
+      bottomContent: 'ireland',
+      price: 5,
+      ebay: ''
+    }, {
+      id: 283,
+      country: 'Ireland',
+      countryname: 'ireland',
+      type: 'ireland',
+      typeid: 22,
+      name: '½ Reul',
+      year: 1934,
+      tagline: 'ireland',
+      title: '1934 ½ Reul',
+      description: 'The Irish Free State (1922\u001a1937) was established as an independent Dominion within the British Empire.',
+      frontImg: '1934251rf.jpg',
+      frontTitle: 'saorstátéireann',
+      frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
+      backImg: '1934251rb.jpg',
+      backTitle: 'Irish Free State',
+      backDescription: 'Seated hare facing left',
+      bottomContent: 'ireland',
+      price: 5,
+      ebay: ''
+    }, {
+      id: 284,
+      country: 'Ireland',
+      countryname: 'ireland',
+      type: 'ireland',
+      typeid: 22,
+      name: '1 Reul',
+      year: 1928,
+      tagline: 'ireland',
+      title: '1928 1 Reul',
+      description: 'The Irish Free State (1922\u001a1937) was established as an independent Dominion within the British Empire.',
+      frontImg: '19282s6df.jpg',
+      frontTitle: 'saorstátéireann',
+      frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
+      backImg: '19282s6db.jpg',
+      backTitle: 'Irish Free State',
+      backDescription: 'An Irish Hunter horse facing left with the denomination below',
+      bottomContent: 'ireland',
+      price: 200,
+      ebay: ''
+    }, {
+      id: 285,
+      country: 'Ireland',
+      countryname: 'ireland',
+      type: 'ireland',
+      typeid: 22,
+      name: '1 Reul',
+      year: 1928,
+      tagline: 'ireland',
+      title: '1928 2 shillings (florin)',
+      description: 'The Irish Free State (1922\u001a1937) was established as an independent Dominion within the British Empire.',
+      frontImg: '19282sf.jpg',
+      frontTitle: 'saorstátéireann',
+      frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
+      backImg: '19282sb.jpg',
+      backTitle: 'Irish Free State',
+      backDescription: 'Salmon and value',
+      bottomContent: 'ireland',
+      price: 30,
+      ebay: ''
     }];
     return {
       menu,
