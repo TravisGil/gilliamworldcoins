@@ -1052,7 +1052,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'EMBOSSED',
       backDescription: 'An original crown from the reign of Charles II .',
       bottomContent: 'An original crown from the reign of Charles II .',
-      price: '$1,400'
+      price: '$1,400',
+      '': ''
     }, {
       id: 2,
       country: 'United Kingdom',
@@ -1069,9 +1070,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'The second bust covered a 1687 Tertio edge.',
       backImg: '1687b.jpg',
       backTitle: 'Cruciform',
-      backDescription: 'Qvarto edge, Crowned Cruciform shields.',
+      backDescription: 'Qvarto edge Crowned Cruciform shields.',
       bottomContent: 'Qvarto edge, Crowned Cruciform shields.',
-      price: '$1,200'
+      price: '$1,200',
+      '': ''
     }, {
       id: 3,
       country: 'United Kingdom',
@@ -1090,7 +1092,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Reverse',
       backDescription: 'First harp in left shield',
       bottomContent: 'First harp in left shield',
-      price: '$1,400'
+      price: '$1,400',
+      '': ''
     }, {
       id: 4,
       country: 'United Kingdom',
@@ -1107,9 +1110,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'ANNA DEI GRATIA',
       backImg: '1707b.jpg',
       backTitle: 'Anne',
-      backDescription: 'Crowned shields cruciform, six strings to Irish harp.',
+      backDescription: 'Crowned shields cruciform six strings to Irish harp.',
       bottomContent: 'Crowned shields cruciform, six strings to Irish harp.',
-      price: '$800'
+      price: '$800',
+      '': ''
     }, {
       id: 5,
       country: 'United Kingdom',
@@ -1128,7 +1132,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Benedetto Pistrucci',
       backDescription: 'One of the first coins to feature the iconic St George and the dragon design.',
       bottomContent: 'One of the first coins to feature the iconic St George and the dragon design.',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 6,
       country: 'United Kingdom',
@@ -1147,7 +1152,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Saint George',
       backDescription: 'Shame on him who thinks evil of it.',
       bottomContent: 'GEORGE',
-      price: '$200'
+      price: '$200',
+      '': ''
     }, {
       id: 7,
       country: 'United Kingdom',
@@ -1161,12 +1167,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
       frontImg: '1822f.jpg',
       frontTitle: 'SECUNDO',
-      frontDescription: 'Head of king George IV, facing left.',
+      frontDescription: 'Head of king George IV facing left.',
       backImg: '1822b.jpg',
       backTitle: 'Saint George and the Dragon',
       backDescription: 'Reverse by the legendary Benedetto Pistrucc.',
       bottomContent: 'reverse by the legendary Benedetto Pistrucc.',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 8,
       country: 'United Kingdom',
@@ -1185,7 +1192,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'BRITANNIARUM REGIBA FID: DEF',
       backDescription: 'Crowned arms within branches',
       bottomContent: 'Crowned arms within branches',
-      price: '$200'
+      price: '$200',
+      '': ''
     }, {
       id: 9,
       country: 'United Kingdom',
@@ -1199,12 +1207,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria (Alexandrina Victoria; 24 May 1819 22 January 1901) was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era. It was a period of industrial, political, scientific, and military change within the United Kingdom, and was marked by a great expansion of the British Empire. In 1876, the British Parliament voted to grant her the additional title of Empress of India.',
       frontImg: '1847f.jpg',
       frontTitle: 'Victoria',
-      frontDescription: 'A sought after 1847 silver Crown of Queen Victoria. This issue is known as the Gothic Crown because its style was inspired by medieval revivalism, a popular art style of that looked to the middle ages for inspiration. The ornate obverse portrait shows Victoria wearing an ornate dress and crown, a plait looping around her ear.',
+      frontDescription: 'A sought after 1847 silver Crown of Queen Victoria. This issue is known as the Gothic Crown because its style was inspired by medieval revivalism a popular art style of that looked to the middle ages for inspiration. The ornate obverse portrait shows Victoria wearing an ornate dress and crown a plait looping around her ear.',
       backImg: '1847b.jpg',
       backTitle: 'Cruciform',
-      backDescription: 'The reverse though the crowned cruciform shields motif is the work of Scottish artist, William Wyon.',
+      backDescription: 'The reverse though the crowned cruciform shields motif is the work of Scottish artist William Wyon.',
       bottomContent: 'Just 8,000 Gothic crowns were used in 1847 and it remains one of the most beautiful and rarest coins in the world.',
-      price: '$7,200'
+      price: '$7,200',
+      '': ''
     }, {
       id: 10,
       country: 'United Kingdom',
@@ -1223,7 +1232,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Victoria',
       backDescription: 'Featuring the traditional George and Dragon',
       bottomContent: 'Victoria',
-      price: '$200'
+      price: '$200',
+      '': ''
     }, {
       id: 11,
       country: 'United Kingdom',
@@ -1242,7 +1252,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Victoria Crown LX',
       backDescription: 'Featuring the traditional George and Dragon',
       bottomContent: 'Featuring the traditional George and Dragon',
-      price: '$200'
+      price: '$200',
+      '': ''
     }, {
       id: 12,
       country: 'United Kingdom',
@@ -1261,7 +1272,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'St George',
       backDescription: 'Coronation day was set for 26th June 1902',
       bottomContent: 'EDWARD',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 13,
       country: 'United Kingdom',
@@ -1280,7 +1292,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Wreath Crown',
       backDescription: 'A large royal crown surrounded by a wreath of shamrocks with roses and thistles.',
       bottomContent: 'GEORGE',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 14,
       country: 'United Kingdom',
@@ -1299,7 +1312,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Mackennal',
       backDescription: 'Stylised St George and dragon.',
       bottomContent: 'GEORGE',
-      price: '$300'
+      price: '$300',
+      '': ''
     }, {
       id: 15,
       country: 'United Kingdom',
@@ -1316,9 +1330,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'The Coronation year of King George VI in 1937',
       backImg: '1937b.jpg',
       backTitle: 'Lion and unicorn',
-      backDescription: 'The engravers initials K.G. appear at either side of the shield, between the animals legs.',
+      backDescription: 'The engravers initials K.G. appear at either side of the shield between the animals legs.',
       bottomContent: 'The engravers initials K.G. appear at either side of the shield, between the animals legs.',
-      price: '$150'
+      price: '$150',
+      '': ''
     }, {
       id: 17,
       country: 'United Kingdom',
@@ -1337,7 +1352,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Crowned Queen',
       backDescription: 'The coronation of Queen Elizabeth II',
       bottomContent: 'The coronation of Queen Elizabeth II',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 18,
       country: 'United Kingdom',
@@ -1356,7 +1372,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Four shields',
       backDescription: 'DEI GRATIA REGINA F D. FIVE SHILLINGS',
       bottomContent: 'DEI GRATIA REGINA F D. FIVE SHILLINGS',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 19,
       country: 'United Kingdom',
@@ -1375,7 +1392,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Churchill',
       backDescription: 'Portrait of Churchill.',
       bottomContent: 'Portrait of Churchill.',
-      price: '$10'
+      price: '$10',
+      '': ''
     }, {
       id: 20,
       country: 'United Kingdom',
@@ -1392,9 +1410,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'THE JUBILEE EQUESTRIAN PORTRAIT',
       backImg: '1977b.jpg',
       backTitle: 'Jubilee',
-      backDescription: 'Silver Jubilee of Her Majesty, Queen Elizabeth II.',
+      backDescription: 'Silver Jubilee of Her Majesty Queen Elizabeth II.',
       bottomContent: 'Silver Jubilee of Her Majesty, Queen Elizabeth II.',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 21,
       country: 'United Kingdom',
@@ -1413,7 +1432,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Martin Jennings',
       backDescription: 'The Royal Arms',
       bottomContent: 'The Royal Arms',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 22,
       country: 'United Kingdom',
@@ -1432,7 +1452,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Britannia',
       backDescription: 'Great Britain Silver Britannia.',
       bottomContent: 'Great Britain Silver Britannia.',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 23,
       country: 'United Kingdom',
@@ -1451,7 +1472,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Grace of God',
       backDescription: 'Very attractive original coin.',
       bottomContent: 'William & Mary',
-      price: '$500'
+      price: '$500',
+      '': ''
     }, {
       id: 24,
       country: 'United Kingdom',
@@ -1465,12 +1487,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
       frontImg: '1696f.jpg',
       frontTitle: 'GVLIELMVS· III·DEI·GRA',
-      frontDescription: 'First laureate and draped bust of King William III right, legend around.',
+      frontDescription: 'First laureate and draped bust of King William III right legend around.',
       backImg: '1696b.jpg',
       backTitle: 'William III',
-      backDescription: 'Crowned cruciform shields around cental Nassau lion, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields around cental Nassau lion divided date above legend around.',
       bottomContent: 'William III',
-      price: '$500'
+      price: '$500',
+      '': ''
     }, {
       id: 25,
       country: 'United Kingdom',
@@ -1487,9 +1510,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Anne by the Grace of God',
       backImg: '1714b.jpg',
       backTitle: 'Queen Anne',
-      backDescription: 'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 26,
       country: 'United Kingdom',
@@ -1506,9 +1530,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Second by the Grace of God',
       backImg: '1745b.jpg',
       backTitle: 'George II',
-      backDescription: 'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'George II',
-      price: '$850'
+      price: '$850',
+      '': ''
     }, {
       id: 27,
       country: 'United Kingdom',
@@ -1527,7 +1552,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'BRITANNIARUM',
       backDescription: 'Crowned and quartered ornate shield',
       bottomContent: 'George III',
-      price: '$300'
+      price: '$300',
+      '': ''
     }, {
       id: 28,
       country: 'United Kingdom',
@@ -1546,7 +1572,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'BRITANNIARUM',
       backDescription: 'Crowned and quartered ornate shield',
       bottomContent: 'George III',
-      price: '$300'
+      price: '$300',
+      '': ''
     }, {
       id: 29,
       country: 'United Kingdom',
@@ -1565,7 +1592,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'BRITANNIARUM',
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'George IIII',
-      price: '$300'
+      price: '$300',
+      '': ''
     }, {
       id: 30,
       country: 'United Kingdom',
@@ -1584,7 +1612,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'BRITANNIARUM',
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'George IV',
-      price: '$300'
+      price: '$300',
+      '': ''
     }, {
       id: 31,
       country: 'United Kingdom',
@@ -1603,7 +1632,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'King William IIII',
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'King William IIII',
-      price: '$300'
+      price: '$300',
+      '': ''
     }, {
       id: 32,
       country: 'United Kingdom',
@@ -1620,9 +1650,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Young uncrowned portrait (Young Head) of Queen Victoria',
       backImg: '1883b.jpg',
       backTitle: 'BRITANNIARUM',
-      backDescription: 'Crowned quartered shield of arms within olive wreath, legend around, national flower emblems below.',
+      backDescription: 'Crowned quartered shield of arms within olive wreath legend around national flower emblems below.',
       bottomContent: 'Queen Victoria',
-      price: '$250'
+      price: '$250',
+      '': ''
     }, {
       id: 33,
       country: 'United Kingdom',
@@ -1639,9 +1670,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Crowned and veiled bust (Jubilee Head) of Queen Victoria',
       backImg: '1887b.jpg',
       backTitle: 'Queen Victoria',
-      backDescription: 'Crowned quartered shield of arms within garter and collar, legend around, divided date below.',
+      backDescription: 'Crowned quartered shield of arms within garter and collar legend around divided date below.',
       bottomContent: 'Queen Victoria',
-      price: '$250'
+      price: '$250',
+      '': ''
     }, {
       id: 34,
       country: 'United Kingdom',
@@ -1660,7 +1692,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Victorian crown',
       backDescription: 'Silver Half Crown',
       bottomContent: 'Queen Victoria',
-      price: '$250'
+      price: '$250',
+      '': ''
     }, {
       id: 35,
       country: 'United Kingdom',
@@ -1677,9 +1710,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King Edward VII',
       backImg: '1902b.jpg',
       backTitle: 'Edwardus VII',
-      backDescription: 'Crowned quartered shield of arms within Garter, legend around.',
+      backDescription: 'Crowned quartered shield of arms within Garter legend around.',
       bottomContent: 'Edward VII',
-      price: '$200'
+      price: '$200',
+      '': ''
     }, {
       id: 36,
       country: 'United Kingdom',
@@ -1696,9 +1730,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Fifth by the Grace of God King of all the Britains',
       backImg: '1911b.jpg',
       backTitle: 'George V',
-      backDescription: 'Crowned quartered shield of arms within Garter band, legend around.',
+      backDescription: 'Crowned quartered shield of arms within Garter band legend around.',
       bottomContent: 'George V',
-      price: '$150'
+      price: '$150',
+      '': ''
     }, {
       id: 37,
       country: 'United Kingdom',
@@ -1715,9 +1750,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Fifth by the Grace of God King of all the Britains',
       backImg: '1935b.jpg',
       backTitle: 'George V',
-      backDescription: 'Crowned quartered shield of arms within Garter band, legend around.',
+      backDescription: 'Crowned quartered shield of arms within Garter band legend around.',
       bottomContent: 'George V',
-      price: '$150'
+      price: '$150',
+      '': ''
     }, {
       id: 38,
       country: 'United Kingdom',
@@ -1734,9 +1770,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Sixth by the Grace of God King of all the Britains',
       backImg: '1940b.jpg',
       backTitle: 'Pound sterling',
-      backDescription: 'Quartered shield of arms flanked by crowned royal cyphers, legend above, denomination.',
+      backDescription: 'Quartered shield of arms flanked by crowned royal cyphers legend above denomination.',
       bottomContent: 'George VI',
-      price: '$100'
+      price: '$100',
+      '': ''
     }, {
       id: 39,
       country: 'United Kingdom',
@@ -1753,9 +1790,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Young laureate bust of Queen Elizabeth II',
       backImg: '1970b.jpg',
       backTitle: 'Shillings',
-      backDescription: 'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+      backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 40,
       country: 'United Kingdom',
@@ -1772,9 +1810,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Young laureate bust of Queen Elizabeth II',
       backImg: '1964b.jpg',
       backTitle: 'Shillings',
-      backDescription: 'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+      backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 41,
       country: 'United Kingdom',
@@ -1791,9 +1830,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Young laureate bust of Queen Elizabeth II',
       backImg: '1956b.jpg',
       backTitle: 'Shillings',
-      backDescription: 'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+      backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 42,
       country: 'United Kingdom',
@@ -1810,9 +1850,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Young laureate bust of Queen Elizabeth II',
       backImg: '1955b.jpg',
       backTitle: 'Shillings',
-      backDescription: 'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+      backDescription: 'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 43,
       country: 'United Kingdom',
@@ -1831,7 +1872,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Shillings',
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 44,
       country: 'United Kingdom',
@@ -1850,7 +1892,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Shillings',
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 45,
       country: 'United Kingdom',
@@ -1869,7 +1912,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Shillings',
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 46,
       country: 'United Kingdom',
@@ -1888,7 +1932,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Shillings',
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 47,
       country: 'United Kingdom',
@@ -1907,7 +1952,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Shillings',
       backDescription: 'Crowned lion passant atop crown',
       bottomContent: 'George VI',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 48,
       country: 'United Kingdom',
@@ -1924,9 +1970,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI left',
       backImg: '1935b.jpg',
       backTitle: 'Grace of God King',
-      backDescription: 'Crowned lion passant atop crown, legend above',
+      backDescription: 'Crowned lion passant atop crown legend above',
       bottomContent: 'George V',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 49,
       country: 'United Kingdom',
@@ -1943,9 +1990,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI left',
       backImg: '1914b.jpg',
       backTitle: 'Grace of God King',
-      backDescription: 'Crowned lion passant atop crown, legend above',
+      backDescription: 'Crowned lion passant atop crown legend above',
       bottomContent: 'George V',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 50,
       country: 'United Kingdom',
@@ -1962,9 +2010,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI left',
       backImg: '1911b.jpg',
       backTitle: 'Grace of God King',
-      backDescription: 'Crowned lion passant atop crown, legend above',
+      backDescription: 'Crowned lion passant atop crown legend above',
       bottomContent: 'George V',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 51,
       country: 'United Kingdom',
@@ -1983,7 +2032,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Edward VII',
       backDescription: 'Crowned lion passant atop crown dividing date.',
       bottomContent: 'Edward VII',
-      price: '$20'
+      price: '$20',
+      '': ''
     }, {
       id: 52,
       country: 'United Kingdom',
@@ -2000,9 +2050,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Victoria Old Veiled Head Crown',
       backImg: '1895b.jpg',
       backTitle: 'Queen Victoria',
-      backDescription: 'Crowned shields of arms with national flower emblems between, all within Garter.',
+      backDescription: 'Crowned shields of arms with national flower emblems between all within Garter.',
       bottomContent: 'Queen Victoria',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 53,
       country: 'United Kingdom',
@@ -2019,9 +2070,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Crowned and veiled bust (Jubilee Head) of Queen Victoria',
       backImg: '1889b.jpg',
       backTitle: 'Queen Victoria',
-      backDescription: 'Crowned Royal shield within Garter, divided date below.',
+      backDescription: 'Crowned Royal shield within Garter divided date below.',
       bottomContent: 'Queen Victoria',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 54,
       country: 'United Kingdom',
@@ -2038,9 +2090,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Crowned and veiled bust (Jubilee Head) of Queen Victoria',
       backImg: '1887b.jpg',
       backTitle: 'Queen Victoria',
-      backDescription: 'Crowned Royal shield within Garter, divided date below.',
+      backDescription: 'Crowned Royal shield within Garter divided date below.',
       bottomContent: 'Queen Victoria',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 55,
       country: 'United Kingdom',
@@ -2059,7 +2112,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Queen Victoria',
       backDescription: 'Crown above denomination within wreath',
       bottomContent: 'Queen Victoria',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 56,
       country: 'United Kingdom',
@@ -2078,7 +2132,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Queen Victoria',
       backDescription: 'Crown above denomination within wreath',
       bottomContent: 'Queen Victoria',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 57,
       country: 'United Kingdom',
@@ -2095,9 +2150,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       backImg: '1835b.jpg',
       backTitle: 'Defender of the Faith',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George IIII',
-      price: '$160'
+      price: '$160',
+      '': ''
     }, {
       id: 58,
       country: 'United Kingdom',
@@ -2114,9 +2170,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Fourth by the Grace of God',
       backImg: '1826b2.jpg',
       backTitle: 'George IV',
-      backDescription: 'Crowned lion passant atop crown, legend around, national flower emblems below.',
+      backDescription: 'Crowned lion passant atop crown legend around national flower emblems below.',
       bottomContent: 'George IV',
-      price: '$140'
+      price: '$140',
+      '': ''
     }, {
       id: 59,
       country: 'United Kingdom',
@@ -2133,9 +2190,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Fourth by the Grace of God',
       backImg: '1826b.jpg',
       backTitle: 'George IV',
-      backDescription: 'Crowned lion passant atop crown, legend around, national flower emblems below.',
+      backDescription: 'Crowned lion passant atop crown legend around national flower emblems below.',
       bottomContent: 'George IV',
-      price: '$140'
+      price: '$140',
+      '': ''
     }, {
       id: 60,
       country: 'United Kingdom',
@@ -2152,9 +2210,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'New laureate portrait of King George III',
       backImg: '1823b.jpg',
       backTitle: 'House of Hanover',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George IIII',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 61,
       country: 'United Kingdom',
@@ -2171,9 +2230,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'New laureate portrait of King George III',
       backImg: '1823b.jpg',
       backTitle: 'House of Hanover',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George IIII',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 62,
       country: 'United Kingdom',
@@ -2190,9 +2250,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       backImg: '1819b2.jpg',
       backTitle: 'George the Third',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 63,
       country: 'United Kingdom',
@@ -2209,9 +2270,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       backImg: '1819b.jpg',
       backTitle: 'George the Third',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 64,
       country: 'United Kingdom',
@@ -2228,9 +2290,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       backImg: '1817b.jpg',
       backTitle: 'George the Third',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 65,
       country: 'United Kingdom',
@@ -2247,9 +2310,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       backImg: '1817b.jpg',
       backTitle: 'George the Third',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 66,
       country: 'United Kingdom',
@@ -2266,9 +2330,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       backImg: '1787b.jpg',
       backTitle: 'George the Third',
-      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+      backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 67,
       country: 'United Kingdom',
@@ -2285,9 +2350,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Second by the Grace of God',
       backImg: '1745b2.jpg',
       backTitle: 'George II',
-      backDescription: 'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'George II',
-      price: '$250'
+      price: '$250',
+      '': ''
     }, {
       id: 68,
       country: 'United Kingdom',
@@ -2304,9 +2370,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'George the Second by the Grace of God',
       backImg: '1745b.jpg',
       backTitle: 'George II',
-      backDescription: 'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'George II',
-      price: '$250'
+      price: '$250',
+      '': ''
     }, {
       id: 69,
       country: 'United Kingdom',
@@ -2323,9 +2390,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Second laureate and draped bust of King George I',
       backImg: '1723b.jpg',
       backTitle: 'Johann Ochs',
-      backDescription: 'Duke of Brunswick and Lueneburg, Arch Treasurer and Prince Elector of the Holy Roman Empire',
+      backDescription: 'Duke of Brunswick and Lueneburg Arch Treasurer and Prince Elector of the Holy Roman Empire',
       bottomContent: 'George I',
-      price: '$600'
+      price: '$600',
+      '': ''
     }, {
       id: 70,
       country: 'United Kingdom',
@@ -2342,9 +2410,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Anne by the Grace of God',
       backImg: '1711b.jpg',
       backTitle: 'Queen Anne',
-      backDescription: 'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
-      price: '$500'
+      price: '$500',
+      '': ''
     }, {
       id: 71,
       country: 'United Kingdom',
@@ -2361,9 +2430,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Second draped bust of Queen Anne left',
       backImg: '1708b.jpg',
       backTitle: 'Queen Anne',
-      backDescription: 'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields with central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
-      price: '$500'
+      price: '$500',
+      '': ''
     }, {
       id: 72,
       country: 'United Kingdom',
@@ -2380,9 +2450,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Draped Edinburgh bust of Queen Anne left',
       backImg: '1707medallb.jpg',
       backTitle: 'Queen Anne',
-      backDescription: 'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
-      price: '$500'
+      price: '$500',
+      '': ''
     }, {
       id: 73,
       country: 'United Kingdom',
@@ -2401,7 +2472,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Queen Anne',
       backDescription: 'Magnae Britanniae Franciae Et Hiberniae Regina',
       bottomContent: 'Queen Anne',
-      price: '$500'
+      price: '$500',
+      '': ''
     }, {
       id: 74,
       country: 'United Kingdom',
@@ -2418,9 +2490,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'King James II Shilling minted by the Royal Mint at the Tower Mint in London.',
       backImg: '1700b.jpg',
       backTitle: 'Arms of England',
-      backDescription: 'The Reverse is four crowned shields, bearing the arms of England Scotland France and Ireland, arranged in a cross. Star of the Garter at the centre.',
+      backDescription: 'The Reverse is four crowned shields bearing the arms of England Scotland France and Ireland arranged in a cross. Star of the Garter at the centre.',
       bottomContent: 'King James II',
-      price: '$600'
+      price: '$600',
+      '': ''
     }, {
       id: 75,
       country: 'United Kingdom',
@@ -2434,12 +2507,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Charles III is King of the United Kingdom and the 14 other Commonwealth realms. Charles was born in Buckingham Palace during the reign of his maternal grandfather, King George VI, and became heir apparent when his mother, Queen Elizabeth II, acceded to the throne in 1952.',
       frontImg: '1663f.jpg',
       frontTitle: 'King Charles II',
-      frontDescription: 'First laureate and draped bust of King Charles II right, legend around.',
+      frontDescription: 'First laureate and draped bust of King Charles II right legend around.',
       backImg: '1663b.jpg',
       backTitle: 'Milled',
-      backDescription: "Crowned cruciform shields around central Garter star with interlinked C's in angles, divided date above, legend around.",
+      backDescription: "Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
       bottomContent: 'King Charles II',
-      price: '$800'
+      price: '$800',
+      '': ''
     }, {
       id: 76,
       country: 'United Kingdom',
@@ -2458,7 +2532,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Queen ELIZABETH II',
       backDescription: 'Queen ELIZABETH II',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 77,
       country: 'United Kingdom',
@@ -2472,12 +2547,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1877f.jpg',
       frontTitle: 'Godless',
-      frontDescription: 'Crowned bust of Queen Victoria left, legend and date around.',
+      frontDescription: 'Crowned bust of Queen Victoria left legend and date around.',
       backImg: '1877b.jpg',
       backTitle: 'Queen Victoria',
-      backDescription: 'Crowned cruciform shields of arms around central Tudor rose, national flower emblems in angles, legend above, denomination below.',
+      backDescription: 'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
       bottomContent: 'Queen Victoria',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 78,
       country: 'United Kingdom',
@@ -2491,12 +2567,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1878f.jpg',
       frontTitle: 'Godless',
-      frontDescription: 'Crowned bust of Queen Victoria left, legend and date around.',
+      frontDescription: 'Crowned bust of Queen Victoria left legend and date around.',
       backImg: '1878b.jpg',
       backTitle: 'Queen Victoria',
-      backDescription: 'Crowned cruciform shields of arms around central Tudor rose, national flower emblems in angles, legend above, denomination below.',
+      backDescription: 'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
       bottomContent: 'Queen Victoria',
-      price: '$400'
+      price: '$400',
+      '': ''
     }, {
       id: 79,
       country: 'United Kingdom',
@@ -2513,9 +2590,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Crowned and veiled bust (Jubilee Head) of Queen Victoria',
       backImg: '1887b.jpg',
       backTitle: 'Reverse',
-      backDescription: 'Crowned cruciform shields of England, Scotland and Ireland, sceptres with national flower emblems in angles, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields of England Scotland and Ireland sceptres with national flower emblems in angles divided date above legend around.',
       bottomContent: 'Queen Victoria',
-      price: '$150'
+      price: '$150',
+      '': ''
     }, {
       id: 80,
       country: 'United Kingdom',
@@ -2529,12 +2607,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1895f.jpg',
       frontTitle: 'Queen Victoria',
-      frontDescription: 'Older crowned and veiled bust of Queen Victoria left, legend around.',
+      frontDescription: 'Older crowned and veiled bust of Queen Victoria left legend around.',
       backImg: '1895b.jpg',
       backTitle: '3rd portrait',
-      backDescription: 'Crown above shields of England, Scotland and Ireland with national flower emblems between, all within Garter with divided date below and legend around.',
+      backDescription: 'Crown above shields of England Scotland and Ireland with national flower emblems between all within Garter with divided date below and legend around.',
       bottomContent: 'Queen Victoria',
-      price: '$150'
+      price: '$150',
+      '': ''
     }, {
       id: 81,
       country: 'United Kingdom',
@@ -2548,12 +2627,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1902f.jpg',
       frontTitle: 'Edward VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII right legend around.',
       backImg: '1902b.jpg',
       backTitle: 'EDWARDVS VII',
-      backDescription: "Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left, legend around, date below.",
+      backDescription: "Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left legend around date below.",
       bottomContent: 'Edward VII',
-      price: '$100'
+      price: '$100',
+      '': ''
     }, {
       id: 82,
       country: 'United Kingdom',
@@ -2570,9 +2650,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George V left',
       backImg: '1911b.jpg',
       backTitle: 'ONE FLORIN',
-      backDescription: 'Crowned cruciform shields around central Garter star, sceptres with national emblems in angles, denomination above, divided date below.',
+      backDescription: 'Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.',
       bottomContent: 'George V',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 83,
       country: 'United Kingdom',
@@ -2589,9 +2670,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George V left',
       backImg: '1935b.jpg',
       backTitle: 'ONE FLORIN',
-      backDescription: 'Crowned cruciform shields around central Garter star, sceptres with national emblems in angles, denomination above, divided date below.',
+      backDescription: 'Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.',
       bottomContent: 'George V',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 84,
       country: 'United Kingdom',
@@ -2610,7 +2692,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'ONE FLORIN',
       backDescription: 'Coat of arms',
       bottomContent: 'George VI',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 85,
       country: 'United Kingdom',
@@ -2629,7 +2712,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'ONE FLORIN',
       backDescription: 'Coat of arms',
       bottomContent: 'George VI',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 86,
       country: 'United Kingdom',
@@ -2648,7 +2732,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'ONE FLORIN',
       backDescription: 'floral design',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 87,
       country: 'United Kingdom',
@@ -2667,7 +2752,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'ONE FLORIN',
       backDescription: 'floral design',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 88,
       country: 'United Kingdom',
@@ -2686,7 +2772,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'ONE FLORIN',
       backDescription: 'floral design',
       bottomContent: 'Queen ELIZABETH II',
-      price: '$40'
+      price: '$40',
+      '': ''
     }, {
       id: 89,
       country: 'United States',
@@ -2705,7 +2792,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Morgan Dollar Reverse',
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 90,
       country: 'United States',
@@ -2724,7 +2812,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Morgan Dollar Reverse',
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 91,
       country: 'United States',
@@ -2743,7 +2832,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Morgan Dollar Reverse',
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 92,
       country: 'United States',
@@ -2762,7 +2852,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Morgan Dollar Reverse',
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 93,
       country: 'United States',
@@ -2781,7 +2872,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Morgan Dollar Reverse',
       backDescription: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
       bottomContent: 'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
-      price: '$60'
+      price: '$60',
+      '': ''
     }, {
       id: 94,
       country: 'United Kingdom',
@@ -2795,12 +2887,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Charles II (29 May 1630 6 February 1685)[c] was King of Scotland from 1649 until 1651 and King of England, Scotland, and Ireland from the 1660 Restoration of the monarchy until his death in 1685.',
       frontImg: '1677f.jpg',
       frontTitle: 'CAROLVS·II',
-      frontDescription: 'Laureate and draped bust of King Charles II right, legend around.',
+      frontDescription: 'Laureate and draped bust of King Charles II right legend around.',
       backImg: '1677b.jpg',
       backTitle: 'House of Stuart',
-      backDescription: "Crowned cruciform shields around central Garter star with interlinked C's in angles, divided date above, legend around.",
+      backDescription: "Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
       bottomContent: 'King Charles II',
-      price: '$600'
+      price: '$600',
+      '': ''
     }, {
       id: 95,
       country: 'United Kingdom',
@@ -2814,12 +2907,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
       frontImg: '1698f.jpg',
       frontTitle: 'GVLIELMVS· III·DEI·GRA',
-      frontDescription: 'Third laureate and draped bust of King William III right, legend around.',
+      frontDescription: 'Third laureate and draped bust of King William III right legend around.',
       backImg: '1698b.jpg',
       backTitle: 'House of Stuart',
-      backDescription: 'Crowned cruciform shields around central lion rampant, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields around central lion rampant divided date above legend around.',
       bottomContent: '',
-      price: '$600'
+      price: '$600',
+      '': ''
     }, {
       id: 96,
       country: 'United Kingdom',
@@ -2833,12 +2927,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Anne was Queen of Great Britain and Ireland following the ratification of the Acts of Union on 1 May 1707, which merged the kingdoms of Scotland and England. Before this, she was Queen of England, Scotland, and Ireland from 8 March 1702. Anne was born during the reign of her uncle King Charles II.',
       frontImg: '1707f.jpg',
       frontTitle: 'ANNA·DEI· GRATIA',
-      frontDescription: 'Normal draped bust of Queen Anne left, legend around.',
+      frontDescription: 'Normal draped bust of Queen Anne left legend around.',
       backImg: '1707b.jpg',
       backTitle: 'Circulated',
-      backDescription: 'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'Queen Anne',
-      price: 'N/A'
+      price: 'N/A',
+      '': ''
     }, {
       id: 97,
       country: 'United Kingdom',
@@ -2852,12 +2947,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George I (George Louis; German: Georg Ludwig; 28 May 1660 \u001a 11 June 1727)[a] was King of Great Britain and Ireland from 1 August 1714 and ruler of the Electorate of Hanover within the Holy Roman Empire from 23 January 1698 until his death in 1727. He was the first British monarch of the House of Hanover.',
       frontImg: '1723f.jpg',
       frontTitle: 'GEORGIVS',
-      frontDescription: 'Laureate and draped bust of King George I right, legend around.',
+      frontDescription: 'Laureate and draped bust of King George I right legend around.',
       backImg: '1723b.jpg',
       backTitle: 'Reverse',
-      backDescription: 'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'King George I',
-      price: '$600'
+      price: '$600',
+      '': ''
     }, {
       id: 98,
       country: 'United Kingdom',
@@ -2871,12 +2967,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George II (George Augustus; German: Georg August; 30 October / 9 November 1683[a] 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.',
       frontImg: '1757f.jpg',
       frontTitle: 'GEORGIUS·II· DEI·GRATIA',
-      frontDescription: 'Older laureate and draped bust of King George II left, legend around.',
+      frontDescription: 'Older laureate and draped bust of King George II left legend around.',
       backImg: '1757b.jpg',
       backTitle: 'House of Hanover',
-      backDescription: 'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+      backDescription: 'Crowned cruciform shields around central Garter star divided date above legend around.',
       bottomContent: 'King George II',
-      price: '$150'
+      price: '$150',
+      '': ''
     }, {
       id: 99,
       country: 'United Kingdom',
@@ -2890,12 +2987,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
       frontImg: '1782f.jpg',
       frontTitle: 'GEORGIVS·III',
-      frontDescription: 'Laureate and draped bust of King George III right, legend around.',
+      frontDescription: 'Laureate and draped bust of King George III right legend around.',
       backImg: '1782b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Cruciform shields around central Garter star with crowns in angles, legend around, date below.',
+      backDescription: 'Cruciform shields around central Garter star with crowns in angles legend around date below.',
       bottomContent: 'King George III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 100,
       country: 'United Kingdom',
@@ -2909,12 +3007,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
       frontImg: '1810f.jpg',
       frontTitle: 'GEORGIVS·III',
-      frontDescription: 'Laureate portrait of King George III right, legend around, date below.',
+      frontDescription: 'Laureate portrait of King George III right legend around date below.',
       backImg: '1810b.jpg',
       backTitle: 'GEOR:III',
       backDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       bottomContent: 'King George III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 101,
       country: 'United Kingdom',
@@ -2928,12 +3027,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
       frontImg: '1821f.jpg',
       frontTitle: 'GEORGIUS IIII',
-      frontDescription: 'Laureate portrait of King George IV left, legend around.',
+      frontDescription: 'Laureate portrait of King George IV left legend around.',
       backImg: '1821b.jpg',
       backTitle: 'ANNO 1821',
-      backDescription: 'Ornate garnished crowned quartered shield of arms overlaid with second, smaller crowned shield, national flower emblems around, date below',
+      backDescription: 'Ornate garnished crowned quartered shield of arms overlaid with second smaller crowned shield national flower emblems around date below',
       bottomContent: 'King George IIII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 102,
       country: 'United Kingdom',
@@ -2947,12 +3047,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
       frontImg: '1826f.jpg',
       frontTitle: 'GEORGIUS IIII',
-      frontDescription: 'Laureate portrait of King George IV left, legend around.',
+      frontDescription: 'Laureate portrait of King George IV left legend around.',
       backImg: '1826b.jpg',
       backTitle: 'Benedetto Pistrucci',
-      backDescription: 'Square topped crowned quartered shield of arms overlaid with second, smaller crowned shield, Garter with legend around, date below.',
+      backDescription: 'Square topped crowned quartered shield of arms overlaid with second smaller crowned shield Garter with legend around date below.',
       bottomContent: 'King George IIII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 103,
       country: 'United Kingdom',
@@ -2966,12 +3067,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
       frontImg: '1864f.jpg',
       frontTitle: 'GEORGIUS IIII',
-      frontDescription: 'Laureate portrait of King George III right, legend around, date below.',
+      frontDescription: 'Laureate portrait of King George III right legend around date below.',
       backImg: '1864b.jpg',
       backTitle: 'Benedetto Pistrucci',
-      backDescription: 'Crowned quartered shield of arms, overlaid with smaller crowned shield, legend around on garter.',
+      backDescription: 'Crowned quartered shield of arms overlaid with smaller crowned shield legend around on garter.',
       bottomContent: 'King George IIII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 104,
       country: 'United Kingdom',
@@ -2985,12 +3087,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1887f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Crowned and veiled bust (Jubilee Head) of Queen Victoria left, legend around, engraver's initials below truncation.",
+      frontDescription: "Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
       backImg: '1887b.jpg',
       backTitle: 'Edgar Boehm',
-      backDescription: 'Crowned quartered shield of arms within Garter, legend around, divided date below.',
+      backDescription: 'Crowned quartered shield of arms within Garter legend around divided date below.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 105,
       country: 'United Kingdom',
@@ -3004,12 +3107,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1887yf.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Crowned and veiled bust (Jubilee Head) of Queen Victoria left, legend around, engraver's initials below truncation.",
+      frontDescription: "Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
       backImg: '1887yb.jpg',
       backTitle: 'Edgar Boehm',
-      backDescription: 'Crowned quartered shield of arms within Garter, legend around, divided date below.',
+      backDescription: 'Crowned quartered shield of arms within Garter legend around divided date below.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 106,
       country: 'United Kingdom',
@@ -3023,12 +3127,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1888f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Crowned and veiled bust (Jubilee Head) of Queen Victoria left, legend around, engraver's initials below truncation.",
+      frontDescription: "Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
       backImg: '1888b.jpg',
       backTitle: 'Edgar Boehm',
-      backDescription: 'Crowned quartered shield of arms within Garter, legend around, divided date below.',
+      backDescription: 'Crowned quartered shield of arms within Garter legend around divided date below.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 107,
       country: 'United Kingdom',
@@ -3042,12 +3147,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1895f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Older diademed and veiled bust (Old Head) of Queen Victoria left, legend around.',
+      frontDescription: 'Older diademed and veiled bust (Old Head) of Queen Victoria left legend around.',
       backImg: '1895b.jpg',
       backTitle: 'Thomas Brock',
-      backDescription: 'Crowned denomination within wreath, date below.',
+      backDescription: 'Crowned denomination within wreath date below.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 108,
       country: 'United Kingdom',
@@ -3061,12 +3167,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1905f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned bust of King Edward VII right, legend around.',
+      frontDescription: 'Uncrowned bust of King Edward VII right legend around.',
       backImg: '1905b.jpg',
       backTitle: 'de Saulles',
-      backDescription: 'Crowned denomination within wreath (olive sprig on left, oak on right), date below.',
+      backDescription: 'Crowned denomination within wreath (olive sprig on left oak on right) date below.',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 109,
       country: 'United Kingdom',
@@ -3080,12 +3187,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1911f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1911b.jpg',
       backTitle: 'MacKennal',
-      backDescription: 'Crowned lion passant atop crown dividing date within circle, legend above, denomination below.',
+      backDescription: 'Crowned lion passant atop crown dividing date within circle legend above denomination below.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 110,
       country: 'United Kingdom',
@@ -3099,12 +3207,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1935f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1935b.jpg',
       backTitle: 'MacKennal',
-      backDescription: 'Three oak sprigs with six acorns, denomination above, date below.',
+      backDescription: 'Three oak sprigs with six acorns denomination above date below.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 111,
       country: 'United Kingdom',
@@ -3118,12 +3227,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1943f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: 'Uncrowned portrait of King George VI left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George VI left legend around.',
       backImg: '1943b.jpg',
       backTitle: 'Paget',
-      backDescription: 'Crowned royal cypher dividing date, legend above, denomination below.',
+      backDescription: 'Crowned royal cypher dividing date legend above denomination below.',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 112,
       country: 'United Kingdom',
@@ -3137,12 +3247,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1948f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: 'Uncrowned portrait of King George VI left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George VI left legend around.',
       backImg: '1948b.jpg',
       backTitle: 'Paget',
-      backDescription: 'Crowned royal cypher dividing date, legend above, denomination below.',
+      backDescription: 'Crowned royal cypher dividing date legend above denomination below.',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 113,
       country: 'United Kingdom',
@@ -3156,12 +3267,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1950f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: 'Uncrowned portrait of King George VI left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George VI left legend around.',
       backImg: '1950b.jpg',
       backTitle: 'Paget',
-      backDescription: 'Crowned royal cypher dividing date, legend above, denomination below.',
+      backDescription: 'Crowned royal cypher dividing date legend above denomination below.',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 114,
       country: 'United Kingdom',
@@ -3175,12 +3287,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1970f.jpg',
       frontTitle: 'ELIZABETH·II',
-      frontDescription: 'Young laureate portrait of Queen Elizabeth II right, legend around.',
+      frontDescription: 'Young laureate portrait of Queen Elizabeth II right legend around.',
       backImg: '1970b.jpg',
       backTitle: 'Gillick',
-      backDescription: 'Tudor rose, shamrock, thistle and leek aligned in a cross, legend above, denomination and date below.',
+      backDescription: 'Tudor rose shamrock thistle and leek aligned in a cross legend above denomination and date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 115,
       country: 'United Kingdom',
@@ -3194,12 +3307,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1884f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Uncrowned portrait (Young Head) of Queen Victoria left, legend around.',
+      frontDescription: 'Uncrowned portrait (Young Head) of Queen Victoria left legend around.',
       backImg: '1884f.jpg',
       backTitle: 'Wyon',
       backDescription: 'Crowned denomination divides date within oak wreath.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 116,
       country: 'United Kingdom',
@@ -3213,12 +3327,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1889f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left, legend around.',
+      frontDescription: 'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left legend around.',
       backImg: '1889b.jpg',
       backTitle: 'Boehm',
       backDescription: 'Crowned denomination divides date within oak wreath.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 117,
       country: 'United Kingdom',
@@ -3237,7 +3352,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Brock',
       backDescription: 'Crowned denomination divides date within oak sprigs.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 118,
       country: 'United Kingdom',
@@ -3251,12 +3367,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1902f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII right legend around.',
       backImg: '1902b.jpg',
       backTitle: 'de Saulles',
       backDescription: 'Crowned denomination dividing date within oak wreath.',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 119,
       country: 'United Kingdom',
@@ -3270,12 +3387,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1911f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1911b.jpg',
       backTitle: 'incl. Maundy',
       backDescription: 'Crowned denomination dividing date within oak wreath.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 120,
       country: 'United Kingdom',
@@ -3289,12 +3407,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1935f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Modified uncrowned portrait of King George V facing left, legend around.',
+      frontDescription: 'Modified uncrowned portrait of King George V facing left legend around.',
       backImg: '1935b.jpg',
       backTitle: 'MacKennal',
-      backDescription: 'Three oak sprigs with three acorns, denomination above, date below.',
+      backDescription: 'Three oak sprigs with three acorns denomination above date below.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 121,
       country: 'United Kingdom',
@@ -3308,12 +3427,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1943f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1943b.jpg',
       backTitle: 'Paget',
       backDescription: "Three-headed thrift'plant denomination above date below.",
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 122,
       country: 'United Kingdom',
@@ -3327,12 +3447,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1944f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1944b.jpg',
       backTitle: 'Paget',
       backDescription: "Three-headed thrift'plant denomination above date below.",
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 123,
       country: 'United Kingdom',
@@ -3346,12 +3467,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1953f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1953b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 124,
       country: 'United Kingdom',
@@ -3365,12 +3487,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1954f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1954b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 125,
       country: 'United Kingdom',
@@ -3384,12 +3507,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1955f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1955b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 126,
       country: 'United Kingdom',
@@ -3403,12 +3527,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1956f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1956b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 127,
       country: 'United Kingdom',
@@ -3422,12 +3547,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1957f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1957b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 128,
       country: 'United Kingdom',
@@ -3441,12 +3567,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1958f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1958b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 129,
       country: 'United Kingdom',
@@ -3460,12 +3587,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1959f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1959b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 130,
       country: 'United Kingdom',
@@ -3479,12 +3607,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1960f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1960b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 131,
       country: 'United Kingdom',
@@ -3498,12 +3627,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1961f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1961b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 132,
       country: 'United Kingdom',
@@ -3517,12 +3647,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1962f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1962b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 133,
       country: 'United Kingdom',
@@ -3536,12 +3667,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1963f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1963b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 134,
       country: 'United Kingdom',
@@ -3555,12 +3687,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1964f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1964b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 135,
       country: 'United Kingdom',
@@ -3574,12 +3707,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1965f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1965b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 136,
       country: 'United Kingdom',
@@ -3593,12 +3727,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1966f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1966b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 137,
       country: 'United Kingdom',
@@ -3612,12 +3747,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1967f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '1967b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 138,
       country: 'United Kingdom',
@@ -3631,12 +3767,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '19602f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: "Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+      frontDescription: "Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
       backImg: '19602b.jpg',
       backTitle: 'House of Windsor',
-      backDescription: 'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+      backDescription: 'A Tudor portcullis and side chains with crown above dividing value date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 139,
       country: 'United Kingdom',
@@ -3650,12 +3787,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
       frontImg: '1831f.jpg',
       frontTitle: 'GULIELMUS',
-      frontDescription: 'Uncrowned portrait of King William IV facing right, legend around, date below.',
+      frontDescription: 'Uncrowned portrait of King William IV facing right legend around date below.',
       backImg: '1831b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'King William III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 140,
       country: 'United Kingdom',
@@ -3669,12 +3807,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1854f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'First uncrowned bust (Young Head) of Queen Victoria left, legend around, date below.',
+      frontDescription: 'First uncrowned bust (Young Head) of Queen Victoria left legend around date below.',
       backImg: '1854b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 141,
       country: 'United Kingdom',
@@ -3688,12 +3827,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1888f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
       backImg: '1888b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse on left and ship on right, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 142,
       country: 'United Kingdom',
@@ -3707,12 +3847,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1889f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
       backImg: '1889b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse on left and ship on right, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 143,
       country: 'United Kingdom',
@@ -3726,12 +3867,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1896f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
       backImg: '1896b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 144,
       country: 'United Kingdom',
@@ -3745,12 +3887,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1901f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
       backImg: '1901b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 145,
       country: 'United Kingdom',
@@ -3764,12 +3907,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1902f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII right legend around.',
       backImg: '1902b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 146,
       country: 'United Kingdom',
@@ -3783,12 +3927,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1904f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII right legend around.',
       backImg: '1904b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 147,
       country: 'United Kingdom',
@@ -3802,12 +3947,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1907f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII right legend around.',
       backImg: '1907b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 148,
       country: 'United Kingdom',
@@ -3821,12 +3967,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1911f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1911b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 149,
       country: 'United Kingdom',
@@ -3840,12 +3987,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1912f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1912b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 150,
       country: 'United Kingdom',
@@ -3859,12 +4007,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1913f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1913b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 151,
       country: 'United Kingdom',
@@ -3878,12 +4027,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1917f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1917b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 152,
       country: 'United Kingdom',
@@ -3897,12 +4047,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1918f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1918b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 153,
       country: 'United Kingdom',
@@ -3916,12 +4067,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1919f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1919b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 154,
       country: 'United Kingdom',
@@ -3935,12 +4087,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1930f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1930b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 155,
       country: 'United Kingdom',
@@ -3954,12 +4107,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1936f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '1936b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 156,
       country: 'United Kingdom',
@@ -3973,12 +4127,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1938f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: 'Uncrowned portrait of King George VI left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George VI left legend around.',
       backImg: '1938b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 157,
       country: 'United Kingdom',
@@ -3992,12 +4147,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1946f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: 'Uncrowned portrait of King George VI left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George VI left legend around.',
       backImg: '1946b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 158,
       country: 'United Kingdom',
@@ -4011,12 +4167,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
       frontImg: '1947f.jpg',
       frontTitle: 'GEORGIVS VI',
-      frontDescription: 'Uncrowned portrait of King George VI left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George VI left legend around.',
       backImg: '1947b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 159,
       country: 'United Kingdom',
@@ -4030,12 +4187,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1963f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: 'Young laureate portrait of Queen Elizabeth II facing right, legend around.',
+      frontDescription: 'Young laureate portrait of Queen Elizabeth II facing right legend around.',
       backImg: '1963b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 160,
       country: 'United Kingdom',
@@ -4049,12 +4207,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '19362f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V facing left, legend around',
+      frontDescription: 'Uncrowned portrait of King George V facing left legend around',
       backImg: '19362b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 161,
       country: 'United Kingdom',
@@ -4068,12 +4227,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'House of Stuart restored (1660-1714), William and Mary (1689-94),',
       frontImg: '1694f.jpg',
       frontTitle: 'GVLIELMVS·ET·MARIA',
-      frontDescription: 'Laureate and cuirassed conjoined busts of King William and Queen Mary right, legend around.',
+      frontDescription: 'Laureate and cuirassed conjoined busts of King William and Queen Mary right legend around.',
       backImg: '1694b.jpg',
       backTitle: 'BRITAN',
-      backDescription: 'Seated figure of Britannia left with olive branch in raised right hand, spear in left, shield bearing the Union flag resting at left, legend around, date in exergue.',
+      backDescription: 'Seated figure of Britannia left with olive branch in raised right hand spear in left shield bearing the Union flag resting at left legend around date in exergue.',
       bottomContent: 'William and Mary',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 162,
       country: 'United Kingdom',
@@ -4087,12 +4247,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George II (George Augustus; German: Georg August; 30 October / 9 November 1683[a] 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.',
       frontImg: '1749f.jpg',
       frontTitle: 'GEORGIUS· II',
-      frontDescription: 'Older laureate and cuirassed portrait of King George II facing left, legend around.',
+      frontDescription: 'Older laureate and cuirassed portrait of King George II facing left legend around.',
       backImg: '1749b.jpg',
       backTitle: 'BRITAN',
-      backDescription: 'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+      backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 163,
       country: 'United Kingdom',
@@ -4106,12 +4267,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George II (George Augustus; German: Georg August; 30 October / 9 November 1683[a] 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.',
       frontImg: '1754f.jpg',
       frontTitle: 'GEORGIUS· II',
-      frontDescription: 'Older laureate and cuirassed portrait of King George II facing left, legend around.',
+      frontDescription: 'Older laureate and cuirassed portrait of King George II facing left legend around.',
       backImg: '1754b.jpg',
       backTitle: 'BRITAN',
-      backDescription: 'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+      backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 164,
       country: 'United Kingdom',
@@ -4125,12 +4287,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
       frontImg: '1799f.jpg',
       frontTitle: 'GEORGIUS III',
-      frontDescription: 'Laureate and draped bust of King George III facing right, legend around',
+      frontDescription: 'Laureate and draped bust of King George III facing right legend around',
       backImg: '1799b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+      backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 165,
       country: 'United Kingdom',
@@ -4144,12 +4307,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
       frontImg: '1806f.jpg',
       frontTitle: 'GEORGIUS III',
-      frontDescription: 'Shorter haired laureate and draped bust of King George III facing right, legend around, date below.',
+      frontDescription: 'Shorter haired laureate and draped bust of King George III facing right legend around date below.',
       backImg: '1806b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+      backDescription: 'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
       bottomContent: 'King George III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 166,
       country: 'United Kingdom',
@@ -4163,12 +4327,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
       frontImg: '1826f.jpg',
       frontTitle: 'GEORGIUS IV',
-      frontDescription: 'Laureate portrait of King George IV facing left, legend around, date below.',
+      frontDescription: 'Laureate portrait of King George IV facing left legend around date below.',
       backImg: '1826b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'King George IIII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 167,
       country: 'United Kingdom',
@@ -4182,12 +4347,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
       frontImg: '1837f.jpg',
       frontTitle: 'GULIELMUS',
-      frontDescription: 'Laureate portrait of King George IV facing left, legend around, date below.',
+      frontDescription: 'Laureate portrait of King George IV facing left legend around date below.',
       backImg: '1837b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'King William III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 168,
       country: 'United Kingdom',
@@ -4201,12 +4367,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1853f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'First uncrowned bust (Young Head) of Queen Victoria left, legend around, date below.',
+      frontDescription: 'First uncrowned bust (Young Head) of Queen Victoria left legend around date below.',
       backImg: '1853b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+      backDescription: 'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 169,
       country: 'United Kingdom',
@@ -4220,12 +4387,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1887f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
       backImg: '1887b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind with lighthouse on left and ship on right',
+      backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 170,
       country: 'United Kingdom',
@@ -4239,12 +4407,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1898f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
       backImg: '1898b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind with lighthouse on left and ship on right',
+      backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 171,
       country: 'United Kingdom',
@@ -4258,12 +4427,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1902f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII facing right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII facing right legend around.',
       backImg: '1902b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.',
+      backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 172,
       country: 'United Kingdom',
@@ -4277,12 +4447,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1911f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1911b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.',
+      backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 173,
       country: 'United Kingdom',
@@ -4296,12 +4467,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1921f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1921b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.',
+      backDescription: 'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 174,
       country: 'United Kingdom',
@@ -4320,7 +4492,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Grace of God',
       backDescription: 'The Golden Hind',
       bottomContent: '',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 175,
       country: 'United Kingdom',
@@ -4334,12 +4507,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
       frontImg: '1954f.jpg',
       frontTitle: 'Queen Elizabeth II',
-      frontDescription: 'Young laureate bust of Queen Elizabeth II right, legend around.',
+      frontDescription: 'Young laureate bust of Queen Elizabeth II right legend around.',
       backImg: '1954b.jpg',
       backTitle: 'Grace of God',
-      backDescription: 'Three-masted ship sailing left, denomination above, date below.',
+      backDescription: 'Three-masted ship sailing left denomination above date below.',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 176,
       country: 'United Kingdom',
@@ -4353,12 +4527,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
       frontImg: '1806f.jpg',
       frontTitle: 'GEORGIUS III',
-      frontDescription: 'Shorter haired laureate and draped bust of King George III facing right, legend around, date below.',
+      frontDescription: 'Shorter haired laureate and draped bust of King George III facing right legend around date below.',
       backImg: '1806b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing left, trident in left hand, shield with Union flag resting on left, olive branch in raised right hand, legend above, sea behind with ship on left.',
+      backDescription: 'Seated figure of Britannia facing left trident in left hand shield with Union flag resting on left olive branch in raised right hand legend above sea behind with ship on left.',
       bottomContent: 'King George III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 177,
       country: 'United Kingdom',
@@ -4372,12 +4547,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
       frontImg: '1837f.jpg',
       frontTitle: 'GULIELMUS IIII',
-      frontDescription: 'Uncrowned portrait of King William IV facing right, legend around, date below.',
+      frontDescription: 'Uncrowned portrait of King William IV facing right legend around date below.',
       backImg: '1837b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right, legend around, national flower emblems in exergue.',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right legend around national flower emblems in exergue.',
       bottomContent: 'King William III',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 178,
       country: 'United Kingdom',
@@ -4391,12 +4567,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1875f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+      frontDescription: 'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
       backImg: '1875b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, date in exergue, sea behind with lighthouse on left and ship on right.',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above date in exergue sea behind with lighthouse on left and ship on right.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 179,
       country: 'United Kingdom',
@@ -4410,12 +4587,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1901f.jpg',
       frontTitle: 'VICTORIA',
-      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
       backImg: '1901b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in exergue.',
+      backDescription: 'Seated figure of Britannia right trident in left hand shield with Union flag in right hand denomination above sea behind date in exergue.',
       bottomContent: 'Queen Victoria',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 180,
       country: 'United Kingdom',
@@ -4429,12 +4607,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1907f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII facing right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII facing right legend around.',
       backImg: '1907b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 181,
       country: 'United Kingdom',
@@ -4448,12 +4627,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1909f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII facing right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII facing right legend around.',
       backImg: '1909b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 182,
       country: 'United Kingdom',
@@ -4467,12 +4647,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1911f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1911b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 183,
       country: 'United Kingdom',
@@ -4486,12 +4667,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1929f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1929b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 184,
       country: 'United Kingdom',
@@ -4505,12 +4687,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1935f.jpg',
       frontTitle: 'GEORGIVS V',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1935b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George V',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 185,
       country: 'United Kingdom',
@@ -4527,9 +4710,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI facing left',
       backImg: '1940b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 186,
       country: 'United Kingdom',
@@ -4546,9 +4730,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI facing left',
       backImg: '1942b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 187,
       country: 'United Kingdom',
@@ -4565,9 +4750,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI facing left',
       backImg: '1943b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 188,
       country: 'United Kingdom',
@@ -4584,9 +4770,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI facing left',
       backImg: '1948b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 189,
       country: 'United Kingdom',
@@ -4603,9 +4790,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Uncrowned portrait of King George VI facing left',
       backImg: '1952b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King George VI',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 190,
       country: 'United Kingdom',
@@ -4622,9 +4810,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Young laureate portrait of Queen Elizabeth II right',
       backImg: '1954b.jpg',
       backTitle: 'BRITANNIAR',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'Queen Elizabeth II',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 191,
       country: 'United Kingdom',
@@ -4638,12 +4827,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1909f.jpg',
       frontTitle: 'EDWARDVS VII',
-      frontDescription: 'Uncrowned portrait of King Edward VII facing right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII facing right legend around.',
       backImg: '1909b.jpg',
       backTitle: 'BRITANNIA',
-      backDescription: 'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+      backDescription: 'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
       bottomContent: 'King Edward VII',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 192,
       country: 'Austria',
@@ -4660,9 +4850,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Lipizzaner stallion with rider',
       backImg: '5sh1961b.jpg',
       backTitle: 'austria',
-      backDescription: 'The Austrian escutcheon, the face value and two laurel branchesBinomial Name: Laurus nobilis',
+      backDescription: 'The Austrian escutcheon the face value and two laurel branchesBinomial Name: Laurus nobilis',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 193,
       country: 'United Kingdom',
@@ -4676,12 +4867,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1869f.jpeg',
       frontTitle: 'In contemporary box',
-      frontDescription: 'Uncrowned portrait (Young Head) of Queen Victoria left, legend around.',
+      frontDescription: 'Uncrowned portrait (Young Head) of Queen Victoria left legend around.',
       backImg: '1869b.jpeg',
       backTitle: 'Grace of God',
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'Queen Victoria',
-      price: 500
+      price: 500,
+      '': ''
     }, {
       id: 194,
       country: 'United Kingdom',
@@ -4695,12 +4887,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1892f.jpeg',
       frontTitle: 'In contemporary box',
-      frontDescription: 'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left, legend around.',
+      frontDescription: 'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left legend around.',
       backImg: '1892b.jpeg',
       backTitle: 'Grace of God',
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'Queen Victoria',
-      price: 500
+      price: 500,
+      '': ''
     }, {
       id: 195,
       country: 'United Kingdom',
@@ -4714,12 +4907,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
       frontImg: '1899f.jpeg',
       frontTitle: 'In contemporary box',
-      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+      frontDescription: "Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
       backImg: '1899b.jpeg',
       backTitle: 'Grace of God',
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'Queen Victoria',
-      price: 500
+      price: 500,
+      '': ''
     }, {
       id: 196,
       country: 'United Kingdom',
@@ -4733,12 +4927,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
       frontImg: '1902f.jpeg',
       frontTitle: 'In contemporary box',
-      frontDescription: 'Uncrowned portrait of King Edward VII facing right, legend around.',
+      frontDescription: 'Uncrowned portrait of King Edward VII facing right legend around.',
       backImg: '1902b.jpeg',
       backTitle: 'Grace of God',
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'King Edward VII',
-      price: 450
+      price: 450,
+      '': ''
     }, {
       id: 197,
       country: 'United Kingdom',
@@ -4752,12 +4947,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
       frontImg: '1927f.jpeg',
       frontTitle: 'In contemporary box',
-      frontDescription: 'Uncrowned portrait of King George V left, legend around.',
+      frontDescription: 'Uncrowned portrait of King George V left legend around.',
       backImg: '1927b.jpeg',
       backTitle: 'Grace of God',
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'King George V',
-      price: 450
+      price: 450,
+      '': ''
     }, {
       id: 198,
       country: 'United Kingdom',
@@ -4776,7 +4972,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Grace of God',
       backDescription: 'A most attractive and beautifully matched set.',
       bottomContent: 'King George VI',
-      price: 450
+      price: 450,
+      '': ''
     }, {
       id: 199,
       country: 'Austria',
@@ -4795,7 +4992,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'EIN SCHILLING',
       backDescription: 'Three edelweiss flowers (Leontopodium alpinum or Leontopodium nivale ssp.) and face value in words surrounding',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 200,
       country: 'Austria',
@@ -4809,12 +5007,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'austria',
       frontImg: '10Sh1958f.jpg',
       frontTitle: 'REPUBLIK·ÖSTERREICH',
-      frontDescription: 'Austrian escutcheon, red and white',
+      frontDescription: 'Austrian escutcheon red and white',
       backImg: '1sh1961b.jpg',
       backTitle: 'SCHILLING',
       backDescription: 'Woman head wearing the traditional Lower Austria hat',
       bottomContent: 'austria',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 201,
       country: 'Austria',
@@ -4833,7 +5032,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'GROSCHEN',
       backDescription: "The face value divides the date and a gentian flower or Stemless gentian flower (Binomial Name: Gentiana acaulis) partially inside the number '50'",
       bottomContent: 'austria',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 202,
       country: 'Belgium',
@@ -4847,12 +5047,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '10 Centimes',
       frontImg: '10cen1904f.jpg',
       frontTitle: 'Copper-Nickel',
-      frontDescription: 'Center hole within crowned monogram, large date below, legend in Dutch',
+      frontDescription: 'Center hole within crowned monogram large date below legend in Dutch',
       backImg: '10cen1904b.jpg',
       backTitle: 'BELGIE',
-      backDescription: 'Spray of leaves to left of center hole, denomination to right',
+      backDescription: 'Spray of leaves to left of center hole denomination to right',
       bottomContent: 'belgium',
-      price: 25
+      price: 25,
+      '': ''
     }, {
       id: 203,
       country: 'Belgium',
@@ -4866,12 +5067,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '5 Francs',
       frontImg: '1949Belgium5Fraf.jpg',
       frontTitle: 'BELGIE',
-      frontDescription: 'Laureate head, left, small diamonds flank date at left, symbol at right',
+      frontDescription: 'Laureate head left small diamonds flank date at left symbol at right',
       backImg: '1949Belgium5Frab.jpg',
       backTitle: '',
-      backDescription: 'Plant divides denomination, Crown at top, legend in Dutch',
+      backDescription: 'Plant divides denomination Crown at top legend in Dutch',
       bottomContent: 'belgium',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 204,
       country: 'CCCP',
@@ -4890,7 +5092,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Rouble',
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 205,
       country: 'CCCP',
@@ -4909,7 +5112,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Rouble',
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 206,
       country: 'CCCP',
@@ -4928,7 +5132,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Rouble',
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 207,
       country: 'CCCP',
@@ -4947,7 +5152,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Rouble',
       backDescription: 'Value and date within wheat sprigs.',
       bottomContent: 'cccp',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 208,
       country: 'Denmark',
@@ -4961,12 +5167,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Head of King Gustaf V, facing left. The tip of neck-cut divides mintmarks at sides',
       frontImg: '19481Kronef.jpg',
       frontTitle: 'Aluminum-Bronze',
-      frontDescription: 'Head right, titles, mint mark, initials N-S',
+      frontDescription: 'Head right titles mint mark initials N-S',
       backImg: '19481Kroneb.jpg',
       backTitle: 'Frederik IX',
-      backDescription: 'Crowned royal arms divide date, value above',
+      backDescription: 'Crowned royal arms divide date value above',
       bottomContent: 'denmark',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 209,
       country: 'Norway',
@@ -4985,7 +5192,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Crowned Norwegian coat of arms with the Norwegian lion',
       bottomContent: 'norway',
-      price: 40
+      price: 40,
+      '': ''
     }, {
       id: 210,
       country: 'Norway',
@@ -5004,7 +5212,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Den norske løve.',
       bottomContent: 'norway',
-      price: 25
+      price: 25,
+      '': ''
     }, {
       id: 211,
       country: 'Norway',
@@ -5023,7 +5232,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
-      price: 30
+      price: 30,
+      '': ''
     }, {
       id: 212,
       country: 'Norway',
@@ -5042,7 +5252,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 213,
       country: 'Norway',
@@ -5061,7 +5272,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 214,
       country: 'Norway',
@@ -5080,7 +5292,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Two ornamental roses',
       bottomContent: 'norway',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 215,
       country: 'Norway',
@@ -5099,7 +5312,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Crowned collar chain of the Royal Norwegian Order of Saint Olav around a hole.',
       bottomContent: 'norway',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 216,
       country: 'Norway',
@@ -5113,12 +5327,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Haakon VII was King of Norway from November 1905 until his death in September 1957. Originally a Danish prince, he was born in Copenhagen as the son of the future Frederick VIII of Denmark and Louise of Sweden.',
       frontImg: '194150of.jpg',
       frontTitle: '50 Ore',
-      frontDescription: 'Central hole. Each quarter contains a 7 within a stylized H, and crown on top.',
+      frontDescription: 'Central hole. Each quarter contains a 7 within a stylized H and crown on top.',
       backImg: '194150ob.jpg',
       backTitle: 'Haakon VII',
-      backDescription: 'Central hole. Date below with value at bottom, an ornamental rose either side, crown at top.',
+      backDescription: 'Central hole. Date below with value at bottom an ornamental rose either side crown at top.',
       bottomContent: 'norway',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 217,
       country: 'Norway',
@@ -5132,12 +5347,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Haakon VII was King of Norway from November 1905 until his death in September 1957. Originally a Danish prince, he was born in Copenhagen as the son of the future Frederick VIII of Denmark and Louise of Sweden.',
       frontImg: '194025of.jpg',
       frontTitle: '25 Ore',
-      frontDescription: 'Crowned cross with monogram in each quarter, hole in centre',
+      frontDescription: 'Crowned cross with monogram in each quarter hole in centre',
       backImg: '194025ob.jpg',
       backTitle: 'Haakon VII',
-      backDescription: 'Value and date below, two ornamental roses flank centre hole, crown above',
+      backDescription: 'Value and date below two ornamental roses flank centre hole crown above',
       bottomContent: 'norway',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 218,
       country: 'Norway',
@@ -5156,7 +5372,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'All for Norway',
       bottomContent: 'norway',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 219,
       country: 'Norway',
@@ -5175,7 +5392,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Haakon VII',
       backDescription: 'Kingdom of Norway',
       bottomContent: 'norway',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 220,
       country: 'Poland',
@@ -5194,7 +5412,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Second Zloty',
       backDescription: 'A Stylized flower on either side of Denomination',
       bottomContent: 'poland',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 221,
       country: 'France',
@@ -5213,7 +5432,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'LIBERTE EGALITE',
       backDescription: 'Value and date with mintmark on left.',
       bottomContent: 'france',
-      price: 30
+      price: 30,
+      '': ''
     }, {
       id: 222,
       country: 'France',
@@ -5230,9 +5450,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Female head facing left',
       backImg: '195210fb.jpg',
       backTitle: '10 Francs',
-      backDescription: 'Rooster facing right, laurel branch, value, year of production, pattern around edge.',
+      backDescription: 'Rooster facing right laurel branch value year of production pattern around edge.',
       bottomContent: 'france',
-      price: 35
+      price: 35,
+      '': ''
     }, {
       id: 223,
       country: 'France',
@@ -5249,9 +5470,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'The head of Republic right with a phrygian cap which brushes by the denticles.',
       backImg: '194910fb.jpg',
       backTitle: '10 Francs',
-      backDescription: 'Denomination above date, inscription below, grain columns flank.',
+      backDescription: 'Denomination above date inscription below grain columns flank.',
       bottomContent: 'france',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 224,
       country: 'France',
@@ -5265,12 +5487,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower.',
       frontImg: '19361ff.jpg',
       frontTitle: 'FRANÇAISE',
-      frontDescription: "Marianne's head left wearing a phrygian cap decorated with a composite wreath made of olive tree leaves, oak and wheat.",
+      frontDescription: "Marianne's head left wearing a phrygian cap decorated with a composite wreath made of olive tree leaves oak and wheat.",
       backImg: '19361fb.jpg',
       backTitle: '1 Francs',
-      backDescription: 'Value encompassed on either side by Cornucopia (or horn of plenty, overflowing with produce, flowers, or nuts).',
+      backDescription: 'Value encompassed on either side by Cornucopia (or horn of plenty overflowing with produce flowers or nuts).',
       bottomContent: 'france',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 225,
       country: 'France',
@@ -5284,12 +5507,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower.',
       frontImg: '192350cf.jpg',
       frontTitle: 'CENTIMES',
-      frontDescription: 'Mercury, the god of commerce (god of abundance and commercial success',
+      frontDescription: 'Mercury the god of commerce (god of abundance and commercial success',
       backImg: '192350cb.jpg',
       backTitle: 'COMMERCE',
-      backDescription: 'Denomination in center, lettering surrounding',
+      backDescription: 'Denomination in center lettering surrounding',
       bottomContent: 'france',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 226,
       country: 'France',
@@ -5303,12 +5527,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower.',
       frontImg: '19232fcf.jpg',
       frontTitle: 'FRANÇAISE',
-      frontDescription: 'Mercury, the god of commerce (god of abundance and commercial success)',
+      frontDescription: 'Mercury the god of commerce (god of abundance and commercial success)',
       backImg: '19232fcb.jpg',
       backTitle: 'COMMERCE',
-      backDescription: 'Denomination in center, lettering surrounding',
+      backDescription: 'Denomination in center lettering surrounding',
       bottomContent: 'france',
-      price: 40
+      price: 40,
+      '': ''
     }, {
       id: 227,
       country: 'France',
@@ -5322,12 +5547,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower.',
       frontImg: '192510cf.jpg',
       frontTitle: 'FRANÇAISE',
-      frontDescription: "A wreath and the engraver's name at the bottom, cap at the top with the letter R to the left of the central hole, letter F to right, the base of letters intertwined below",
+      frontDescription: "A wreath and the engraver's name at the bottom cap at the top with the letter R to the left of the central hole letter F to right the base of letters intertwined below",
       backImg: '192510cb.jpg',
       backTitle: 'EM LINDAUER',
-      backDescription: 'A plant below the hole, date at the bottom. Lettering above the hole, value divided by hole, date at the bottom, and the privy mark on the left below the 1',
+      backDescription: 'A plant below the hole date at the bottom. Lettering above the hole value divided by hole date at the bottom and the privy mark on the left below the 1',
       bottomContent: 'france',
-      price: 40
+      price: 40,
+      '': ''
     }, {
       id: 228,
       country: 'Spain',
@@ -5346,7 +5572,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Royal Mint of Spain',
       backDescription: 'The Spanish coat of arms with the eagle of Saint John and the year in the star to the left with the denomination at the top',
       bottomContent: 'spain',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 229,
       country: 'Sweden',
@@ -5365,7 +5592,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'King of Sweden',
       backDescription: 'Crowned coat of arms divides date',
       bottomContent: 'sweden',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 230,
       country: 'Sweden',
@@ -5382,9 +5610,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Big Crown',
       backImg: '195750ob.jpg',
       backTitle: 'King of Sweden',
-      backDescription: 'Value with date below and name of the country above. At sides of value there are: the mintmark at left, and at right there is the first letter in the surname of the Governor of the Riksbank.',
+      backDescription: 'Value with date below and name of the country above. At sides of value there are: the mintmark at left and at right there is the first letter in the surname of the Governor of the Riksbank.',
       bottomContent: 'sweden',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 231,
       country: 'Sweden',
@@ -5403,7 +5632,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'With the People for the Motherland',
       backDescription: 'The Three crowns of Sweden divides value in letters at base of lower crown. Above the crowns there is the value in number and below the mintmark of Stockholm mint.',
       bottomContent: 'sweden',
-      price: ''
+      price: '',
+      '': ''
     }, {
       id: 232,
       country: 'Switzerland',
@@ -5422,7 +5652,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: '',
       backDescription: 'Value within wreath',
       bottomContent: 'switzerland',
-      price: 75
+      price: 75,
+      '': ''
     }, {
       id: 233,
       country: 'Yugoslavia',
@@ -5439,9 +5670,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'The name of the country above the old arms of Yugoslavi',
       backImg: '19531db.jpg',
       backTitle: 'Republic of Yugoslavia',
-      backDescription: 'Seven stars above value, the date on the left and right sides.',
+      backDescription: 'Seven stars above value the date on the left and right sides.',
       bottomContent: 'yugoslavia',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 234,
       country: 'Yugoslavia',
@@ -5458,9 +5690,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'The name of the country above the old arms of Yugoslavi',
       backImg: '19535db.jpg',
       backTitle: 'Republic of Yugoslavia',
-      backDescription: 'Seven stars above value, the date on the left and right sides.',
+      backDescription: 'Seven stars above value the date on the left and right sides.',
       bottomContent: 'yugoslavia',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 235,
       country: 'Switzerland',
@@ -5477,9 +5710,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Standing Helvetia with lance and shield within star border',
       backImg: '19451frb.jpg',
       backTitle: 'Switzerland Franc',
-      backDescription: 'Value, date within wreath',
+      backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 236,
       country: 'Switzerland',
@@ -5496,9 +5730,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Standing Helvetia with lance and shield within star border',
       backImg: '195212frb.jpg',
       backTitle: 'Switzerland Franc',
-      backDescription: 'Value, date within wreath',
+      backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 237,
       country: 'Switzerland',
@@ -5515,9 +5750,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Standing Helvetia with lance and shield within star border',
       backImg: '195120rapb.jpg',
       backTitle: 'Switzerland Franc',
-      backDescription: 'Value, date within wreath',
+      backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 238,
       country: 'Switzerland',
@@ -5534,9 +5770,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Standing Helvetia with lance and shield within star border',
       backImg: '194610rapb.jpg',
       backTitle: 'Switzerland Franc',
-      backDescription: 'Value, date within wreath',
+      backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 239,
       country: 'Switzerland',
@@ -5553,9 +5790,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Standing Helvetia with lance and shield within star border',
       backImg: '19532rapb.jpg',
       backTitle: 'Switzerland Franc',
-      backDescription: 'Value, date within wreath',
+      backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 240,
       country: 'Switzerland',
@@ -5572,9 +5810,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Standing Helvetia with lance and shield within star border',
       backImg: '19541rapb.jpg',
       backTitle: 'Switzerland Franc',
-      backDescription: 'Value, date within wreath',
+      backDescription: 'Value date within wreath',
       bottomContent: 'switzerland',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 241,
       country: 'Switzerland',
@@ -5593,7 +5832,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Switzerland Franc',
       backDescription: 'Wreath with two laurel branches tied with a ribbon below.',
       bottomContent: 'switzerland',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 242,
       country: 'Switzerland',
@@ -5612,7 +5852,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Switzerland Franc',
       backDescription: 'Wreath with two laurel branches tied with a ribbon below.',
       bottomContent: 'switzerland',
-      price: 30
+      price: 30,
+      '': ''
     }, {
       id: 243,
       country: 'Switzerland',
@@ -5626,12 +5867,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '1 rappen',
       frontImg: '18941rapf.jpg',
       frontTitle: 'Helvetia',
-      frontDescription: 'Shield within sprigs, date below',
+      frontDescription: 'Shield within sprigs date below',
       backImg: '18941rapb.jpg',
       backTitle: 'Switzerland Franc',
       backDescription: 'Value within wreath',
       bottomContent: 'switzerland',
-      price: 100
+      price: 100,
+      '': ''
     }, {
       id: 244,
       country: 'Switzerland',
@@ -5645,12 +5887,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '2 Pfennigs',
       frontImg: '19262Pff.jpg',
       frontTitle: 'Helvetia',
-      frontDescription: 'Shield within sprigs, date below',
+      frontDescription: 'Shield within sprigs date below',
       backImg: '19262Pfb.jpg',
       backTitle: 'Switzerland Franc',
       backDescription: 'Value within wreath',
       bottomContent: 'switzerland',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 245,
       country: 'Switzerland',
@@ -5664,12 +5907,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the 1\u001a2, 1, and 2 franc pieces was circa 46% higher than their nominal value.',
       frontImg: '19545frf.jpg',
       frontTitle: 'Helvetia',
-      frontDescription: 'Bust of curly-haired herdsman, facing righ',
+      frontDescription: 'Bust of curly-haired herdsman facing righ',
       backImg: '19545frb.jpg',
       backTitle: 'Confoederatio Helvetica',
       backDescription: 'Coat of arms of Switzerland on square shield.',
       bottomContent: 'switzerland',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 246,
       country: 'Switzerland',
@@ -5683,12 +5927,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the 1/2 franc pieces was circa 0.73 francs. Switzerland started to experience a severe shortage of cash, especially in the north, where people were illegally exporting coins to Germany to be melted.',
       frontImg: '19482frf.jpg',
       frontTitle: 'Helvetia',
-      frontDescription: 'Full-length figure of Helvetia, standing, facing left, wearing toga',
+      frontDescription: 'Full-length figure of Helvetia standing facing left wearing toga',
       backImg: '19482frb.jpg',
       backTitle: 'Switzerland Franc',
       backDescription: 'Wreath formed of oak and alpine rose branches tied with a ribbon below.',
       bottomContent: 'switzerland',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 247,
       country: 'Denmark',
@@ -5702,12 +5947,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Head of King Gustaf V, facing left. The tip of neck-cut divides mintmarks at sides',
       frontImg: '195425oref.jpg',
       frontTitle: 'Copper-Nickel',
-      frontDescription: 'Crowned F IX R monogram divides value, oak and beech branches below',
+      frontDescription: 'Crowned F IX R monogram divides value oak and beech branches below',
       backImg: '195425oreb.jpg',
       backTitle: 'Frederik IX',
-      backDescription: 'Value, country name, mint mark, initials N-S',
+      backDescription: 'Value country name mint mark initials N-S',
       bottomContent: 'denmark',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 248,
       country: 'Italy',
@@ -5721,12 +5967,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victor Emmanuel III, born Vittorio Emanuele Ferdinando Maria Gennaro di Savoia, was King of Italy from 29 July 1900 until his abdication on 9 May 1946. A member of the House of Savoy, he also reigned as Emperor of Ethiopia and King of the Albanians.',
       frontImg: '191820cf.jpg',
       frontTitle: 'Victor Emmanuel III',
-      frontDescription: "Crowned Savoia Shield between twisted branches of laurel and oak, the issuer name above, and the engraver's initials below",
+      frontDescription: "Crowned Savoia Shield between twisted branches of laurel and oak the issuer name above and the engraver's initials below",
       backImg: '191820cb.jpg',
       backTitle: 'Kingdom of Italy',
       backDescription: 'Value and date of the coin within a hexagon surrounded by a laurel wreath and the mintmark below the date',
       bottomContent: 'italy',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 249,
       country: 'Italy',
@@ -5740,12 +5987,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victor Emmanuel III, born Vittorio Emanuele Ferdinando Maria Gennaro di Savoia, was King of Italy from 29 July 1900 until his abdication on 9 May 1946. A member of the House of Savoy, he also reigned as Emperor of Ethiopia and King of the Albanians.',
       frontImg: '192110cf.jpg',
       frontTitle: 'Emanuele III',
-      frontDescription: 'The portrait of King Vittorio Emanuele III facing left with the name of the author below the neck, with lettering around the outside',
+      frontDescription: 'The portrait of King Vittorio Emanuele III facing left with the name of the author below the neck with lettering around the outside',
       backImg: '192110cb.jpg',
       backTitle: 'Centesimi',
-      backDescription: 'A honeybee on a flower with the value on the bottom right, the date on the bottom, and the mintmark to the left',
+      backDescription: 'A honeybee on a flower with the value on the bottom right the date on the bottom and the mintmark to the left',
       bottomContent: 'italy',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 250,
       country: 'Italy',
@@ -5759,12 +6007,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victor Emmanuel III, born Vittorio Emanuele Ferdinando Maria Gennaro di Savoia, was King of Italy from 29 July 1900 until his abdication on 9 May 1946. A member of the House of Savoy, he also reigned as Emperor of Ethiopia and King of the Albanians.',
       frontImg: '19275cf.jpg',
       frontTitle: 'Emanuele III',
-      frontDescription: 'Head of king Victor Emmanuel III facing left, lettering around edge.',
+      frontDescription: 'Head of king Victor Emmanuel III facing left lettering around edge.',
       backImg: '19275cb.jpg',
       backTitle: 'Centesimi',
       backDescription: 'Large central ear of wheat divides value with the date to the lower right and the mintmark to the bottom right of the wheat.',
       bottomContent: 'italy',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 251,
       country: 'Italy',
@@ -5778,12 +6027,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: "Umberto I (Italian: Umberto Ranieri Carlo Emanuele Giovanni Maria Ferdinando Eugenio di Savoia; 14 March 1844 \u001a 29 July 1900) was King of Italy from 9 January 1878 until his assassination in 1900. His reign saw Italy's expansion into the Horn of Africa, as well as the creation of the Triple Alliance among Italy, Germany and Austria-Hungary.",
       frontImg: '189420cf.jpg',
       frontTitle: 'Umberto I',
-      frontDescription: 'Royal crown in the centre with the date below, all encircled by a wreath made by a branch of laurel and one of oak, the Star of Italy above, and the Mintmark below the wreath',
+      frontDescription: 'Royal crown in the centre with the date below all encircled by a wreath made by a branch of laurel and one of oak the Star of Italy above and the Mintmark below the wreath',
       backImg: '189420cb.jpg',
       backTitle: 'Centesimi',
       backDescription: 'Denomination inside a central beaded circle and lettering around outside of circle',
       bottomContent: 'italy',
-      price: 90
+      price: 90,
+      '': ''
     }, {
       id: 252,
       country: 'Italy',
@@ -5797,12 +6047,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Victor Emmanuel II was King of Sardinia from 23 March 1849 until 17 March 1861, when he assumed the title of King of Italy and became the first king of an independent, united Italy since the 6th century, a title he held until his death in 1878.',
       frontImg: '18631lf.jpg',
       frontTitle: 'Victor Emmanuel III',
-      frontDescription: 'Head of King Vittorio Emanuele II right, with the name of the engraver below the neck',
+      frontDescription: 'Head of King Vittorio Emanuele II right with the name of the engraver below the neck',
       backImg: '18631lb.jpg',
       backTitle: 'Lira',
-      backDescription: "Savoia coat of arms decorated with the Collare dell'Annunziata, both within a laurel wreath.Below value of the coin and mintmark.",
+      backDescription: "Savoia coat of arms decorated with the Collare dell'Annunziata both within a laurel wreath.Below value of the coin and mintmark.",
       bottomContent: 'italy',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 253,
       country: 'Italy',
@@ -5819,9 +6070,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Head of King Vittorio Emanuele II left and the name of the engraver below the neck',
       backImg: '18625cb.jpg',
       backTitle: 'Centesimi',
-      backDescription: 'Value and date within two branches, one of laurel and the other of oak with the star of Italy above and the mintmark below',
+      backDescription: 'Value and date within two branches one of laurel and the other of oak with the star of Italy above and the mintmark below',
       bottomContent: 'italy',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 254,
       country: 'Italy',
@@ -5838,9 +6090,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Woman head with oak wreath in hair facing right. Designer and engraver names below.',
       backImg: '195450lb.jpg',
       backTitle: 'Lira',
-      backDescription: 'Representation of the god Vulcan beating iron on an anvil. Date left, denomination right',
+      backDescription: 'Representation of the god Vulcan beating iron on an anvil. Date left denomination right',
       bottomContent: 'italy',
-      price: 30
+      price: 30,
+      '': ''
     }, {
       id: 255,
       country: 'Italy',
@@ -5854,12 +6107,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '1952 italy 10 lire',
       frontImg: '195210lf.jpg',
       frontTitle: 'Giampaoli',
-      frontDescription: 'Plough, lettering above, date below',
+      frontDescription: 'Plough lettering above date below',
       backImg: '195210lb.jpg',
       backTitle: 'Lira',
       backDescription: 'Two ears of wheat dividing by value',
       bottomContent: 'italy',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 256,
       country: 'Italy',
@@ -5878,7 +6132,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Lira',
       backDescription: 'Dolphin and value',
       bottomContent: 'italy',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 257,
       country: 'Italy',
@@ -5895,9 +6150,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Head of King Vittorio Emanuele III facing right and the name of the engraver below the neck',
       backImg: '194250cb.jpg',
       backTitle: 'Italia',
-      backDescription: 'Side view of an eagle with raised wings holding a fasces with an axe in its claws, date and year of Fascist Era on the left, near the tail. Below the fasces, in exergue, the Savoy shield divides the value and mintmark at sides.',
+      backDescription: 'Side view of an eagle with raised wings holding a fasces with an axe in its claws date and year of Fascist Era on the left near the tail. Below the fasces in exergue the Savoy shield divides the value and mintmark at sides.',
       bottomContent: 'italy',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 258,
       country: 'Italy',
@@ -5916,7 +6172,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Giampaoli',
       backDescription: 'Bust left within wreath',
       bottomContent: 'italy',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 259,
       country: 'Italy',
@@ -5930,12 +6187,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '1955 100 Lira',
       frontImg: '1955100lf.jpg',
       frontTitle: '100 Lira',
-      frontDescription: 'Female head with laurel wreath facing left, dividing the country name on both sides. Names of the designer and engraver below.',
+      frontDescription: 'Female head with laurel wreath facing left dividing the country name on both sides. Names of the designer and engraver below.',
       backImg: '1955100lb.jpg',
       backTitle: 'Giampaoli',
-      backDescription: 'Goddess Minerva facing left reaching an olive tree with her raised right hand while in the left holds a long spear. Value at left of olive trunk; mintmark at right of the Goddess. Date below, in exergu',
+      backDescription: 'Goddess Minerva facing left reaching an olive tree with her raised right hand while in the left holds a long spear. Value at left of olive trunk; mintmark at right of the Goddess. Date below in exergu',
       bottomContent: 'italy',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 260,
       country: 'Italy',
@@ -5952,9 +6210,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Head of King Vittorio Emanuele III facing right.Below the neck the name of the engraver',
       backImg: '19392lb.jpg',
       backTitle: 'Romagnoli',
-      backDescription: 'Eagle in profile, with outstretched wings and head left, has fasces with axe in its claws. The eagle is encircled by a laurel wreath made of two branches. Where the branches meet together at base is the Shield of Savoy which divides the value below. The date is on the left of the value, while the mint mark and the year in the Fascist Era are at right.',
+      backDescription: 'Eagle in profile with outstretched wings and head left has fasces with axe in its claws. The eagle is encircled by a laurel wreath made of two branches. Where the branches meet together at base is the Shield of Savoy which divides the value below. The date is on the left of the value while the mint mark and the year in the Fascist Era are at right.',
       bottomContent: 'italy',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 261,
       country: 'Italy',
@@ -5971,9 +6230,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Head of King Vittorio Emanuele II left and the name of the engraver below the neck',
       backImg: '186710cb.jpg',
       backTitle: 'Victor Emmanuel II',
-      backDescription: 'Value and date within two branches, one of laurel and the other of oak and the star of Italy above and the sign of the mint below',
+      backDescription: 'Value and date within two branches one of laurel and the other of oak and the star of Italy above and the sign of the mint below',
       bottomContent: 'italy',
-      price: 50
+      price: 50,
+      '': ''
     }, {
       id: 262,
       country: 'Austria',
@@ -5992,7 +6252,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'EIN SCHILLING',
       backDescription: 'A sower the face value and the state title',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 263,
       country: 'Austria',
@@ -6011,7 +6272,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: '50 Groschen',
       backDescription: 'Austrian escutcheon and four ears',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 264,
       country: 'Austria',
@@ -6030,7 +6292,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: '20 Groschen',
       backDescription: 'Austrian escutcheon and four ears',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 265,
       country: 'Austria',
@@ -6044,12 +6307,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '1952 10 Groschen',
       frontImg: '195210gf.jpg',
       frontTitle: 'REPUBLIK·ÖSTERREICH',
-      frontDescription: 'The Austrian coat of arms (the imperial eagle carrying the Austrian shield on its breast) with broken chains, which signify Austria as an independent country, and the country name as a stylized inscription, and denomination in the scalloped rim.',
+      frontDescription: 'The Austrian coat of arms (the imperial eagle carrying the Austrian shield on its breast) with broken chains which signify Austria as an independent country and the country name as a stylized inscription and denomination in the scalloped rim.',
       backImg: '195210gb.jpg',
       backTitle: '10 Groschen',
       backDescription: 'The face value above the year in a scalloped rim.',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 266,
       country: 'Austria',
@@ -6066,9 +6330,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Austria coat of arms (an eagle carries the Austrian escutcheon)',
       backImg: '19522gb.jpg',
       backTitle: '2 Groschen',
-      backDescription: 'enomination in circle of dots, name of the state around, date below.',
+      backDescription: 'enomination in circle of dots name of the state around date below.',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 267,
       country: 'Austria',
@@ -6087,7 +6352,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: '2 Groschen',
       backDescription: 'Coat of arms on spray of edelweiss',
       bottomContent: 'austria',
-      price: 40
+      price: 40,
+      '': ''
     }, {
       id: 268,
       country: 'Austria',
@@ -6101,12 +6367,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '1924 10 Groschen',
       frontImg: '192410gf.jpg',
       frontTitle: 'REPUBLIK·ÖSTERREICH',
-      frontDescription: 'A woman of the region of Tyrol, facing right, wearing a hat, with mountains in the background',
+      frontDescription: 'A woman of the region of Tyrol facing right wearing a hat with mountains in the background',
       backImg: '192410gb.jpg',
       backTitle: '10 Groschen',
       backDescription: 'The value above year within a circular floral wreath of gentian flowers alternating with edelweiss flowers',
       bottomContent: 'austria',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 269,
       country: 'Austria',
@@ -6125,7 +6392,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Häuslerr',
       backDescription: '2oo',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 270,
       country: 'Austria',
@@ -6142,9 +6410,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Crowned double-headed eagle with Austrian shield on breast.',
       backImg: '191620hb.jpg',
       backTitle: 'Schwartz',
-      backDescription: 'Value within wreath, date below',
+      backDescription: 'Value within wreath date below',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 271,
       country: 'Austria',
@@ -6161,9 +6430,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Habsburg coat of arms',
       backImg: '191610hb.jpg',
       backTitle: 'Schwartz',
-      backDescription: 'Value within wreath, date below',
+      backDescription: 'Value within wreath date below',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 272,
       country: 'Austria',
@@ -6177,12 +6447,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: '1894 2 Hellers',
       frontImg: '18942hf.jpg',
       frontTitle: 'REPUBLIK·ÖSTERREICH',
-      frontDescription: 'The 1867\u001a1915 coat of arms of Austria-Hungary, a double-headed imperial eagle with Habsburg-Lorraine shield on breast.',
+      frontDescription: 'The 1867\u001a1915 coat of arms of Austria-Hungary a double-headed imperial eagle with Habsburg-Lorraine shield on breast.',
       backImg: '18942hb.jpg',
       backTitle: 'Schwartz',
-      backDescription: 'Value within wreath, date below',
+      backDescription: 'Value within wreath date below',
       bottomContent: 'austria',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 273,
       country: 'Austria',
@@ -6199,9 +6470,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'The double headed imperial eagle with Habsburg-Lorraine shield on breast.',
       backImg: '18951hb.jpg',
       backTitle: 'Neudeck',
-      backDescription: 'Value above sprays, date below, within curved stylised shield',
+      backDescription: 'Value above sprays date below within curved stylised shield',
       bottomContent: 'austria',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 274,
       country: 'Austria',
@@ -6215,12 +6487,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Franz Joseph I or Francis Joseph I (German: Franz Joseph Karl [f\u001aants \u001ajo\u001az\u001af \u001aka\u001al]; Hungarian: Ferenc József Károly [\u001af\u001ar\u001ant\u001as \u001ajo\u001a\u001a\u001af \u001aka\u001aroj]; 18 August 1830 \u001a 21 November 1916) was Emperor of Austria, King of Hungary, and the ruler of the other states of the Habsburg monarchy from 2 December 1848 until his death in 1916.[1] In the early part of his reign, his realms and territories were referred to as the Austrian Empire, but were reconstituted as the dual monarchy of the Austro-Hungarian Empire in 1867. From 1 May 1850 to 24 August 1866, he was also president of the German Confederation.',
       frontImg: '186920kf.jpg',
       frontTitle: '20 Kreuzers',
-      frontDescription: 'Head to the right, legend around (starts 7h).',
+      frontDescription: 'Head to the right legend around (starts 7h).',
       backImg: '186920kb.jpg',
       backTitle: 'Francis Joseph I',
-      backDescription: 'Crowned imperial eagle, value at centre, legend around (starts 1h) for Hungariae Bohemiae Galiciae Lodomeriae Illyriae Rex Archidux Austriae.',
+      backDescription: 'Crowned imperial eagle value at centre legend around (starts 1h) for Hungariae Bohemiae Galiciae Lodomeriae Illyriae Rex Archidux Austriae.',
       bottomContent: 'austria',
-      price: 30
+      price: 30,
+      '': ''
     }, {
       id: 275,
       country: 'Austria',
@@ -6237,9 +6510,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Laureate head facing right. Legend around (starts 8h)',
       backImg: '187210kb.jpg',
       backTitle: 'Francis Joseph I',
-      backDescription: 'Crowned double headed imperial eagle with value on breast. Legend around (starts 1h), date at end of legend.',
+      backDescription: 'Crowned double headed imperial eagle with value on breast. Legend around (starts 1h) date at end of legend.',
       bottomContent: 'austria',
-      price: 15
+      price: 15,
+      '': ''
     }, {
       id: 276,
       country: 'Austria',
@@ -6258,7 +6532,8 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Francis Joseph I',
       backDescription: 'Crowned denomination above date',
       bottomContent: 'austria',
-      price: 25
+      price: 25,
+      '': ''
     }, {
       id: 277,
       country: 'Austria',
@@ -6272,12 +6547,13 @@ let InMemoryDataService = class InMemoryDataService {
       description: 'Franz Joseph I or Francis Joseph I (German: Franz Joseph Karl [f\u001aants \u001ajo\u001az\u001af \u001aka\u001al]; Hungarian: Ferenc József Károly [\u001af\u001ar\u001ant\u001as \u001ajo\u001a\u001a\u001af \u001aka\u001aroj]; 18 August 1830 \u001a 21 November 1916) was Emperor of Austria, King of Hungary, and the ruler of the other states of the Habsburg monarchy from 2 December 1848 until his death in 1916.[1] In the early part of his reign, his realms and territories were referred to as the Austrian Empire, but were reconstituted as the dual monarchy of the Austro-Hungarian Empire in 1867. From 1 May 1850 to 24 August 1866, he was also president of the German Confederation.',
       frontImg: '18511kf.jpg',
       frontTitle: '1 Kreuzers',
-      frontDescription: 'The double-headed eagle, lettering around outside within a beaded border',
+      frontDescription: 'The double-headed eagle lettering around outside within a beaded border',
       backImg: '18511kb.jpg',
       backTitle: 'Gross',
-      backDescription: 'The value above dividing line, year and mintmark below',
+      backDescription: 'The value above dividing line year and mintmark below',
       bottomContent: 'austria',
-      price: 10
+      price: 10,
+      '': ''
     }, {
       id: 278,
       country: 'Ireland',
@@ -6294,9 +6570,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
       backImg: '19261sb.jpg',
       backTitle: 'Irish Free State',
-      backDescription: 'Bull, facing right. Denomination above and in exergue.',
+      backDescription: 'Bull facing right. Denomination above and in exergue.',
       bottomContent: 'ireland',
-      price: 75
+      price: 75,
+      '': ''
     }, {
       id: 279,
       country: 'Ireland',
@@ -6313,9 +6590,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
       backImg: '19231rb.jpg',
       backTitle: 'Irish Free State',
-      backDescription: 'Irish Wolfhound, facing left',
+      backDescription: 'Irish Wolfhound facing left',
       bottomContent: 'ireland',
-      price: 20
+      price: 20,
+      '': ''
     }, {
       id: 280,
       country: 'Ireland',
@@ -6332,9 +6610,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
       backImg: '193451rb.jpg',
       backTitle: 'Irish Free State',
-      backDescription: 'Seated hare, facing left',
+      backDescription: 'Seated hare facing left',
       bottomContent: 'ireland',
-      price: 5
+      price: 5,
+      '': ''
     }, {
       id: 281,
       country: 'Ireland',
@@ -6351,9 +6630,10 @@ let InMemoryDataService = class InMemoryDataService {
       frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
       backImg: '19511sb.jpg',
       backTitle: 'Irish Free State',
-      backDescription: 'Bull, facing right. Denomination above and in exergue.',
+      backDescription: 'Bull facing right. Denomination above and in exergue.',
       bottomContent: 'ireland',
-      price: 30
+      price: 30,
+      '': ''
     }];
     return {
       menu,

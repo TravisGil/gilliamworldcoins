@@ -681,6 +681,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'An original crown from the reign of Charles II .',
 				bottomContent: 'An original crown from the reign of Charles II .',
 				price: '$1,400',
+				'': '',
 			},
 			{
 				id: 2,
@@ -699,9 +700,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'The second bust covered a 1687 Tertio edge.',
 				backImg: '1687b.jpg',
 				backTitle: 'Cruciform',
-				backDescription: 'Qvarto edge, Crowned Cruciform shields.',
+				backDescription: 'Qvarto edge Crowned Cruciform shields.',
 				bottomContent: 'Qvarto edge, Crowned Cruciform shields.',
 				price: '$1,200',
+				'': '',
 			},
 			{
 				id: 3,
@@ -724,6 +726,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'First harp in left shield',
 				bottomContent: 'First harp in left shield',
 				price: '$1,400',
+				'': '',
 			},
 			{
 				id: 4,
@@ -742,10 +745,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'ANNA DEI GRATIA',
 				backImg: '1707b.jpg',
 				backTitle: 'Anne',
-				backDescription:
-					'Crowned shields cruciform, six strings to Irish harp.',
+				backDescription: 'Crowned shields cruciform six strings to Irish harp.',
 				bottomContent: 'Crowned shields cruciform, six strings to Irish harp.',
 				price: '$800',
+				'': '',
 			},
 			{
 				id: 5,
@@ -769,6 +772,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				bottomContent:
 					'One of the first coins to feature the iconic St George and the dragon design.',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 6,
@@ -791,6 +795,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Shame on him who thinks evil of it.',
 				bottomContent: 'GEORGE',
 				price: '$200',
+				'': '',
 			},
 			{
 				id: 7,
@@ -806,12 +811,13 @@ export class InMemoryDataService implements InMemoryDbService {
 					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
 				frontImg: '1822f.jpg',
 				frontTitle: 'SECUNDO',
-				frontDescription: 'Head of king George IV, facing left.',
+				frontDescription: 'Head of king George IV facing left.',
 				backImg: '1822b.jpg',
 				backTitle: 'Saint George and the Dragon',
 				backDescription: 'Reverse by the legendary Benedetto Pistrucc.',
 				bottomContent: 'reverse by the legendary Benedetto Pistrucc.',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 8,
@@ -833,6 +839,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned arms within branches',
 				bottomContent: 'Crowned arms within branches',
 				price: '$200',
+				'': '',
 			},
 			{
 				id: 9,
@@ -849,14 +856,15 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1847f.jpg',
 				frontTitle: 'Victoria',
 				frontDescription:
-					'A sought after 1847 silver Crown of Queen Victoria. This issue is known as the Gothic Crown because its style was inspired by medieval revivalism, a popular art style of that looked to the middle ages for inspiration. The ornate obverse portrait shows Victoria wearing an ornate dress and crown, a plait looping around her ear.',
+					'A sought after 1847 silver Crown of Queen Victoria. This issue is known as the Gothic Crown because its style was inspired by medieval revivalism a popular art style of that looked to the middle ages for inspiration. The ornate obverse portrait shows Victoria wearing an ornate dress and crown a plait looping around her ear.',
 				backImg: '1847b.jpg',
 				backTitle: 'Cruciform',
 				backDescription:
-					'The reverse though the crowned cruciform shields motif is the work of Scottish artist, William Wyon.',
+					'The reverse though the crowned cruciform shields motif is the work of Scottish artist William Wyon.',
 				bottomContent:
 					'Just 8,000 Gothic crowns were used in 1847 and it remains one of the most beautiful and rarest coins in the world.',
 				price: '$7,200',
+				'': '',
 			},
 			{
 				id: 10,
@@ -879,6 +887,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Featuring the traditional George and Dragon',
 				bottomContent: 'Victoria',
 				price: '$200',
+				'': '',
 			},
 			{
 				id: 11,
@@ -900,6 +909,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Featuring the traditional George and Dragon',
 				bottomContent: 'Featuring the traditional George and Dragon',
 				price: '$200',
+				'': '',
 			},
 			{
 				id: 12,
@@ -921,6 +931,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Coronation day was set for 26th June 1902',
 				bottomContent: 'EDWARD',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 13,
@@ -944,6 +955,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'A large royal crown surrounded by a wreath of shamrocks with roses and thistles.',
 				bottomContent: 'GEORGE',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 14,
@@ -965,6 +977,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Stylised St George and dragon.',
 				bottomContent: 'GEORGE',
 				price: '$300',
+				'': '',
 			},
 			{
 				id: 15,
@@ -984,10 +997,11 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1937b.jpg',
 				backTitle: 'Lion and unicorn',
 				backDescription:
-					'The engravers initials K.G. appear at either side of the shield, between the animals legs.',
+					'The engravers initials K.G. appear at either side of the shield between the animals legs.',
 				bottomContent:
 					'The engravers initials K.G. appear at either side of the shield, between the animals legs.',
 				price: '$150',
+				'': '',
 			},
 			{
 				id: 17,
@@ -1009,6 +1023,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'The coronation of Queen Elizabeth II',
 				bottomContent: 'The coronation of Queen Elizabeth II',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 18,
@@ -1031,6 +1046,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'DEI GRATIA REGINA F D. FIVE SHILLINGS',
 				bottomContent: 'DEI GRATIA REGINA F D. FIVE SHILLINGS',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 19,
@@ -1053,6 +1069,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Portrait of Churchill.',
 				bottomContent: 'Portrait of Churchill.',
 				price: '$10',
+				'': '',
 			},
 			{
 				id: 20,
@@ -1071,9 +1088,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'THE JUBILEE EQUESTRIAN PORTRAIT',
 				backImg: '1977b.jpg',
 				backTitle: 'Jubilee',
-				backDescription: 'Silver Jubilee of Her Majesty, Queen Elizabeth II.',
+				backDescription: 'Silver Jubilee of Her Majesty Queen Elizabeth II.',
 				bottomContent: 'Silver Jubilee of Her Majesty, Queen Elizabeth II.',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 21,
@@ -1096,6 +1114,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'The Royal Arms',
 				bottomContent: 'The Royal Arms',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 22,
@@ -1117,6 +1136,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Great Britain Silver Britannia.',
 				bottomContent: 'Great Britain Silver Britannia.',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 23,
@@ -1139,6 +1159,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Very attractive original coin.',
 				bottomContent: 'William & Mary',
 				price: '$500',
+				'': '',
 			},
 			{
 				id: 24,
@@ -1155,13 +1176,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1696f.jpg',
 				frontTitle: 'GVLIELMVS· III·DEI·GRA',
 				frontDescription:
-					'First laureate and draped bust of King William III right, legend around.',
+					'First laureate and draped bust of King William III right legend around.',
 				backImg: '1696b.jpg',
 				backTitle: 'William III',
 				backDescription:
-					'Crowned cruciform shields around cental Nassau lion, divided date above, legend around.',
+					'Crowned cruciform shields around cental Nassau lion divided date above legend around.',
 				bottomContent: 'William III',
 				price: '$500',
+				'': '',
 			},
 			{
 				id: 25,
@@ -1181,9 +1203,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1714b.jpg',
 				backTitle: 'Queen Anne',
 				backDescription:
-					'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'Queen Anne',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 26,
@@ -1203,9 +1226,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1745b.jpg',
 				backTitle: 'George II',
 				backDescription:
-					'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'George II',
 				price: '$850',
+				'': '',
 			},
 			{
 				id: 27,
@@ -1227,6 +1251,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned and quartered ornate shield',
 				bottomContent: 'George III',
 				price: '$300',
+				'': '',
 			},
 			{
 				id: 28,
@@ -1248,6 +1273,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned and quartered ornate shield',
 				bottomContent: 'George III',
 				price: '$300',
+				'': '',
 			},
 			{
 				id: 29,
@@ -1270,6 +1296,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'King of the Britains Defender of the FaithGod and my right',
 				bottomContent: 'George IIII',
 				price: '$300',
+				'': '',
 			},
 			{
 				id: 30,
@@ -1292,6 +1319,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'King of the Britains Defender of the FaithGod and my right',
 				bottomContent: 'George IV',
 				price: '$300',
+				'': '',
 			},
 			{
 				id: 31,
@@ -1314,6 +1342,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'King of the Britains Defender of the FaithGod and my right',
 				bottomContent: 'King William IIII',
 				price: '$300',
+				'': '',
 			},
 			{
 				id: 32,
@@ -1334,9 +1363,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1883b.jpg',
 				backTitle: 'BRITANNIARUM',
 				backDescription:
-					'Crowned quartered shield of arms within olive wreath, legend around, national flower emblems below.',
+					'Crowned quartered shield of arms within olive wreath legend around national flower emblems below.',
 				bottomContent: 'Queen Victoria',
 				price: '$250',
+				'': '',
 			},
 			{
 				id: 33,
@@ -1357,9 +1387,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1887b.jpg',
 				backTitle: 'Queen Victoria',
 				backDescription:
-					'Crowned quartered shield of arms within garter and collar, legend around, divided date below.',
+					'Crowned quartered shield of arms within garter and collar legend around divided date below.',
 				bottomContent: 'Queen Victoria',
 				price: '$250',
+				'': '',
 			},
 			{
 				id: 34,
@@ -1381,6 +1412,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Silver Half Crown',
 				bottomContent: 'Queen Victoria',
 				price: '$250',
+				'': '',
 			},
 			{
 				id: 35,
@@ -1400,9 +1432,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1902b.jpg',
 				backTitle: 'Edwardus VII',
 				backDescription:
-					'Crowned quartered shield of arms within Garter, legend around.',
+					'Crowned quartered shield of arms within Garter legend around.',
 				bottomContent: 'Edward VII',
 				price: '$200',
+				'': '',
 			},
 			{
 				id: 36,
@@ -1423,9 +1456,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1911b.jpg',
 				backTitle: 'George V',
 				backDescription:
-					'Crowned quartered shield of arms within Garter band, legend around.',
+					'Crowned quartered shield of arms within Garter band legend around.',
 				bottomContent: 'George V',
 				price: '$150',
+				'': '',
 			},
 			{
 				id: 37,
@@ -1446,9 +1480,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1935b.jpg',
 				backTitle: 'George V',
 				backDescription:
-					'Crowned quartered shield of arms within Garter band, legend around.',
+					'Crowned quartered shield of arms within Garter band legend around.',
 				bottomContent: 'George V',
 				price: '$150',
+				'': '',
 			},
 			{
 				id: 38,
@@ -1469,9 +1504,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1940b.jpg',
 				backTitle: 'Pound sterling',
 				backDescription:
-					'Quartered shield of arms flanked by crowned royal cyphers, legend above, denomination.',
+					'Quartered shield of arms flanked by crowned royal cyphers legend above denomination.',
 				bottomContent: 'George VI',
 				price: '$100',
+				'': '',
 			},
 			{
 				id: 39,
@@ -1491,9 +1527,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1970b.jpg',
 				backTitle: 'Shillings',
 				backDescription:
-					'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+					'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 40,
@@ -1513,9 +1550,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1964b.jpg',
 				backTitle: 'Shillings',
 				backDescription:
-					'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+					'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 41,
@@ -1535,9 +1573,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1956b.jpg',
 				backTitle: 'Shillings',
 				backDescription:
-					'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+					'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 42,
@@ -1557,9 +1596,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1955b.jpg',
 				backTitle: 'Shillings',
 				backDescription:
-					'Central Tudor rose surrounded by thistles, shamrocks and leeks, legend above, denomination.',
+					'Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 43,
@@ -1581,6 +1621,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned lion passant atop crown',
 				bottomContent: 'George VI',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 44,
@@ -1602,6 +1643,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned lion passant atop crown',
 				bottomContent: 'George VI',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 45,
@@ -1623,6 +1665,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned lion passant atop crown',
 				bottomContent: 'George VI',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 46,
@@ -1644,6 +1687,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned lion passant atop crown',
 				bottomContent: 'George VI',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 47,
@@ -1665,6 +1709,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned lion passant atop crown',
 				bottomContent: 'George VI',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 48,
@@ -1683,9 +1728,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'Uncrowned portrait of King George VI left',
 				backImg: '1935b.jpg',
 				backTitle: 'Grace of God King',
-				backDescription: 'Crowned lion passant atop crown, legend above',
+				backDescription: 'Crowned lion passant atop crown legend above',
 				bottomContent: 'George V',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 49,
@@ -1704,9 +1750,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'Uncrowned portrait of King George VI left',
 				backImg: '1914b.jpg',
 				backTitle: 'Grace of God King',
-				backDescription: 'Crowned lion passant atop crown, legend above',
+				backDescription: 'Crowned lion passant atop crown legend above',
 				bottomContent: 'George V',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 50,
@@ -1725,9 +1772,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'Uncrowned portrait of King George VI left',
 				backImg: '1911b.jpg',
 				backTitle: 'Grace of God King',
-				backDescription: 'Crowned lion passant atop crown, legend above',
+				backDescription: 'Crowned lion passant atop crown legend above',
 				bottomContent: 'George V',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 51,
@@ -1749,6 +1797,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned lion passant atop crown dividing date.',
 				bottomContent: 'Edward VII',
 				price: '$20',
+				'': '',
 			},
 			{
 				id: 52,
@@ -1768,9 +1817,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1895b.jpg',
 				backTitle: 'Queen Victoria',
 				backDescription:
-					'Crowned shields of arms with national flower emblems between, all within Garter.',
+					'Crowned shields of arms with national flower emblems between all within Garter.',
 				bottomContent: 'Queen Victoria',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 53,
@@ -1791,9 +1841,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1889b.jpg',
 				backTitle: 'Queen Victoria',
 				backDescription:
-					'Crowned Royal shield within Garter, divided date below.',
+					'Crowned Royal shield within Garter divided date below.',
 				bottomContent: 'Queen Victoria',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 54,
@@ -1814,9 +1865,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1887b.jpg',
 				backTitle: 'Queen Victoria',
 				backDescription:
-					'Crowned Royal shield within Garter, divided date below.',
+					'Crowned Royal shield within Garter divided date below.',
 				bottomContent: 'Queen Victoria',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 55,
@@ -1839,6 +1891,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crown above denomination within wreath',
 				bottomContent: 'Queen Victoria',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 56,
@@ -1861,6 +1914,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crown above denomination within wreath',
 				bottomContent: 'Queen Victoria',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 57,
@@ -1881,9 +1935,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1835b.jpg',
 				backTitle: 'Defender of the Faith',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George IIII',
 				price: '$160',
+				'': '',
 			},
 			{
 				id: 58,
@@ -1903,9 +1958,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1826b2.jpg',
 				backTitle: 'George IV',
 				backDescription:
-					'Crowned lion passant atop crown, legend around, national flower emblems below.',
+					'Crowned lion passant atop crown legend around national flower emblems below.',
 				bottomContent: 'George IV',
 				price: '$140',
+				'': '',
 			},
 			{
 				id: 59,
@@ -1925,9 +1981,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1826b.jpg',
 				backTitle: 'George IV',
 				backDescription:
-					'Crowned lion passant atop crown, legend around, national flower emblems below.',
+					'Crowned lion passant atop crown legend around national flower emblems below.',
 				bottomContent: 'George IV',
 				price: '$140',
+				'': '',
 			},
 			{
 				id: 60,
@@ -1947,9 +2004,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1823b.jpg',
 				backTitle: 'House of Hanover',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George IIII',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 61,
@@ -1969,9 +2027,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1823b.jpg',
 				backTitle: 'House of Hanover',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George IIII',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 62,
@@ -1992,9 +2051,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1819b2.jpg',
 				backTitle: 'George the Third',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George III',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 63,
@@ -2015,9 +2075,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1819b.jpg',
 				backTitle: 'George the Third',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George III',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 64,
@@ -2038,9 +2099,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1817b.jpg',
 				backTitle: 'George the Third',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George III',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 65,
@@ -2061,9 +2123,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1817b.jpg',
 				backTitle: 'George the Third',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George III',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 66,
@@ -2084,9 +2147,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1787b.jpg',
 				backTitle: 'George the Third',
 				backDescription:
-					'Ornate crowned Royal shield overlaid with smaller crowned shield, all within Garter.',
+					'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
 				bottomContent: 'George III',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 67,
@@ -2106,9 +2170,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1745b2.jpg',
 				backTitle: 'George II',
 				backDescription:
-					'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'George II',
 				price: '$250',
+				'': '',
 			},
 			{
 				id: 68,
@@ -2128,9 +2193,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1745b.jpg',
 				backTitle: 'George II',
 				backDescription:
-					'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'George II',
 				price: '$250',
+				'': '',
 			},
 			{
 				id: 69,
@@ -2150,9 +2216,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1723b.jpg',
 				backTitle: 'Johann Ochs',
 				backDescription:
-					'Duke of Brunswick and Lueneburg, Arch Treasurer and Prince Elector of the Holy Roman Empire',
+					'Duke of Brunswick and Lueneburg Arch Treasurer and Prince Elector of the Holy Roman Empire',
 				bottomContent: 'George I',
 				price: '$600',
+				'': '',
 			},
 			{
 				id: 70,
@@ -2172,9 +2239,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1711b.jpg',
 				backTitle: 'Queen Anne',
 				backDescription:
-					'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'Queen Anne',
 				price: '$500',
+				'': '',
 			},
 			{
 				id: 71,
@@ -2194,9 +2262,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1708b.jpg',
 				backTitle: 'Queen Anne',
 				backDescription:
-					'Crowned cruciform shields with central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'Queen Anne',
 				price: '$500',
+				'': '',
 			},
 			{
 				id: 72,
@@ -2216,9 +2285,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1707medallb.jpg',
 				backTitle: 'Queen Anne',
 				backDescription:
-					'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields around central Garter star divided date above legend around.',
 				bottomContent: 'Queen Anne',
 				price: '$500',
+				'': '',
 			},
 			{
 				id: 73,
@@ -2240,6 +2310,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Magnae Britanniae Franciae Et Hiberniae Regina',
 				bottomContent: 'Queen Anne',
 				price: '$500',
+				'': '',
 			},
 			{
 				id: 74,
@@ -2260,9 +2331,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1700b.jpg',
 				backTitle: 'Arms of England',
 				backDescription:
-					'The Reverse is four crowned shields, bearing the arms of England Scotland France and Ireland, arranged in a cross. Star of the Garter at the centre.',
+					'The Reverse is four crowned shields bearing the arms of England Scotland France and Ireland arranged in a cross. Star of the Garter at the centre.',
 				bottomContent: 'King James II',
 				price: '$600',
+				'': '',
 			},
 			{
 				id: 75,
@@ -2279,13 +2351,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1663f.jpg',
 				frontTitle: 'King Charles II',
 				frontDescription:
-					'First laureate and draped bust of King Charles II right, legend around.',
+					'First laureate and draped bust of King Charles II right legend around.',
 				backImg: '1663b.jpg',
 				backTitle: 'Milled',
 				backDescription:
-					"Crowned cruciform shields around central Garter star with interlinked C's in angles, divided date above, legend around.",
+					"Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
 				bottomContent: 'King Charles II',
 				price: '$800',
+				'': '',
 			},
 			{
 				id: 76,
@@ -2307,6 +2380,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Queen ELIZABETH II',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 77,
@@ -2323,13 +2397,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1877f.jpg',
 				frontTitle: 'Godless',
 				frontDescription:
-					'Crowned bust of Queen Victoria left, legend and date around.',
+					'Crowned bust of Queen Victoria left legend and date around.',
 				backImg: '1877b.jpg',
 				backTitle: 'Queen Victoria',
 				backDescription:
-					'Crowned cruciform shields of arms around central Tudor rose, national flower emblems in angles, legend above, denomination below.',
+					'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
 				bottomContent: 'Queen Victoria',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 78,
@@ -2346,13 +2421,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1878f.jpg',
 				frontTitle: 'Godless',
 				frontDescription:
-					'Crowned bust of Queen Victoria left, legend and date around.',
+					'Crowned bust of Queen Victoria left legend and date around.',
 				backImg: '1878b.jpg',
 				backTitle: 'Queen Victoria',
 				backDescription:
-					'Crowned cruciform shields of arms around central Tudor rose, national flower emblems in angles, legend above, denomination below.',
+					'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
 				bottomContent: 'Queen Victoria',
 				price: '$400',
+				'': '',
 			},
 			{
 				id: 79,
@@ -2373,9 +2449,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1887b.jpg',
 				backTitle: 'Reverse',
 				backDescription:
-					'Crowned cruciform shields of England, Scotland and Ireland, sceptres with national flower emblems in angles, divided date above, legend around.',
+					'Crowned cruciform shields of England Scotland and Ireland sceptres with national flower emblems in angles divided date above legend around.',
 				bottomContent: 'Queen Victoria',
 				price: '$150',
+				'': '',
 			},
 			{
 				id: 80,
@@ -2392,13 +2469,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1895f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription:
-					'Older crowned and veiled bust of Queen Victoria left, legend around.',
+					'Older crowned and veiled bust of Queen Victoria left legend around.',
 				backImg: '1895b.jpg',
 				backTitle: '3rd portrait',
 				backDescription:
-					'Crown above shields of England, Scotland and Ireland with national flower emblems between, all within Garter with divided date below and legend around.',
+					'Crown above shields of England Scotland and Ireland with national flower emblems between all within Garter with divided date below and legend around.',
 				bottomContent: 'Queen Victoria',
 				price: '$150',
+				'': '',
 			},
 			{
 				id: 81,
@@ -2415,13 +2493,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1902f.jpg',
 				frontTitle: 'Edward VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII right, legend around.',
+					'Uncrowned portrait of King Edward VII right legend around.',
 				backImg: '1902b.jpg',
 				backTitle: 'EDWARDVS VII',
 				backDescription:
-					"Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left, legend around, date below.",
+					"Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left legend around date below.",
 				bottomContent: 'Edward VII',
 				price: '$100',
+				'': '',
 			},
 			{
 				id: 82,
@@ -2441,9 +2520,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1911b.jpg',
 				backTitle: 'ONE FLORIN',
 				backDescription:
-					'Crowned cruciform shields around central Garter star, sceptres with national emblems in angles, denomination above, divided date below.',
+					'Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.',
 				bottomContent: 'George V',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 83,
@@ -2463,9 +2543,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1935b.jpg',
 				backTitle: 'ONE FLORIN',
 				backDescription:
-					'Crowned cruciform shields around central Garter star, sceptres with national emblems in angles, denomination above, divided date below.',
+					'Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.',
 				bottomContent: 'George V',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 84,
@@ -2487,6 +2568,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Coat of arms',
 				bottomContent: 'George VI',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 85,
@@ -2508,6 +2590,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Coat of arms',
 				bottomContent: 'George VI',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 86,
@@ -2530,6 +2613,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'floral design',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 87,
@@ -2552,6 +2636,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'floral design',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 88,
@@ -2574,6 +2659,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'floral design',
 				bottomContent: 'Queen ELIZABETH II',
 				price: '$40',
+				'': '',
 			},
 			{
 				id: 89,
@@ -2597,6 +2683,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				bottomContent:
 					'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 90,
@@ -2620,6 +2707,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				bottomContent:
 					'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 91,
@@ -2643,6 +2731,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				bottomContent:
 					'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 92,
@@ -2666,6 +2755,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				bottomContent:
 					'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 93,
@@ -2689,6 +2779,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				bottomContent:
 					'Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.',
 				price: '$60',
+				'': '',
 			},
 			{
 				id: 94,
@@ -2705,13 +2796,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1677f.jpg',
 				frontTitle: 'CAROLVS·II',
 				frontDescription:
-					'Laureate and draped bust of King Charles II right, legend around.',
+					'Laureate and draped bust of King Charles II right legend around.',
 				backImg: '1677b.jpg',
 				backTitle: 'House of Stuart',
 				backDescription:
-					"Crowned cruciform shields around central Garter star with interlinked C's in angles, divided date above, legend around.",
+					"Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
 				bottomContent: 'King Charles II',
 				price: '$600',
+				'': '',
 			},
 			{
 				id: 95,
@@ -2728,13 +2820,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1698f.jpg',
 				frontTitle: 'GVLIELMVS· III·DEI·GRA',
 				frontDescription:
-					'Third laureate and draped bust of King William III right, legend around.',
+					'Third laureate and draped bust of King William III right legend around.',
 				backImg: '1698b.jpg',
 				backTitle: 'House of Stuart',
 				backDescription:
-					'Crowned cruciform shields around central lion rampant, divided date above, legend around.',
+					'Crowned cruciform shields around central lion rampant divided date above legend around.',
 				bottomContent: '',
 				price: '$600',
+				'': '',
 			},
 			{
 				id: 96,
@@ -2751,13 +2844,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1707f.jpg',
 				frontTitle: 'ANNA·DEI· GRATIA',
 				frontDescription:
-					'Normal draped bust of Queen Anne left, legend around.',
+					'Normal draped bust of Queen Anne left legend around.',
 				backImg: '1707b.jpg',
 				backTitle: 'Circulated',
 				backDescription:
-					'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields around central Garter star divided date above legend around.',
 				bottomContent: 'Queen Anne',
 				price: 'N/A',
+				'': '',
 			},
 			{
 				id: 97,
@@ -2774,13 +2868,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1723f.jpg',
 				frontTitle: 'GEORGIVS',
 				frontDescription:
-					'Laureate and draped bust of King George I right, legend around.',
+					'Laureate and draped bust of King George I right legend around.',
 				backImg: '1723b.jpg',
 				backTitle: 'Reverse',
 				backDescription:
-					'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields around central Garter star divided date above legend around.',
 				bottomContent: 'King George I',
 				price: '$600',
+				'': '',
 			},
 			{
 				id: 98,
@@ -2797,13 +2892,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1757f.jpg',
 				frontTitle: 'GEORGIUS·II· DEI·GRATIA',
 				frontDescription:
-					'Older laureate and draped bust of King George II left, legend around.',
+					'Older laureate and draped bust of King George II left legend around.',
 				backImg: '1757b.jpg',
 				backTitle: 'House of Hanover',
 				backDescription:
-					'Crowned cruciform shields around central Garter star, divided date above, legend around.',
+					'Crowned cruciform shields around central Garter star divided date above legend around.',
 				bottomContent: 'King George II',
 				price: '$150',
+				'': '',
 			},
 			{
 				id: 99,
@@ -2820,13 +2916,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1782f.jpg',
 				frontTitle: 'GEORGIVS·III',
 				frontDescription:
-					'Laureate and draped bust of King George III right, legend around.',
+					'Laureate and draped bust of King George III right legend around.',
 				backImg: '1782b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Cruciform shields around central Garter star with crowns in angles, legend around, date below.',
+					'Cruciform shields around central Garter star with crowns in angles legend around date below.',
 				bottomContent: 'King George III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 100,
@@ -2843,13 +2940,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1810f.jpg',
 				frontTitle: 'GEORGIVS·III',
 				frontDescription:
-					'Laureate portrait of King George III right, legend around, date below.',
+					'Laureate portrait of King George III right legend around date below.',
 				backImg: '1810b.jpg',
 				backTitle: 'GEOR:III',
 				backDescription:
 					'George the Third by the Grace of God King of the Britains Defender of the Faith',
 				bottomContent: 'King George III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 101,
@@ -2866,13 +2964,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1821f.jpg',
 				frontTitle: 'GEORGIUS IIII',
 				frontDescription:
-					'Laureate portrait of King George IV left, legend around.',
+					'Laureate portrait of King George IV left legend around.',
 				backImg: '1821b.jpg',
 				backTitle: 'ANNO 1821',
 				backDescription:
-					'Ornate garnished crowned quartered shield of arms overlaid with second, smaller crowned shield, national flower emblems around, date below',
+					'Ornate garnished crowned quartered shield of arms overlaid with second smaller crowned shield national flower emblems around date below',
 				bottomContent: 'King George IIII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 102,
@@ -2889,13 +2988,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1826f.jpg',
 				frontTitle: 'GEORGIUS IIII',
 				frontDescription:
-					'Laureate portrait of King George IV left, legend around.',
+					'Laureate portrait of King George IV left legend around.',
 				backImg: '1826b.jpg',
 				backTitle: 'Benedetto Pistrucci',
 				backDescription:
-					'Square topped crowned quartered shield of arms overlaid with second, smaller crowned shield, Garter with legend around, date below.',
+					'Square topped crowned quartered shield of arms overlaid with second smaller crowned shield Garter with legend around date below.',
 				bottomContent: 'King George IIII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 103,
@@ -2912,13 +3012,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1864f.jpg',
 				frontTitle: 'GEORGIUS IIII',
 				frontDescription:
-					'Laureate portrait of King George III right, legend around, date below.',
+					'Laureate portrait of King George III right legend around date below.',
 				backImg: '1864b.jpg',
 				backTitle: 'Benedetto Pistrucci',
 				backDescription:
-					'Crowned quartered shield of arms, overlaid with smaller crowned shield, legend around on garter.',
+					'Crowned quartered shield of arms overlaid with smaller crowned shield legend around on garter.',
 				bottomContent: 'King George IIII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 104,
@@ -2935,13 +3036,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1887f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Crowned and veiled bust (Jubilee Head) of Queen Victoria left, legend around, engraver's initials below truncation.",
+					"Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
 				backImg: '1887b.jpg',
 				backTitle: 'Edgar Boehm',
 				backDescription:
-					'Crowned quartered shield of arms within Garter, legend around, divided date below.',
+					'Crowned quartered shield of arms within Garter legend around divided date below.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 105,
@@ -2958,13 +3060,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1887yf.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Crowned and veiled bust (Jubilee Head) of Queen Victoria left, legend around, engraver's initials below truncation.",
+					"Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
 				backImg: '1887yb.jpg',
 				backTitle: 'Edgar Boehm',
 				backDescription:
-					'Crowned quartered shield of arms within Garter, legend around, divided date below.',
+					'Crowned quartered shield of arms within Garter legend around divided date below.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 106,
@@ -2981,13 +3084,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1888f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Crowned and veiled bust (Jubilee Head) of Queen Victoria left, legend around, engraver's initials below truncation.",
+					"Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
 				backImg: '1888b.jpg',
 				backTitle: 'Edgar Boehm',
 				backDescription:
-					'Crowned quartered shield of arms within Garter, legend around, divided date below.',
+					'Crowned quartered shield of arms within Garter legend around divided date below.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 107,
@@ -3004,12 +3108,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1895f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Older diademed and veiled bust (Old Head) of Queen Victoria left, legend around.',
+					'Older diademed and veiled bust (Old Head) of Queen Victoria left legend around.',
 				backImg: '1895b.jpg',
 				backTitle: 'Thomas Brock',
-				backDescription: 'Crowned denomination within wreath, date below.',
+				backDescription: 'Crowned denomination within wreath date below.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 108,
@@ -3026,13 +3131,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1905f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned bust of King Edward VII right, legend around.',
+					'Uncrowned bust of King Edward VII right legend around.',
 				backImg: '1905b.jpg',
 				backTitle: 'de Saulles',
 				backDescription:
-					'Crowned denomination within wreath (olive sprig on left, oak on right), date below.',
+					'Crowned denomination within wreath (olive sprig on left oak on right) date below.',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 109,
@@ -3049,13 +3155,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1911b.jpg',
 				backTitle: 'MacKennal',
 				backDescription:
-					'Crowned lion passant atop crown dividing date within circle, legend above, denomination below.',
+					'Crowned lion passant atop crown dividing date within circle legend above denomination below.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 110,
@@ -3072,13 +3179,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1935f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1935b.jpg',
 				backTitle: 'MacKennal',
 				backDescription:
-					'Three oak sprigs with six acorns, denomination above, date below.',
+					'Three oak sprigs with six acorns denomination above date below.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 111,
@@ -3095,13 +3203,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1943f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					'Uncrowned portrait of King George VI left, legend around.',
+					'Uncrowned portrait of King George VI left legend around.',
 				backImg: '1943b.jpg',
 				backTitle: 'Paget',
 				backDescription:
-					'Crowned royal cypher dividing date, legend above, denomination below.',
+					'Crowned royal cypher dividing date legend above denomination below.',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 112,
@@ -3118,13 +3227,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1948f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					'Uncrowned portrait of King George VI left, legend around.',
+					'Uncrowned portrait of King George VI left legend around.',
 				backImg: '1948b.jpg',
 				backTitle: 'Paget',
 				backDescription:
-					'Crowned royal cypher dividing date, legend above, denomination below.',
+					'Crowned royal cypher dividing date legend above denomination below.',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 113,
@@ -3141,13 +3251,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1950f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					'Uncrowned portrait of King George VI left, legend around.',
+					'Uncrowned portrait of King George VI left legend around.',
 				backImg: '1950b.jpg',
 				backTitle: 'Paget',
 				backDescription:
-					'Crowned royal cypher dividing date, legend above, denomination below.',
+					'Crowned royal cypher dividing date legend above denomination below.',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 114,
@@ -3164,13 +3275,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1970f.jpg',
 				frontTitle: 'ELIZABETH·II',
 				frontDescription:
-					'Young laureate portrait of Queen Elizabeth II right, legend around.',
+					'Young laureate portrait of Queen Elizabeth II right legend around.',
 				backImg: '1970b.jpg',
 				backTitle: 'Gillick',
 				backDescription:
-					'Tudor rose, shamrock, thistle and leek aligned in a cross, legend above, denomination and date below.',
+					'Tudor rose shamrock thistle and leek aligned in a cross legend above denomination and date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 115,
@@ -3187,12 +3299,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1884f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Uncrowned portrait (Young Head) of Queen Victoria left, legend around.',
+					'Uncrowned portrait (Young Head) of Queen Victoria left legend around.',
 				backImg: '1884f.jpg',
 				backTitle: 'Wyon',
 				backDescription: 'Crowned denomination divides date within oak wreath.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 116,
@@ -3209,12 +3322,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1889f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left, legend around.',
+					'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left legend around.',
 				backImg: '1889b.jpg',
 				backTitle: 'Boehm',
 				backDescription: 'Crowned denomination divides date within oak wreath.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 117,
@@ -3237,6 +3351,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned denomination divides date within oak sprigs.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 118,
@@ -3253,13 +3368,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1902f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII right, legend around.',
+					'Uncrowned portrait of King Edward VII right legend around.',
 				backImg: '1902b.jpg',
 				backTitle: 'de Saulles',
 				backDescription:
 					'Crowned denomination dividing date within oak wreath.',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 119,
@@ -3276,13 +3392,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1911b.jpg',
 				backTitle: 'incl. Maundy',
 				backDescription:
 					'Crowned denomination dividing date within oak wreath.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 120,
@@ -3299,13 +3416,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1935f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Modified uncrowned portrait of King George V facing left, legend around.',
+					'Modified uncrowned portrait of King George V facing left legend around.',
 				backImg: '1935b.jpg',
 				backTitle: 'MacKennal',
 				backDescription:
-					'Three oak sprigs with three acorns, denomination above, date below.',
+					'Three oak sprigs with three acorns denomination above date below.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 121,
@@ -3322,13 +3440,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1943f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1943b.jpg',
 				backTitle: 'Paget',
 				backDescription:
 					"Three-headed thrift'plant denomination above date below.",
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 122,
@@ -3345,13 +3464,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1944f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1944b.jpg',
 				backTitle: 'Paget',
 				backDescription:
 					"Three-headed thrift'plant denomination above date below.",
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 123,
@@ -3368,13 +3488,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1953f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1953b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 124,
@@ -3391,13 +3512,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1954f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1954b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 125,
@@ -3414,13 +3536,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1955f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1955b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 126,
@@ -3437,13 +3560,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1956f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1956b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 127,
@@ -3460,13 +3584,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1957f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1957b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 128,
@@ -3483,13 +3608,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1958f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1958b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 129,
@@ -3506,13 +3632,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1959f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1959b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 130,
@@ -3529,13 +3656,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1960f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1960b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 131,
@@ -3552,13 +3680,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1961f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1961b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 132,
@@ -3575,13 +3704,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1962f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1962b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 133,
@@ -3598,13 +3728,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1963f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1963b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 134,
@@ -3621,13 +3752,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1964f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1964b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 135,
@@ -3644,13 +3776,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1965f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1965b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 136,
@@ -3667,13 +3800,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1966f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1966b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 137,
@@ -3690,13 +3824,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1967f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '1967b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 138,
@@ -3713,13 +3848,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '19602f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					"Uncrowned portrait of King George VI left, legend around, designer's initials below truncation.",
+					"Uncrowned portrait of King George VI left legend around designer's initials below truncation.",
 				backImg: '19602b.jpg',
 				backTitle: 'House of Windsor',
 				backDescription:
-					'A Tudor portcullis and side chains with crown above, dividing value, date below.',
+					'A Tudor portcullis and side chains with crown above dividing value date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 139,
@@ -3736,13 +3872,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1831f.jpg',
 				frontTitle: 'GULIELMUS',
 				frontDescription:
-					'Uncrowned portrait of King William IV facing right, legend around, date below.',
+					'Uncrowned portrait of King William IV facing right legend around date below.',
 				backImg: '1831b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
 				bottomContent: 'King William III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 140,
@@ -3759,13 +3896,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1854f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'First uncrowned bust (Young Head) of Queen Victoria left, legend around, date below.',
+					'First uncrowned bust (Young Head) of Queen Victoria left legend around date below.',
 				backImg: '1854b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+					'Seated figure of Britannia facing right trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 141,
@@ -3782,13 +3920,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1888f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+					'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
 				backImg: '1888b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse on left and ship on right, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 142,
@@ -3805,13 +3944,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1889f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+					'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
 				backImg: '1889b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse on left and ship on right, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 143,
@@ -3828,13 +3968,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1896f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+					"Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
 				backImg: '1896b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 144,
@@ -3851,13 +3992,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1901f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+					"Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
 				backImg: '1901b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 145,
@@ -3874,13 +4016,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1902f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII right, legend around.',
+					'Uncrowned portrait of King Edward VII right legend around.',
 				backImg: '1902b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 146,
@@ -3897,13 +4040,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1904f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII right, legend around.',
+					'Uncrowned portrait of King Edward VII right legend around.',
 				backImg: '1904b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 147,
@@ -3920,13 +4064,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1907f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII right, legend around.',
+					'Uncrowned portrait of King Edward VII right legend around.',
 				backImg: '1907b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 148,
@@ -3943,13 +4088,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1911b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 149,
@@ -3966,13 +4112,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1912f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1912b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 150,
@@ -3989,13 +4136,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1913f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1913b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 151,
@@ -4012,13 +4160,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1917f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1917b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 152,
@@ -4035,13 +4184,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1918f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1918b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 153,
@@ -4058,13 +4208,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1919f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1919b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 154,
@@ -4081,13 +4232,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1930f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1930b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 155,
@@ -4104,13 +4256,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1936f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '1936b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 156,
@@ -4127,13 +4280,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1938f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					'Uncrowned portrait of King George VI left, legend around.',
+					'Uncrowned portrait of King George VI left legend around.',
 				backImg: '1938b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 157,
@@ -4150,13 +4304,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1946f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					'Uncrowned portrait of King George VI left, legend around.',
+					'Uncrowned portrait of King George VI left legend around.',
 				backImg: '1946b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 158,
@@ -4173,13 +4328,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1947f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
-					'Uncrowned portrait of King George VI left, legend around.',
+					'Uncrowned portrait of King George VI left legend around.',
 				backImg: '1947b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 159,
@@ -4196,13 +4352,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1963f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					'Young laureate portrait of Queen Elizabeth II facing right, legend around.',
+					'Young laureate portrait of Queen Elizabeth II facing right legend around.',
 				backImg: '1963b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind with lighthouse to left, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 160,
@@ -4219,13 +4376,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '19362f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V facing left, legend around',
+					'Uncrowned portrait of King George V facing left legend around',
 				backImg: '19362b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, sea behind, denomination above and date in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 161,
@@ -4242,13 +4400,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1694f.jpg',
 				frontTitle: 'GVLIELMVS·ET·MARIA',
 				frontDescription:
-					'Laureate and cuirassed conjoined busts of King William and Queen Mary right, legend around.',
+					'Laureate and cuirassed conjoined busts of King William and Queen Mary right legend around.',
 				backImg: '1694b.jpg',
 				backTitle: 'BRITAN',
 				backDescription:
-					'Seated figure of Britannia left with olive branch in raised right hand, spear in left, shield bearing the Union flag resting at left, legend around, date in exergue.',
+					'Seated figure of Britannia left with olive branch in raised right hand spear in left shield bearing the Union flag resting at left legend around date in exergue.',
 				bottomContent: 'William and Mary',
 				price: '',
+				'': '',
 			},
 			{
 				id: 162,
@@ -4265,13 +4424,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1749f.jpg',
 				frontTitle: 'GEORGIUS· II',
 				frontDescription:
-					'Older laureate and cuirassed portrait of King George II facing left, legend around.',
+					'Older laureate and cuirassed portrait of King George II facing left legend around.',
 				backImg: '1749b.jpg',
 				backTitle: 'BRITAN',
 				backDescription:
-					'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+					'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
 				bottomContent: 'King George II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 163,
@@ -4288,13 +4448,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1754f.jpg',
 				frontTitle: 'GEORGIUS· II',
 				frontDescription:
-					'Older laureate and cuirassed portrait of King George II facing left, legend around.',
+					'Older laureate and cuirassed portrait of King George II facing left legend around.',
 				backImg: '1754b.jpg',
 				backTitle: 'BRITAN',
 				backDescription:
-					'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+					'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
 				bottomContent: 'King George II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 164,
@@ -4311,13 +4472,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1799f.jpg',
 				frontTitle: 'GEORGIUS III',
 				frontDescription:
-					'Laureate and draped bust of King George III facing right, legend around',
+					'Laureate and draped bust of King George III facing right legend around',
 				backImg: '1799b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+					'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
 				bottomContent: 'King George III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 165,
@@ -4334,13 +4496,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1806f.jpg',
 				frontTitle: 'GEORGIUS III',
 				frontDescription:
-					'Shorter haired laureate and draped bust of King George III facing right, legend around, date below.',
+					'Shorter haired laureate and draped bust of King George III facing right legend around date below.',
 				backImg: '1806b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing left, trident in left hand, olive branch in right, shield with Union flag resting on left, legend around, date in exergue.',
+					'Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.',
 				bottomContent: 'King George III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 166,
@@ -4357,13 +4520,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1826f.jpg',
 				frontTitle: 'GEORGIUS IV',
 				frontDescription:
-					'Laureate portrait of King George IV facing left, legend around, date below.',
+					'Laureate portrait of King George IV facing left legend around date below.',
 				backImg: '1826b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
 				bottomContent: 'King George IIII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 167,
@@ -4380,13 +4544,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1837f.jpg',
 				frontTitle: 'GULIELMUS',
 				frontDescription:
-					'Laureate portrait of King George IV facing left, legend around, date below.',
+					'Laureate portrait of King George IV facing left legend around date below.',
 				backImg: '1837b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
 				bottomContent: 'King William III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 168,
@@ -4403,13 +4568,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1853f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'First uncrowned bust (Young Head) of Queen Victoria left, legend around, date below.',
+					'First uncrowned bust (Young Head) of Queen Victoria left legend around date below.',
 				backImg: '1853b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, with trident in left hand and shield bearing the Union flag in right, legend around and national flower emblems in exergue.',
+					'Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 169,
@@ -4426,13 +4592,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1887f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+					'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
 				backImg: '1887b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind with lighthouse on left and ship on right',
+					'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 170,
@@ -4449,13 +4616,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1898f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+					"Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
 				backImg: '1898b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind with lighthouse on left and ship on right',
+					'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 171,
@@ -4472,13 +4640,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1902f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII facing right, legend around.',
+					'Uncrowned portrait of King Edward VII facing right legend around.',
 				backImg: '1902b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.',
+					'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 172,
@@ -4495,13 +4664,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1911b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.',
+					'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 173,
@@ -4518,13 +4688,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1921f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1921b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Seated figure of Britannia right, trident in left hand, shield bearing the Union flag in right, denomination around, date in exergue, sea behind.',
+					'Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 174,
@@ -4546,6 +4717,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'The Golden Hind',
 				bottomContent: '',
 				price: '',
+				'': '',
 			},
 			{
 				id: 175,
@@ -4562,13 +4734,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1954f.jpg',
 				frontTitle: 'Queen Elizabeth II',
 				frontDescription:
-					'Young laureate bust of Queen Elizabeth II right, legend around.',
+					'Young laureate bust of Queen Elizabeth II right legend around.',
 				backImg: '1954b.jpg',
 				backTitle: 'Grace of God',
 				backDescription:
-					'Three-masted ship sailing left, denomination above, date below.',
+					'Three-masted ship sailing left denomination above date below.',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 176,
@@ -4585,13 +4758,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1806f.jpg',
 				frontTitle: 'GEORGIUS III',
 				frontDescription:
-					'Shorter haired laureate and draped bust of King George III facing right, legend around, date below.',
+					'Shorter haired laureate and draped bust of King George III facing right legend around date below.',
 				backImg: '1806b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing left, trident in left hand, shield with Union flag resting on left, olive branch in raised right hand, legend above, sea behind with ship on left.',
+					'Seated figure of Britannia facing left trident in left hand shield with Union flag resting on left olive branch in raised right hand legend above sea behind with ship on left.',
 				bottomContent: 'King George III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 177,
@@ -4608,13 +4782,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1837f.jpg',
 				frontTitle: 'GULIELMUS IIII',
 				frontDescription:
-					'Uncrowned portrait of King William IV facing right, legend around, date below.',
+					'Uncrowned portrait of King William IV facing right legend around date below.',
 				backImg: '1837b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right, legend around, national flower emblems in exergue.',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right legend around national flower emblems in exergue.',
 				bottomContent: 'King William III',
 				price: '',
+				'': '',
 			},
 			{
 				id: 178,
@@ -4631,13 +4806,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1875f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					'Second laureate portrait (Bun Head) of Queen Victoria facing left, legend around.',
+					'Second laureate portrait (Bun Head) of Queen Victoria facing left legend around.',
 				backImg: '1875b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, date in exergue, sea behind with lighthouse on left and ship on right.',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above date in exergue sea behind with lighthouse on left and ship on right.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 179,
@@ -4654,13 +4830,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1901f.jpg',
 				frontTitle: 'VICTORIA',
 				frontDescription:
-					"Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+					"Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
 				backImg: '1901b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in exergue.',
+					'Seated figure of Britannia right trident in left hand shield with Union flag in right hand denomination above sea behind date in exergue.',
 				bottomContent: 'Queen Victoria',
 				price: '',
+				'': '',
 			},
 			{
 				id: 180,
@@ -4677,13 +4854,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1907f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII facing right, legend around.',
+					'Uncrowned portrait of King Edward VII facing right legend around.',
 				backImg: '1907b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 181,
@@ -4700,13 +4878,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1909f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII facing right, legend around.',
+					'Uncrowned portrait of King Edward VII facing right legend around.',
 				backImg: '1909b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 182,
@@ -4723,13 +4902,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1911b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 183,
@@ -4746,13 +4926,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1929f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1929b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 184,
@@ -4769,13 +4950,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1935f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1935b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George V',
 				price: '',
+				'': '',
 			},
 			{
 				id: 185,
@@ -4795,9 +4977,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1940b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 186,
@@ -4817,9 +5000,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1942b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 187,
@@ -4839,9 +5023,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1943b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 188,
@@ -4861,9 +5046,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1948b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 189,
@@ -4883,9 +5069,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1952b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King George VI',
 				price: '',
+				'': '',
 			},
 			{
 				id: 190,
@@ -4905,9 +5092,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '1954b.jpg',
 				backTitle: 'BRITANNIAR',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'Queen Elizabeth II',
 				price: '',
+				'': '',
 			},
 			{
 				id: 191,
@@ -4924,13 +5112,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1909f.jpg',
 				frontTitle: 'EDWARDVS VII',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII facing right, legend around.',
+					'Uncrowned portrait of King Edward VII facing right legend around.',
 				backImg: '1909b.jpg',
 				backTitle: 'BRITANNIA',
 				backDescription:
-					'Seated figure of Britannia facing right, trident in left hand, shield with Union flag in right hand, denomination above, sea behind, date in',
+					'Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in',
 				bottomContent: 'King Edward VII',
 				price: '',
+				'': '',
 			},
 			{
 				id: 192,
@@ -4950,9 +5139,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '5sh1961b.jpg',
 				backTitle: 'austria',
 				backDescription:
-					'The Austrian escutcheon, the face value and two laurel branchesBinomial Name: Laurus nobilis',
+					'The Austrian escutcheon the face value and two laurel branchesBinomial Name: Laurus nobilis',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 193,
@@ -4969,12 +5159,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1869f.jpeg',
 				frontTitle: 'In contemporary box',
 				frontDescription:
-					'Uncrowned portrait (Young Head) of Queen Victoria left, legend around.',
+					'Uncrowned portrait (Young Head) of Queen Victoria left legend around.',
 				backImg: '1869b.jpeg',
 				backTitle: 'Grace of God',
 				backDescription: 'A most attractive and beautifully matched set.',
 				bottomContent: 'Queen Victoria',
 				price: 500,
+				'': '',
 			},
 			{
 				id: 194,
@@ -4991,12 +5182,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1892f.jpeg',
 				frontTitle: 'In contemporary box',
 				frontDescription:
-					'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left, legend around.',
+					'Crowned and veiled portrait (Jubilee Head) of Queen Victoria left legend around.',
 				backImg: '1892b.jpeg',
 				backTitle: 'Grace of God',
 				backDescription: 'A most attractive and beautifully matched set.',
 				bottomContent: 'Queen Victoria',
 				price: 500,
+				'': '',
 			},
 			{
 				id: 195,
@@ -5013,12 +5205,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1899f.jpeg',
 				frontTitle: 'In contemporary box',
 				frontDescription:
-					"Older diademed and veiled portrait (Old Head) of Queen Victoria left, legend around, designer's initials below bust.",
+					"Older diademed and veiled portrait (Old Head) of Queen Victoria left legend around designer's initials below bust.",
 				backImg: '1899b.jpeg',
 				backTitle: 'Grace of God',
 				backDescription: 'A most attractive and beautifully matched set.',
 				bottomContent: 'Queen Victoria',
 				price: 500,
+				'': '',
 			},
 			{
 				id: 196,
@@ -5035,12 +5228,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1902f.jpeg',
 				frontTitle: 'In contemporary box',
 				frontDescription:
-					'Uncrowned portrait of King Edward VII facing right, legend around.',
+					'Uncrowned portrait of King Edward VII facing right legend around.',
 				backImg: '1902b.jpeg',
 				backTitle: 'Grace of God',
 				backDescription: 'A most attractive and beautifully matched set.',
 				bottomContent: 'King Edward VII',
 				price: 450,
+				'': '',
 			},
 			{
 				id: 197,
@@ -5057,12 +5251,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1927f.jpeg',
 				frontTitle: 'In contemporary box',
 				frontDescription:
-					'Uncrowned portrait of King George V left, legend around.',
+					'Uncrowned portrait of King George V left legend around.',
 				backImg: '1927b.jpeg',
 				backTitle: 'Grace of God',
 				backDescription: 'A most attractive and beautifully matched set.',
 				bottomContent: 'King George V',
 				price: 450,
+				'': '',
 			},
 			{
 				id: 198,
@@ -5084,6 +5279,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'A most attractive and beautifully matched set.',
 				bottomContent: 'King George VI',
 				price: 450,
+				'': '',
 			},
 			{
 				id: 199,
@@ -5106,6 +5302,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Three edelweiss flowers (Leontopodium alpinum or Leontopodium nivale ssp.) and face value in words surrounding',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 200,
@@ -5120,12 +5317,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				description: 'austria',
 				frontImg: '10Sh1958f.jpg',
 				frontTitle: 'REPUBLIK·ÖSTERREICH',
-				frontDescription: 'Austrian escutcheon, red and white',
+				frontDescription: 'Austrian escutcheon red and white',
 				backImg: '1sh1961b.jpg',
 				backTitle: 'SCHILLING',
 				backDescription: 'Woman head wearing the traditional Lower Austria hat',
 				bottomContent: 'austria',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 201,
@@ -5147,6 +5345,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					"The face value divides the date and a gentian flower or Stemless gentian flower (Binomial Name: Gentiana acaulis) partially inside the number '50'",
 				bottomContent: 'austria',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 202,
@@ -5162,13 +5361,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '10cen1904f.jpg',
 				frontTitle: 'Copper-Nickel',
 				frontDescription:
-					'Center hole within crowned monogram, large date below, legend in Dutch',
+					'Center hole within crowned monogram large date below legend in Dutch',
 				backImg: '10cen1904b.jpg',
 				backTitle: 'BELGIE',
 				backDescription:
-					'Spray of leaves to left of center hole, denomination to right',
+					'Spray of leaves to left of center hole denomination to right',
 				bottomContent: 'belgium',
 				price: 25,
+				'': '',
 			},
 			{
 				id: 203,
@@ -5184,13 +5384,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1949Belgium5Fraf.jpg',
 				frontTitle: 'BELGIE',
 				frontDescription:
-					'Laureate head, left, small diamonds flank date at left, symbol at right',
+					'Laureate head left small diamonds flank date at left symbol at right',
 				backImg: '1949Belgium5Frab.jpg',
 				backTitle: '',
 				backDescription:
-					'Plant divides denomination, Crown at top, legend in Dutch',
+					'Plant divides denomination Crown at top legend in Dutch',
 				bottomContent: 'belgium',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 204,
@@ -5211,6 +5412,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Value and date within wheat sprigs.',
 				bottomContent: 'cccp',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 205,
@@ -5231,6 +5433,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Value and date within wheat sprigs.',
 				bottomContent: 'cccp',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 206,
@@ -5251,6 +5454,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Value and date within wheat sprigs.',
 				bottomContent: 'cccp',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 207,
@@ -5271,6 +5475,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Value and date within wheat sprigs.',
 				bottomContent: 'cccp',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 208,
@@ -5286,12 +5491,13 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Head of King Gustaf V, facing left. The tip of neck-cut divides mintmarks at sides',
 				frontImg: '19481Kronef.jpg',
 				frontTitle: 'Aluminum-Bronze',
-				frontDescription: 'Head right, titles, mint mark, initials N-S',
+				frontDescription: 'Head right titles mint mark initials N-S',
 				backImg: '19481Kroneb.jpg',
 				backTitle: 'Frederik IX',
-				backDescription: 'Crowned royal arms divide date, value above',
+				backDescription: 'Crowned royal arms divide date value above',
 				bottomContent: 'denmark',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 209,
@@ -5314,6 +5520,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Crowned Norwegian coat of arms with the Norwegian lion',
 				bottomContent: 'norway',
 				price: 40,
+				'': '',
 			},
 			{
 				id: 210,
@@ -5335,6 +5542,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Den norske løve.',
 				bottomContent: 'norway',
 				price: 25,
+				'': '',
 			},
 			{
 				id: 211,
@@ -5356,6 +5564,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Two ornamental roses',
 				bottomContent: 'norway',
 				price: 30,
+				'': '',
 			},
 			{
 				id: 212,
@@ -5377,6 +5586,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Two ornamental roses',
 				bottomContent: 'norway',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 213,
@@ -5398,6 +5608,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Two ornamental roses',
 				bottomContent: 'norway',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 214,
@@ -5419,6 +5630,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Two ornamental roses',
 				bottomContent: 'norway',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 215,
@@ -5441,6 +5653,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Crowned collar chain of the Royal Norwegian Order of Saint Olav around a hole.',
 				bottomContent: 'norway',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 216,
@@ -5457,13 +5670,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '194150of.jpg',
 				frontTitle: '50 Ore',
 				frontDescription:
-					'Central hole. Each quarter contains a 7 within a stylized H, and crown on top.',
+					'Central hole. Each quarter contains a 7 within a stylized H and crown on top.',
 				backImg: '194150ob.jpg',
 				backTitle: 'Haakon VII',
 				backDescription:
-					'Central hole. Date below with value at bottom, an ornamental rose either side, crown at top.',
+					'Central hole. Date below with value at bottom an ornamental rose either side crown at top.',
 				bottomContent: 'norway',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 217,
@@ -5480,13 +5694,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '194025of.jpg',
 				frontTitle: '25 Ore',
 				frontDescription:
-					'Crowned cross with monogram in each quarter, hole in centre',
+					'Crowned cross with monogram in each quarter hole in centre',
 				backImg: '194025ob.jpg',
 				backTitle: 'Haakon VII',
 				backDescription:
-					'Value and date below, two ornamental roses flank centre hole, crown above',
+					'Value and date below two ornamental roses flank centre hole crown above',
 				bottomContent: 'norway',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 218,
@@ -5508,6 +5723,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'All for Norway',
 				bottomContent: 'norway',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 219,
@@ -5529,6 +5745,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Kingdom of Norway',
 				bottomContent: 'norway',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 220,
@@ -5550,6 +5767,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'A Stylized flower on either side of Denomination',
 				bottomContent: 'poland',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 221,
@@ -5571,6 +5789,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Value and date with mintmark on left.',
 				bottomContent: 'france',
 				price: 30,
+				'': '',
 			},
 			{
 				id: 222,
@@ -5590,9 +5809,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '195210fb.jpg',
 				backTitle: '10 Francs',
 				backDescription:
-					'Rooster facing right, laurel branch, value, year of production, pattern around edge.',
+					'Rooster facing right laurel branch value year of production pattern around edge.',
 				bottomContent: 'france',
 				price: 35,
+				'': '',
 			},
 			{
 				id: 223,
@@ -5613,9 +5833,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '194910fb.jpg',
 				backTitle: '10 Francs',
 				backDescription:
-					'Denomination above date, inscription below, grain columns flank.',
+					'Denomination above date inscription below grain columns flank.',
 				bottomContent: 'france',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 224,
@@ -5632,13 +5853,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '19361ff.jpg',
 				frontTitle: 'FRANÇAISE',
 				frontDescription:
-					"Marianne's head left wearing a phrygian cap decorated with a composite wreath made of olive tree leaves, oak and wheat.",
+					"Marianne's head left wearing a phrygian cap decorated with a composite wreath made of olive tree leaves oak and wheat.",
 				backImg: '19361fb.jpg',
 				backTitle: '1 Francs',
 				backDescription:
-					'Value encompassed on either side by Cornucopia (or horn of plenty, overflowing with produce, flowers, or nuts).',
+					'Value encompassed on either side by Cornucopia (or horn of plenty overflowing with produce flowers or nuts).',
 				bottomContent: 'france',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 225,
@@ -5655,12 +5877,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '192350cf.jpg',
 				frontTitle: 'CENTIMES',
 				frontDescription:
-					'Mercury, the god of commerce (god of abundance and commercial success',
+					'Mercury the god of commerce (god of abundance and commercial success',
 				backImg: '192350cb.jpg',
 				backTitle: 'COMMERCE',
-				backDescription: 'Denomination in center, lettering surrounding',
+				backDescription: 'Denomination in center lettering surrounding',
 				bottomContent: 'france',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 226,
@@ -5677,12 +5900,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '19232fcf.jpg',
 				frontTitle: 'FRANÇAISE',
 				frontDescription:
-					'Mercury, the god of commerce (god of abundance and commercial success)',
+					'Mercury the god of commerce (god of abundance and commercial success)',
 				backImg: '19232fcb.jpg',
 				backTitle: 'COMMERCE',
-				backDescription: 'Denomination in center, lettering surrounding',
+				backDescription: 'Denomination in center lettering surrounding',
 				bottomContent: 'france',
 				price: 40,
+				'': '',
 			},
 			{
 				id: 227,
@@ -5699,13 +5923,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '192510cf.jpg',
 				frontTitle: 'FRANÇAISE',
 				frontDescription:
-					"A wreath and the engraver's name at the bottom, cap at the top with the letter R to the left of the central hole, letter F to right, the base of letters intertwined below",
+					"A wreath and the engraver's name at the bottom cap at the top with the letter R to the left of the central hole letter F to right the base of letters intertwined below",
 				backImg: '192510cb.jpg',
 				backTitle: 'EM LINDAUER',
 				backDescription:
-					'A plant below the hole, date at the bottom. Lettering above the hole, value divided by hole, date at the bottom, and the privy mark on the left below the 1',
+					'A plant below the hole date at the bottom. Lettering above the hole value divided by hole date at the bottom and the privy mark on the left below the 1',
 				bottomContent: 'france',
 				price: 40,
+				'': '',
 			},
 			{
 				id: 228,
@@ -5729,6 +5954,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'The Spanish coat of arms with the eagle of Saint John and the year in the star to the left with the denomination at the top',
 				bottomContent: 'spain',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 229,
@@ -5750,6 +5976,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned coat of arms divides date',
 				bottomContent: 'sweden',
 				price: '',
+				'': '',
 			},
 			{
 				id: 230,
@@ -5769,9 +5996,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '195750ob.jpg',
 				backTitle: 'King of Sweden',
 				backDescription:
-					'Value with date below and name of the country above. At sides of value there are: the mintmark at left, and at right there is the first letter in the surname of the Governor of the Riksbank.',
+					'Value with date below and name of the country above. At sides of value there are: the mintmark at left and at right there is the first letter in the surname of the Governor of the Riksbank.',
 				bottomContent: 'sweden',
 				price: '',
+				'': '',
 			},
 			{
 				id: 231,
@@ -5795,6 +6023,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'The Three crowns of Sweden divides value in letters at base of lower crown. Above the crowns there is the value in number and below the mintmark of Stockholm mint.',
 				bottomContent: 'sweden',
 				price: '',
+				'': '',
 			},
 			{
 				id: 232,
@@ -5816,6 +6045,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Value within wreath',
 				bottomContent: 'switzerland',
 				price: 75,
+				'': '',
 			},
 			{
 				id: 233,
@@ -5835,9 +6065,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '19531db.jpg',
 				backTitle: 'Republic of Yugoslavia',
 				backDescription:
-					'Seven stars above value, the date on the left and right sides.',
+					'Seven stars above value the date on the left and right sides.',
 				bottomContent: 'yugoslavia',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 234,
@@ -5857,9 +6088,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '19535db.jpg',
 				backTitle: 'Republic of Yugoslavia',
 				backDescription:
-					'Seven stars above value, the date on the left and right sides.',
+					'Seven stars above value the date on the left and right sides.',
 				bottomContent: 'yugoslavia',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 235,
@@ -5878,9 +6110,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Standing Helvetia with lance and shield within star border',
 				backImg: '19451frb.jpg',
 				backTitle: 'Switzerland Franc',
-				backDescription: 'Value, date within wreath',
+				backDescription: 'Value date within wreath',
 				bottomContent: 'switzerland',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 236,
@@ -5899,9 +6132,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Standing Helvetia with lance and shield within star border',
 				backImg: '195212frb.jpg',
 				backTitle: 'Switzerland Franc',
-				backDescription: 'Value, date within wreath',
+				backDescription: 'Value date within wreath',
 				bottomContent: 'switzerland',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 237,
@@ -5920,9 +6154,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Standing Helvetia with lance and shield within star border',
 				backImg: '195120rapb.jpg',
 				backTitle: 'Switzerland Franc',
-				backDescription: 'Value, date within wreath',
+				backDescription: 'Value date within wreath',
 				bottomContent: 'switzerland',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 238,
@@ -5941,9 +6176,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Standing Helvetia with lance and shield within star border',
 				backImg: '194610rapb.jpg',
 				backTitle: 'Switzerland Franc',
-				backDescription: 'Value, date within wreath',
+				backDescription: 'Value date within wreath',
 				bottomContent: 'switzerland',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 239,
@@ -5962,9 +6198,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Standing Helvetia with lance and shield within star border',
 				backImg: '19532rapb.jpg',
 				backTitle: 'Switzerland Franc',
-				backDescription: 'Value, date within wreath',
+				backDescription: 'Value date within wreath',
 				bottomContent: 'switzerland',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 240,
@@ -5983,9 +6220,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Standing Helvetia with lance and shield within star border',
 				backImg: '19541rapb.jpg',
 				backTitle: 'Switzerland Franc',
-				backDescription: 'Value, date within wreath',
+				backDescription: 'Value date within wreath',
 				bottomContent: 'switzerland',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 241,
@@ -6007,6 +6245,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Wreath with two laurel branches tied with a ribbon below.',
 				bottomContent: 'switzerland',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 242,
@@ -6028,6 +6267,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Wreath with two laurel branches tied with a ribbon below.',
 				bottomContent: 'switzerland',
 				price: 30,
+				'': '',
 			},
 			{
 				id: 243,
@@ -6042,12 +6282,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				description: '1 rappen',
 				frontImg: '18941rapf.jpg',
 				frontTitle: 'Helvetia',
-				frontDescription: 'Shield within sprigs, date below',
+				frontDescription: 'Shield within sprigs date below',
 				backImg: '18941rapb.jpg',
 				backTitle: 'Switzerland Franc',
 				backDescription: 'Value within wreath',
 				bottomContent: 'switzerland',
 				price: 100,
+				'': '',
 			},
 			{
 				id: 244,
@@ -6062,12 +6303,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				description: '2 Pfennigs',
 				frontImg: '19262Pff.jpg',
 				frontTitle: 'Helvetia',
-				frontDescription: 'Shield within sprigs, date below',
+				frontDescription: 'Shield within sprigs date below',
 				backImg: '19262Pfb.jpg',
 				backTitle: 'Switzerland Franc',
 				backDescription: 'Value within wreath',
 				bottomContent: 'switzerland',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 245,
@@ -6083,12 +6325,13 @@ export class InMemoryDataService implements InMemoryDbService {
 					'In 1967, the price of silver soared steeply, reaching 260 francs per kilogram in August and 350 francs per kilogram in March 1968. At this time, the melt value of the 1\u001a2, 1, and 2 franc pieces was circa 46% higher than their nominal value.',
 				frontImg: '19545frf.jpg',
 				frontTitle: 'Helvetia',
-				frontDescription: 'Bust of curly-haired herdsman, facing righ',
+				frontDescription: 'Bust of curly-haired herdsman facing righ',
 				backImg: '19545frb.jpg',
 				backTitle: 'Confoederatio Helvetica',
 				backDescription: 'Coat of arms of Switzerland on square shield.',
 				bottomContent: 'switzerland',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 246,
@@ -6105,13 +6348,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '19482frf.jpg',
 				frontTitle: 'Helvetia',
 				frontDescription:
-					'Full-length figure of Helvetia, standing, facing left, wearing toga',
+					'Full-length figure of Helvetia standing facing left wearing toga',
 				backImg: '19482frb.jpg',
 				backTitle: 'Switzerland Franc',
 				backDescription:
 					'Wreath formed of oak and alpine rose branches tied with a ribbon below.',
 				bottomContent: 'switzerland',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 247,
@@ -6128,12 +6372,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '195425oref.jpg',
 				frontTitle: 'Copper-Nickel',
 				frontDescription:
-					'Crowned F IX R monogram divides value, oak and beech branches below',
+					'Crowned F IX R monogram divides value oak and beech branches below',
 				backImg: '195425oreb.jpg',
 				backTitle: 'Frederik IX',
-				backDescription: 'Value, country name, mint mark, initials N-S',
+				backDescription: 'Value country name mint mark initials N-S',
 				bottomContent: 'denmark',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 248,
@@ -6150,13 +6395,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '191820cf.jpg',
 				frontTitle: 'Victor Emmanuel III',
 				frontDescription:
-					"Crowned Savoia Shield between twisted branches of laurel and oak, the issuer name above, and the engraver's initials below",
+					"Crowned Savoia Shield between twisted branches of laurel and oak the issuer name above and the engraver's initials below",
 				backImg: '191820cb.jpg',
 				backTitle: 'Kingdom of Italy',
 				backDescription:
 					'Value and date of the coin within a hexagon surrounded by a laurel wreath and the mintmark below the date',
 				bottomContent: 'italy',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 249,
@@ -6173,13 +6419,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '192110cf.jpg',
 				frontTitle: 'Emanuele III',
 				frontDescription:
-					'The portrait of King Vittorio Emanuele III facing left with the name of the author below the neck, with lettering around the outside',
+					'The portrait of King Vittorio Emanuele III facing left with the name of the author below the neck with lettering around the outside',
 				backImg: '192110cb.jpg',
 				backTitle: 'Centesimi',
 				backDescription:
-					'A honeybee on a flower with the value on the bottom right, the date on the bottom, and the mintmark to the left',
+					'A honeybee on a flower with the value on the bottom right the date on the bottom and the mintmark to the left',
 				bottomContent: 'italy',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 250,
@@ -6196,13 +6443,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '19275cf.jpg',
 				frontTitle: 'Emanuele III',
 				frontDescription:
-					'Head of king Victor Emmanuel III facing left, lettering around edge.',
+					'Head of king Victor Emmanuel III facing left lettering around edge.',
 				backImg: '19275cb.jpg',
 				backTitle: 'Centesimi',
 				backDescription:
 					'Large central ear of wheat divides value with the date to the lower right and the mintmark to the bottom right of the wheat.',
 				bottomContent: 'italy',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 251,
@@ -6219,13 +6467,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '189420cf.jpg',
 				frontTitle: 'Umberto I',
 				frontDescription:
-					'Royal crown in the centre with the date below, all encircled by a wreath made by a branch of laurel and one of oak, the Star of Italy above, and the Mintmark below the wreath',
+					'Royal crown in the centre with the date below all encircled by a wreath made by a branch of laurel and one of oak the Star of Italy above and the Mintmark below the wreath',
 				backImg: '189420cb.jpg',
 				backTitle: 'Centesimi',
 				backDescription:
 					'Denomination inside a central beaded circle and lettering around outside of circle',
 				bottomContent: 'italy',
 				price: 90,
+				'': '',
 			},
 			{
 				id: 252,
@@ -6242,13 +6491,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '18631lf.jpg',
 				frontTitle: 'Victor Emmanuel III',
 				frontDescription:
-					'Head of King Vittorio Emanuele II right, with the name of the engraver below the neck',
+					'Head of King Vittorio Emanuele II right with the name of the engraver below the neck',
 				backImg: '18631lb.jpg',
 				backTitle: 'Lira',
 				backDescription:
-					"Savoia coat of arms decorated with the Collare dell'Annunziata, both within a laurel wreath.Below value of the coin and mintmark.",
+					"Savoia coat of arms decorated with the Collare dell'Annunziata both within a laurel wreath.Below value of the coin and mintmark.",
 				bottomContent: 'italy',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 253,
@@ -6269,9 +6519,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '18625cb.jpg',
 				backTitle: 'Centesimi',
 				backDescription:
-					'Value and date within two branches, one of laurel and the other of oak with the star of Italy above and the mintmark below',
+					'Value and date within two branches one of laurel and the other of oak with the star of Italy above and the mintmark below',
 				bottomContent: 'italy',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 254,
@@ -6291,9 +6542,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '195450lb.jpg',
 				backTitle: 'Lira',
 				backDescription:
-					'Representation of the god Vulcan beating iron on an anvil. Date left, denomination right',
+					'Representation of the god Vulcan beating iron on an anvil. Date left denomination right',
 				bottomContent: 'italy',
 				price: 30,
+				'': '',
 			},
 			{
 				id: 255,
@@ -6308,12 +6560,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				description: '1952 italy 10 lire',
 				frontImg: '195210lf.jpg',
 				frontTitle: 'Giampaoli',
-				frontDescription: 'Plough, lettering above, date below',
+				frontDescription: 'Plough lettering above date below',
 				backImg: '195210lb.jpg',
 				backTitle: 'Lira',
 				backDescription: 'Two ears of wheat dividing by value',
 				bottomContent: 'italy',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 256,
@@ -6334,6 +6587,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Dolphin and value',
 				bottomContent: 'italy',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 257,
@@ -6354,9 +6608,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '194250cb.jpg',
 				backTitle: 'Italia',
 				backDescription:
-					'Side view of an eagle with raised wings holding a fasces with an axe in its claws, date and year of Fascist Era on the left, near the tail. Below the fasces, in exergue, the Savoy shield divides the value and mintmark at sides.',
+					'Side view of an eagle with raised wings holding a fasces with an axe in its claws date and year of Fascist Era on the left near the tail. Below the fasces in exergue the Savoy shield divides the value and mintmark at sides.',
 				bottomContent: 'italy',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 258,
@@ -6377,6 +6632,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Bust left within wreath',
 				bottomContent: 'italy',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 259,
@@ -6392,13 +6648,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '1955100lf.jpg',
 				frontTitle: '100 Lira',
 				frontDescription:
-					'Female head with laurel wreath facing left, dividing the country name on both sides. Names of the designer and engraver below.',
+					'Female head with laurel wreath facing left dividing the country name on both sides. Names of the designer and engraver below.',
 				backImg: '1955100lb.jpg',
 				backTitle: 'Giampaoli',
 				backDescription:
-					'Goddess Minerva facing left reaching an olive tree with her raised right hand while in the left holds a long spear. Value at left of olive trunk; mintmark at right of the Goddess. Date below, in exergu',
+					'Goddess Minerva facing left reaching an olive tree with her raised right hand while in the left holds a long spear. Value at left of olive trunk; mintmark at right of the Goddess. Date below in exergu',
 				bottomContent: 'italy',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 260,
@@ -6418,9 +6675,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '19392lb.jpg',
 				backTitle: 'Romagnoli',
 				backDescription:
-					'Eagle in profile, with outstretched wings and head left, has fasces with axe in its claws. The eagle is encircled by a laurel wreath made of two branches. Where the branches meet together at base is the Shield of Savoy which divides the value below. The date is on the left of the value, while the mint mark and the year in the Fascist Era are at right.',
+					'Eagle in profile with outstretched wings and head left has fasces with axe in its claws. The eagle is encircled by a laurel wreath made of two branches. Where the branches meet together at base is the Shield of Savoy which divides the value below. The date is on the left of the value while the mint mark and the year in the Fascist Era are at right.',
 				bottomContent: 'italy',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 261,
@@ -6441,9 +6699,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '186710cb.jpg',
 				backTitle: 'Victor Emmanuel II',
 				backDescription:
-					'Value and date within two branches, one of laurel and the other of oak and the star of Italy above and the sign of the mint below',
+					'Value and date within two branches one of laurel and the other of oak and the star of Italy above and the sign of the mint below',
 				bottomContent: 'italy',
 				price: 50,
+				'': '',
 			},
 			{
 				id: 262,
@@ -6465,6 +6724,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'A sower the face value and the state title',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 263,
@@ -6486,6 +6746,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Austrian escutcheon and four ears',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 264,
@@ -6506,6 +6767,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Austrian escutcheon and four ears',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 265,
@@ -6521,12 +6783,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '195210gf.jpg',
 				frontTitle: 'REPUBLIK·ÖSTERREICH',
 				frontDescription:
-					'The Austrian coat of arms (the imperial eagle carrying the Austrian shield on its breast) with broken chains, which signify Austria as an independent country, and the country name as a stylized inscription, and denomination in the scalloped rim.',
+					'The Austrian coat of arms (the imperial eagle carrying the Austrian shield on its breast) with broken chains which signify Austria as an independent country and the country name as a stylized inscription and denomination in the scalloped rim.',
 				backImg: '195210gb.jpg',
 				backTitle: '10 Groschen',
 				backDescription: 'The face value above the year in a scalloped rim.',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 266,
@@ -6546,9 +6809,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '19522gb.jpg',
 				backTitle: '2 Groschen',
 				backDescription:
-					'enomination in circle of dots, name of the state around, date below.',
+					'enomination in circle of dots name of the state around date below.',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 267,
@@ -6569,6 +6833,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Coat of arms on spray of edelweiss',
 				bottomContent: 'austria',
 				price: 40,
+				'': '',
 			},
 			{
 				id: 268,
@@ -6584,13 +6849,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '192410gf.jpg',
 				frontTitle: 'REPUBLIK·ÖSTERREICH',
 				frontDescription:
-					'A woman of the region of Tyrol, facing right, wearing a hat, with mountains in the background',
+					'A woman of the region of Tyrol facing right wearing a hat with mountains in the background',
 				backImg: '192410gb.jpg',
 				backTitle: '10 Groschen',
 				backDescription:
 					'The value above year within a circular floral wreath of gentian flowers alternating with edelweiss flowers',
 				bottomContent: 'austria',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 269,
@@ -6612,6 +6878,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: '2oo',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 270,
@@ -6630,9 +6897,10 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Crowned double-headed eagle with Austrian shield on breast.',
 				backImg: '191620hb.jpg',
 				backTitle: 'Schwartz',
-				backDescription: 'Value within wreath, date below',
+				backDescription: 'Value within wreath date below',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 271,
@@ -6650,9 +6918,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'Habsburg coat of arms',
 				backImg: '191610hb.jpg',
 				backTitle: 'Schwartz',
-				backDescription: 'Value within wreath, date below',
+				backDescription: 'Value within wreath date below',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 272,
@@ -6668,12 +6937,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '18942hf.jpg',
 				frontTitle: 'REPUBLIK·ÖSTERREICH',
 				frontDescription:
-					'The 1867\u001a1915 coat of arms of Austria-Hungary, a double-headed imperial eagle with Habsburg-Lorraine shield on breast.',
+					'The 1867\u001a1915 coat of arms of Austria-Hungary a double-headed imperial eagle with Habsburg-Lorraine shield on breast.',
 				backImg: '18942hb.jpg',
 				backTitle: 'Schwartz',
-				backDescription: 'Value within wreath, date below',
+				backDescription: 'Value within wreath date below',
 				bottomContent: 'austria',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 273,
@@ -6693,9 +6963,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '18951hb.jpg',
 				backTitle: 'Neudeck',
 				backDescription:
-					'Value above sprays, date below, within curved stylised shield',
+					'Value above sprays date below within curved stylised shield',
 				bottomContent: 'austria',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 274,
@@ -6711,13 +6982,14 @@ export class InMemoryDataService implements InMemoryDbService {
 					'Franz Joseph I or Francis Joseph I (German: Franz Joseph Karl [f\u001aants \u001ajo\u001az\u001af \u001aka\u001al]; Hungarian: Ferenc József Károly [\u001af\u001ar\u001ant\u001as \u001ajo\u001a\u001a\u001af \u001aka\u001aroj]; 18 August 1830 \u001a 21 November 1916) was Emperor of Austria, King of Hungary, and the ruler of the other states of the Habsburg monarchy from 2 December 1848 until his death in 1916.[1] In the early part of his reign, his realms and territories were referred to as the Austrian Empire, but were reconstituted as the dual monarchy of the Austro-Hungarian Empire in 1867. From 1 May 1850 to 24 August 1866, he was also president of the German Confederation.',
 				frontImg: '186920kf.jpg',
 				frontTitle: '20 Kreuzers',
-				frontDescription: 'Head to the right, legend around (starts 7h).',
+				frontDescription: 'Head to the right legend around (starts 7h).',
 				backImg: '186920kb.jpg',
 				backTitle: 'Francis Joseph I',
 				backDescription:
-					'Crowned imperial eagle, value at centre, legend around (starts 1h) for Hungariae Bohemiae Galiciae Lodomeriae Illyriae Rex Archidux Austriae.',
+					'Crowned imperial eagle value at centre legend around (starts 1h) for Hungariae Bohemiae Galiciae Lodomeriae Illyriae Rex Archidux Austriae.',
 				bottomContent: 'austria',
 				price: 30,
+				'': '',
 			},
 			{
 				id: 275,
@@ -6738,9 +7010,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '187210kb.jpg',
 				backTitle: 'Francis Joseph I',
 				backDescription:
-					'Crowned double headed imperial eagle with value on breast. Legend around (starts 1h), date at end of legend.',
+					'Crowned double headed imperial eagle with value on breast. Legend around (starts 1h) date at end of legend.',
 				bottomContent: 'austria',
 				price: 15,
+				'': '',
 			},
 			{
 				id: 276,
@@ -6763,6 +7036,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription: 'Crowned denomination above date',
 				bottomContent: 'austria',
 				price: 25,
+				'': '',
 			},
 			{
 				id: 277,
@@ -6779,13 +7053,14 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontImg: '18511kf.jpg',
 				frontTitle: '1 Kreuzers',
 				frontDescription:
-					'The double-headed eagle, lettering around outside within a beaded border',
+					'The double-headed eagle lettering around outside within a beaded border',
 				backImg: '18511kb.jpg',
 				backTitle: 'Gross',
 				backDescription:
-					'The value above dividing line, year and mintmark below',
+					'The value above dividing line year and mintmark below',
 				bottomContent: 'austria',
 				price: 10,
+				'': '',
 			},
 			{
 				id: 278,
@@ -6805,9 +7080,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '19261sb.jpg',
 				backTitle: 'Irish Free State',
 				backDescription:
-					'Bull, facing right. Denomination above and in exergue.',
+					'Bull facing right. Denomination above and in exergue.',
 				bottomContent: 'ireland',
 				price: 75,
+				'': '',
 			},
 			{
 				id: 279,
@@ -6826,9 +7102,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
 				backImg: '19231rb.jpg',
 				backTitle: 'Irish Free State',
-				backDescription: 'Irish Wolfhound, facing left',
+				backDescription: 'Irish Wolfhound facing left',
 				bottomContent: 'ireland',
 				price: 20,
+				'': '',
 			},
 			{
 				id: 280,
@@ -6847,9 +7124,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				frontDescription: 'Date divided by Cláirseach (or Gaelic harp).',
 				backImg: '193451rb.jpg',
 				backTitle: 'Irish Free State',
-				backDescription: 'Seated hare, facing left',
+				backDescription: 'Seated hare facing left',
 				bottomContent: 'ireland',
 				price: 5,
+				'': '',
 			},
 			{
 				id: 281,
@@ -6869,9 +7147,10 @@ export class InMemoryDataService implements InMemoryDbService {
 				backImg: '19511sb.jpg',
 				backTitle: 'Irish Free State',
 				backDescription:
-					'Bull, facing right. Denomination above and in exergue.',
+					'Bull facing right. Denomination above and in exergue.',
 				bottomContent: 'ireland',
 				price: 30,
+				'': '',
 			},
 		];
 
