@@ -95,7 +95,7 @@ ByMonarchComponent = (0,tslib__WEBPACK_IMPORTED_MODULE_6__.__decorate)([(0,_angu
   \*************************************************************************************/
 /***/ ((module) => {
 
-module.exports = "<a href=\"#/monarchtype/{{ image.type }}-{{ image.id }}\" class=\"col-33\">\n\t<img\n\t\tsrc=\"assets/images/monarch/{{ image.Img }}\"\n\t\twidth=\"250px\"\n\t\theight=\"250px\"\n\t\talt=\"{{ image.Img }}\" />\n\t<div class=\"crown-overlay\">\n\t\t<span\n\t\t\t>{{ image.name }} <br />\n\t\t\t{{ image.title }}</span\n\t\t>\n\t</div>\n</a>\n";
+module.exports = "<a href=\"#/monarchtype/{{ image.type }}-{{ image.id }}\" class=\"col-3 button\">\n\t<img\n\t\tsrc=\"assets/images/monarch/{{ image.Img }}\"\n\t\twidth=\"250px\"\n\t\theight=\"250px\"\n\t\talt=\"{{ image.Img }}\" />\n\t<div class=\"crown-overlay\">\n\t\t<span\n\t\t\t>{{ image.name }} <br />\n\t\t\t{{ image.title }}</span\n\t\t>\n\t</div>\n</a>\n";
 
 /***/ }),
 
