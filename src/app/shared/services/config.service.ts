@@ -62,6 +62,21 @@ export class ConfigService {
 			);
 	}
 
+	getCoinLisyByMonarchTypeSettings(
+		database: string,
+		countryName?: string
+	): Observable<any> {
+		const url = countryName
+			? `api/${database}?monarchtype=${countryName}`
+			: `api/${database}`;
+
+		return this.http
+			.get<any>(url)
+			.pipe(
+				catchError(this.handleError(`Error getting data from ${database}`, []))
+			);
+	}
+
 	getCoinListByCountrySettings(
 		database: string,
 		countryName?: string

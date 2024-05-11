@@ -19,6 +19,20 @@ const routes: Routes = [
 			),
 	},
 	{
+		path: 'bymonarch',
+		loadComponent: () =>
+			import('./bymonarch/bymonarch/bymonarch.component').then(
+				mod => mod.ByMonarchComponent
+			),
+	},
+  {
+		path: 'monarchtype/:id',
+		loadComponent: () =>
+			import(
+				'./bymonarch/monarchType/monarch-type/monarch-type.component'
+			).then(mod => mod.MonarchTypeComponent),
+	},
+	{
 		path: 'britishcoins',
 		loadComponent: () =>
 			import('./britishcoin/britishcoin/britishcoin.component').then(

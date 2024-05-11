@@ -1,24 +1,24 @@
 import { Observable, throwError, catchError } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
 import { ConfigService } from '../../shared/services/config.service';
-import { Image } from '../models/image.model';
+import { Image } from '../models/bymonarch.model';
 import { AsyncPipe } from '@angular/common';
-import { ImageBlockComponent } from '../image-block/image-block.component';
+import { ByMonarchBlockComponent } from '../bymonarch-block/bymonarch-block.component';
 import { RouterLink } from '@angular/router';
 
 @Component({
-	selector: 'app-britishcoin-page',
-	templateUrl: './britishcoin.component.html',
+	selector: 'app-bymonarch-page',
+	templateUrl: './bymonarch.component.html',
 	standalone: true,
-	imports: [RouterLink, ImageBlockComponent, AsyncPipe],
+	imports: [RouterLink, ByMonarchBlockComponent, AsyncPipe],
 })
-export class BritishCoinComponent implements OnInit {
+export class ByMonarchComponent implements OnInit {
 	images$: Observable<Image[]> = new Observable();
 
 	constructor(private config: ConfigService) {}
 
 	ngOnInit() {
-		this.getBlockData('cointypeList');
+		this.getBlockData('monarchList');
 	}
 
 	getBlockData(database: string) {

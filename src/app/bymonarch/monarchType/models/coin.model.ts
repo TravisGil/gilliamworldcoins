@@ -1,11 +1,11 @@
 export class Coin {
 	id: number;
 	country: string;
-  countryname: string;
+	countryname: string;
 	type: string;
 	typeid: number;
 	name: string;
-  monarchtype: string;
+	monarchtype: string;
 	year: string;
 	tagline: string;
 	title: string;
