@@ -875,8 +875,8 @@ let InMemoryDataService = class InMemoryDataService {
       id: 15,
       country: 'unitedkingdom',
       countryId: 1,
-      type: 'GeorgeVI',
-      name: 'King George6',
+      type: 'George6',
+      name: 'King George VI',
       tagline: 'King George VI of England',
       title: '11 December 1936 – 6 February 1952',
       description: 'George VI (born December 14, 1895, Sandringham, Norfolk, England—died February 6, 1952, Sandringham) was the king of the United Kingdom from 1936 to 1952. George VI. Also called (1920–36): Prince Albert, duke of York. In full: Albert Frederick Arthur George.',
@@ -1272,7 +1272,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Cruciform',
       backDescription: 'Qvarto edge Crowned Cruciform shields.',
       bottomContent: 'Qvarto edge, Crowned Cruciform shields.',
-      price: '$3,800',
+      price: '$7,800',
       ebay: ''
     }, {
       id: 3,
@@ -1860,7 +1860,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'King William IIII',
       backDescription: 'King of the Britains Defender of the FaithGod and my right',
       bottomContent: 'King William IIII',
-      price: '$200',
+      price: '$400',
       ebay: ''
     }, {
       id: 32,
@@ -2280,7 +2280,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Edward VII',
       backDescription: 'Crowned lion passant atop crown dividing date.',
       bottomContent: 'Edward VII',
-      price: '$20',
+      price: '$90',
       ebay: ''
     }, {
       id: 52,
@@ -2394,11 +2394,11 @@ let InMemoryDataService = class InMemoryDataService {
       type: 'shilling',
       typeid: 4,
       name: 'King George IV',
-      monarchtype: 'George4',
+      monarchtype: 'William4',
       year: 1835,
       tagline: 'Shilling',
-      title: '1835 King George IIII Shilling',
-      description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+      title: '1835 King William IIII Shilling',
+      description: 'The 1835 United Kingdom shillingreverse shows the words ONE SHILLING with the royal crown above, and a smallscroll below.',
       frontImg: '1835f.jpg',
       frontTitle: 'George IIII',
       frontDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
@@ -2511,7 +2511,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'George the Third',
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60',
+      price: '$75',
       ebay: ''
     }, {
       id: 63,
@@ -2532,7 +2532,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'George the Third',
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60',
+      price: '$75',
       ebay: ''
     }, {
       id: 64,
@@ -2553,7 +2553,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'George the Third',
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60',
+      price: '$75',
       ebay: ''
     }, {
       id: 65,
@@ -2574,7 +2574,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'George the Third',
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60',
+      price: '$75',
       ebay: ''
     }, {
       id: 66,
@@ -2595,7 +2595,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'George the Third',
       backDescription: 'Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.',
       bottomContent: 'George III',
-      price: '$60',
+      price: '$150',
       ebay: ''
     }, {
       id: 67,
@@ -2751,19 +2751,19 @@ let InMemoryDataService = class InMemoryDataService {
       type: 'shilling',
       typeid: 4,
       name: 'King James II',
-      monarchtype: 'James2',
+      monarchtype: 'William3',
       year: 1700,
       tagline: 'Shilling',
-      title: '1700 King James II Shilling',
-      description: 'James II and VII was King of England and Ireland as James II and King of Scotland as James VII from the death of his elder brother, Charles II, on 6 February 1685. He was deposed in the Glorious Revolution of 1688. He was the last Catholic monarch of England, Scotland, and Ireland.',
+      title: '1700 King William III Shilling',
+      description: '1700 SHILLING, BRITISH SILVER COIN FROM WILLIAM III Stunning Silver',
       frontImg: '1700f.jpg',
-      frontTitle: 'King James II',
-      frontDescription: 'King James II Shilling minted by the Royal Mint at the Tower Mint in London.',
+      frontTitle: 'King William II',
+      frontDescription: 'Minted by the Royal Mint at the Tower Mint in London.',
       backImg: '1700b.jpg',
       backTitle: 'Arms of England',
       backDescription: 'The Reverse is four crowned shields bearing the arms of England Scotland France and Ireland arranged in a cross. Star of the Garter at the centre.',
-      bottomContent: 'King James II',
-      price: '$600',
+      bottomContent: 'King William IIII',
+      price: '$900',
       ebay: ''
     }, {
       id: 75,
@@ -2826,7 +2826,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Queen Victoria',
       backDescription: 'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
       bottomContent: 'Queen Victoria',
-      price: '$400',
+      price: '$1,430',
       ebay: ''
     }, {
       id: 78,
@@ -2847,7 +2847,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Queen Victoria',
       backDescription: 'Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.',
       bottomContent: 'Queen Victoria',
-      price: '$400',
+      price: '$1,200',
       ebay: ''
     }, {
       id: 79,
@@ -3171,7 +3171,7 @@ let InMemoryDataService = class InMemoryDataService {
       type: 'sixpence',
       typeid: 5,
       name: 'King Charles II',
-      monarchtype: 'CharlesII',
+      monarchtype: 'Charles2',
       year: 1677,
       tagline: 'Sixpence',
       title: '1677 King Charles II Sixpence',
@@ -3192,7 +3192,7 @@ let InMemoryDataService = class InMemoryDataService {
       type: 'sixpence',
       typeid: 5,
       name: 'King William III',
-      monarchtype: 'WilliamIII',
+      monarchtype: 'William3',
       year: 1698,
       tagline: 'Sixpence',
       title: '1698 King William III  Sixpence',
@@ -3288,7 +3288,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Grace of God',
       backDescription: 'Cruciform shields around central Garter star with crowns in angles legend around date below.',
       bottomContent: 'King George III',
-      price: '',
+      price: 80,
       ebay: ''
     }, {
       id: 100,
@@ -3309,7 +3309,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'GEOR:III',
       backDescription: 'George the Third by the Grace of God King of the Britains Defender of the Faith',
       bottomContent: 'King George III',
-      price: '',
+      price: 60,
       ebay: ''
     }, {
       id: 101,
@@ -3330,7 +3330,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'ANNO 1821',
       backDescription: 'Ornate garnished crowned quartered shield of arms overlaid with second smaller crowned shield national flower emblems around date below',
       bottomContent: 'King George IIII',
-      price: '',
+      price: 90,
       ebay: ''
     }, {
       id: 102,
@@ -3351,7 +3351,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'Benedetto Pistrucci',
       backDescription: 'Square topped crowned quartered shield of arms overlaid with second smaller crowned shield Garter with legend around date below.',
       bottomContent: 'King George IIII',
-      price: '',
+      price: 50,
       ebay: ''
     }, {
       id: 103,
@@ -3359,20 +3359,20 @@ let InMemoryDataService = class InMemoryDataService {
       countryname: 'unitedkingdom',
       type: 'sixpence',
       typeid: 5,
-      name: 'George IIII',
-      monarchtype: 'George4',
-      year: 1864,
+      name: 'King William IV',
+      monarchtype: 'William3',
+      year: 1834,
       tagline: 'Sixpence',
-      title: '1864 King George IIII Sixpence',
-      description: 'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
-      frontImg: '1864f.jpg',
+      title: '1834 King William IV Sixpence',
+      description: 'The reign of King William IV was very short 1830-1837. The largest silver coin struck for circulation was the Halfcrown or two shillings and sixpence.',
+      frontImg: '1834f.jpg',
       frontTitle: 'GEORGIUS IIII',
       frontDescription: 'Laureate portrait of King George III right legend around date below.',
-      backImg: '1864b.jpg',
+      backImg: '1834b.jpg',
       backTitle: 'Benedetto Pistrucci',
       backDescription: 'Crowned quartered shield of arms overlaid with smaller crowned shield legend around on garter.',
-      bottomContent: 'King George IIII',
-      price: '',
+      bottomContent: 'King William IV',
+      price: 150,
       ebay: ''
     }, {
       id: 104,
@@ -3466,14 +3466,14 @@ let InMemoryDataService = class InMemoryDataService {
       typeid: 5,
       name: 'King Edward VII',
       monarchtype: 'Edward7',
-      year: 1905,
+      year: 1902,
       tagline: 'Sixpence',
-      title: '1905 King Edward VII  Sixpence',
+      title: '1902 King Edward VII  Sixpence',
       description: 'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
-      frontImg: '1905f.jpg',
+      frontImg: '1902f.jpg',
       frontTitle: 'EDWARDVS VII',
       frontDescription: 'Uncrowned bust of King Edward VII right legend around.',
-      backImg: '1905b.jpg',
+      backImg: '1902b.jpg',
       backTitle: 'de Saulles',
       backDescription: 'Crowned denomination within wreath (olive sprig on left oak on right) date below.',
       bottomContent: 'King Edward VII',
@@ -3729,7 +3729,7 @@ let InMemoryDataService = class InMemoryDataService {
       backTitle: 'MacKennal',
       backDescription: 'Three oak sprigs with three acorns denomination above date below.',
       bottomContent: 'King George V',
-      price: '',
+      price: 30,
       ebay: ''
     }, {
       id: 121,
@@ -7332,12 +7332,12 @@ let InMemoryDataService = class InMemoryDataService {
       monarchtype: 'James2',
       year: 1686,
       tagline: 'maundy',
-      title: '1686 2 Pence',
+      title: '1686 4 Pence',
       description: 'This coin was issued specifically as Maundy money as part of the Royal Maundy ceremony. The King would have handed these out personally to the elderly at a Church in London at the Maundy service.',
-      frontImg: '16862pf.jpg',
+      frontImg: '16864pf.jpg',
       frontTitle: 'IACOBVS·II',
       frontDescription: 'Laureate portrait of King James II left, legend around.',
-      backImg: '16862pb.jpg',
+      backImg: '16864pb.jpg',
       backTitle: 'Maundy',
       backDescription: 'Central denomination below crown dividing date, legend around.',
       bottomContent: 'King James II',
@@ -7351,14 +7351,14 @@ let InMemoryDataService = class InMemoryDataService {
       typeid: 11,
       name: 'King James II',
       monarchtype: 'James2',
-      year: 1687,
+      year: 1686,
       tagline: 'maundy',
-      title: '1687 2 Pence',
+      title: '1686 2 Pence',
       description: 'This coin was issued specifically as Maundy money as part of the Royal Maundy ceremony. The King would have handed these out personally to the elderly at a Church in London at the Maundy service.',
-      frontImg: '16872pf.jpg',
+      frontImg: '16862pf.jpg',
       frontTitle: 'IACOBVS·II',
       frontDescription: 'Laureate portrait of King James II left, legend around.',
-      backImg: '16872pb.jpg',
+      backImg: '16862pb.jpg',
       backTitle: 'Maundy',
       backDescription: 'Central denomination below crown dividing date, legend around.',
       bottomContent: 'King James II',
@@ -7647,7 +7647,7 @@ let InMemoryDataService = class InMemoryDataService {
       monarchtype: 'George3',
       year: 1776,
       tagline: 'maundy',
-      title: '1776 1 Pence',
+      title: '1776 2 Pence',
       description: 'This coin was issued specifically as Maundy money as part of the Royal Maundy ceremony. The King would have handed these out personally to the elderly at a Church in London at the Maundy service.',
       frontImg: '17762pf.jpg',
       frontTitle: 'GEORGIVS·III·DEI·GRATIA·',
