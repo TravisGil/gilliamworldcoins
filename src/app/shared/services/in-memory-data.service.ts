@@ -21,7 +21,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Help Center',
 				title: 'Helpful links',
 				description:
-					'This links will help you on the way. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!',
+					'Explore the following external links to connect with other agencies, organizations, programs, and resources related to coin collecting.',
 			},
 			{
 				id: 3,
@@ -76,7 +76,7 @@ export class InMemoryDataService implements InMemoryDbService {
 			{
 				id: 1,
 				icon: 'tags',
-				title: 'Get an Appraisal',
+				title: 'Get an Estimate',
 				description:
 					'Do you have a coin collection you’re thinking about selling? First research their worth online, you may find conflicting information from different websites.  Each coin can be based on year, quality and availability.  ',
 			},
@@ -123,13 +123,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				id: 2,
 				name: 'Royal Mint',
 				weblink: 'https://www.royalmint.com/',
-				logo: 'company-logo3.png',
+				logo: 'company-logo2.png',
 			},
 			{
 				id: 3,
 				name: 'NGC',
 				weblink: 'https://www.ngccoin.com/ncs-conservation/',
-				logo: 'company-logo3.png',
+				logo: 'company-logo9.png',
 			},
 			{
 				id: 4,
@@ -141,7 +141,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				id: 5,
 				name: 'United States Mint',
 				weblink: 'https://www.usmint.gov/',
-				logo: 'company-logo5.png',
+				logo: 'company-logo6.png',
 			},
 		];
 

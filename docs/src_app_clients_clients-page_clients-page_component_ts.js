@@ -111,7 +111,7 @@ module.exports = "<section id=\"clients\" class=\"scrollto clearfix\">\n\t<div c
   \***********************************************************************************/
 /***/ ((module) => {
 
-module.exports = "<a href=\"{{ company.weblink }}\" class=\"col-3\">\n\t<img\n\t\tsrc=\"assets/images/company-images/{{ company.logo }}\"\n\t\talt=\"{{ company.name }}\" />\n\t<div class=\"client-overlay\">\n\t\t<span>{{ company.name }}</span>\n\t</div>\n</a>\n";
+module.exports = "<a href=\"{{ company.weblink }}\" class=\"col-33\">\n\t<img\n\t\tsrc=\"assets/images/company-images/{{ company.logo }}\"\n\t\talt=\"{{ company.name }}\" />\n\t<div class=\"client-overlay\">\n\t\t<span>{{ company.name }}</span>\n\t</div>\n</a>\n";
 
 /***/ })
 
