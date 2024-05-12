@@ -906,16 +906,16 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1676 King Charles II Crown',
 				description:
-					'Charles II (29 May 1630 6 February 1685)[c] was King of Scotland from 1649 until 1651 and King of England, Scotland, and Ireland from the 1660 Restoration of the monarchy until his death in 1685.',
+					'Charles II (1676), crown, 1676, OCTAVO, third laureate bust right, rev. crowned cruciform shields, interlinked Cs in angles, (S.3358; ESC.51; Bull 397).',
 				frontImg: '1676f.jpeg',
 				frontTitle: 'Charles II',
 				frontDescription:
 					'The bust of King Charles II draped in his flowing hair and laurel leaves.',
 				backImg: '1676b.jpeg',
-				backTitle: 'EMBOSSED',
+				backTitle: 'OCTAVO',
 				backDescription: 'An original crown from the reign of Charles II .',
 				bottomContent: 'An original crown from the reign of Charles II .',
-				price: '$1,400',
+				price: '$3,500',
 				ebay: '',
 			},
 			{
@@ -930,7 +930,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1687 King James II Crown',
 				description:
-					'James II and VII was King of England and Ireland as James II and King of Scotland as James VII from the death of his elder brother, Charles II, on 6 February 1685. He was deposed in the Glorious Revolution of 1688. He was the last Catholic monarch of England, Scotland, and Ireland.',
+					'James II Great Britain Crown England Silver Coin. Struck for King James II at the Tower Mint. James had a short reign and abdicated during the Glorious Revolution which established William & Mary as joint monarchs. He was the last English Catholic monarch.',
 				frontImg: '1687f.jpg',
 				frontTitle: 'IACOBVS II DEI GRATIA',
 				frontDescription: 'The second bust covered a 1687 Tertio edge.',
@@ -938,7 +938,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backTitle: 'Cruciform',
 				backDescription: 'Qvarto edge Crowned Cruciform shields.',
 				bottomContent: 'Qvarto edge, Crowned Cruciform shields.',
-				price: '$1,200',
+				price: '$3,800',
 				ebay: '',
 			},
 			{
@@ -953,13 +953,13 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1696 King William III Crown',
 				description:
-					'William III, also widely known as William of Orange, was the sovereign Prince of Orange from birth, Stadtholder of Holland, Zeeland, Utrecht, Guelders, and Overijssel in the Dutch Republic from the 1670s, and King of England, Ireland, and Scotland from 1689 until his death in 1702.',
+					'A collectable silver Crown of king William the Third of the first bust issue series dated 1696, with the regnal year edge of OCTAVO.',
 				frontImg: '1693f.jpg',
 				frontTitle: 'William III',
 				frontDescription:
 					'1696 Great Britain William III Silver Crown 1st Bust',
 				backImg: '1696b.jpg',
-				backTitle: 'Reverse',
+				backTitle: 'English silver Crown',
 				backDescription: 'First harp in left shield',
 				bottomContent: 'First harp in left shield',
 				price: '$1,400',
@@ -977,7 +977,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1707 Queen Anne Crown',
 				description:
-					'Anne was Queen of Great Britain and Ireland following the ratification of the Acts of Union on 1 May 1707, which merged the kingdoms of Scotland and England. Before this, she was Queen of England, Scotland, and Ireland from 8 March 1702. Anne was born during the reign of her uncle King Charles II.',
+					"A rare 1707 Queen Anne silver crown; Struck in the year which saw the union of England and Scotland; A coin that has historical significance, which merged the kingdoms of Scotland and England.  Draped 'Edinburgh' bust of Queen Anne with rare 'E' mint mark",
 				frontImg: '1707f.jpg',
 				frontTitle: 'ANNA 1707',
 				frontDescription: 'ANNA DEI GRATIA',
@@ -985,7 +985,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backTitle: 'Anne',
 				backDescription: 'Crowned shields cruciform six strings to Irish harp.',
 				bottomContent: 'Crowned shields cruciform, six strings to Irish harp.',
-				price: '$800',
+				price: '$1,800',
 				ebay: '',
 			},
 			{
@@ -1000,7 +1000,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1819 King George III Crown',
 				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+					'A rare, original George III crown, Both the obverse and reverse are by Benedetto Pistrucci. One of the first coins to feature the iconic St George and the dragon design.',
 				frontImg: '1819f.jpg',
 				frontTitle: 'George III crown',
 				frontDescription: 'Shame on he who thinks evil of it.',
@@ -1025,16 +1025,16 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1820 King George III Crown',
 				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+					'George III (1760-1820), silver Crown, 1820 LX, Mintage of 448,000',
 				frontImg: '1820f.jpg',
 				frontTitle: 'King George III',
 				frontDescription:
 					'Shows a laureate head portrait of George II by Benedetto Pistrucci.',
 				backImg: '1820b.jpg',
-				backTitle: 'Saint George',
+				backTitle: 'LX Edge Year',
 				backDescription: 'Shame on him who thinks evil of it.',
 				bottomContent: 'GEORGE',
-				price: '$200',
+				price: '$600',
 				ebay: '',
 			},
 			{
@@ -1049,7 +1049,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1822 King George IV Crown',
 				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+					'The inscription reads Georgius IIII. George IV was the last British King to be shown wearing the Roman Style Laurel Wreath.',
 				frontImg: '1822f.jpg',
 				frontTitle: 'SECUNDO',
 				frontDescription: 'Head of king George IV facing left.',
@@ -1072,7 +1072,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1844 Queen Victoria Crown',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					'Victoria 1844 Crown, young head, cinquefoil stops on edge. The legend on the edge translates as An ornament and a safeguard in the eighth year of her reign.',
 				frontImg: '1844f.jpg',
 				frontTitle: 'Victoria Young Head',
 				frontDescription: 'VICTORIA DEI GRATIA',
@@ -1095,9 +1095,9 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1847 The Gothic Crown Crown',
 				description:
-					'Victoria (Alexandrina Victoria; 24 May 1819 22 January 1901) was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era. It was a period of industrial, political, scientific, and military change within the United Kingdom, and was marked by a great expansion of the British Empire. In 1876, the British Parliament voted to grant her the additional title of Empress of India.',
+					'Just 8,000 Gothic crowns were used in 1847 and it remains one of the most beautiful and rarest coins in the world.',
 				frontImg: '1847f.jpg',
-				frontTitle: 'Victoria',
+				frontTitle: 'Gothic Portrait',
 				frontDescription:
 					'A sought after 1847 silver Crown of Queen Victoria. This issue is known as the Gothic Crown because its style was inspired by medieval revivalism a popular art style of that looked to the middle ages for inspiration. The ornate obverse portrait shows Victoria wearing an ornate dress and crown a plait looping around her ear.',
 				backImg: '1847b.jpg',
@@ -1106,7 +1106,7 @@ export class InMemoryDataService implements InMemoryDbService {
 					'The reverse though the crowned cruciform shields motif is the work of Scottish artist William Wyon.',
 				bottomContent:
 					'Just 8,000 Gothic crowns were used in 1847 and it remains one of the most beautiful and rarest coins in the world.',
-				price: '$7,200',
+				price: '$35,000',
 				ebay: '',
 			},
 			{
@@ -1121,7 +1121,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1892 Queen Victoria Crown',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					'The Queen Victoria Jubilee Head Silver Crown.  designed by medallist Sir Joseph Edgar Boehm to celebrate 50 years of Victoria\u001as reign. Benedetto Pistrucci\u001as St George and the Dragon masterpiece is on the reverse.',
 				frontImg: '1892f.jpg',
 				frontTitle: 'Victoria Jubilee Head',
 				frontDescription:
@@ -1145,7 +1145,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1896 Queen Victoria Crown',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					"The 1896 LIX crown is the rarest crown in the Victoria veiled head series.  Queen Victoria's 60th (LX) regnal year started at 20 June 1896.",
 				frontImg: '1896f.jpg',
 				frontTitle: 'Victoria',
 				frontDescription: 'Victoria Old (Veiled) head.',
@@ -1153,7 +1153,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backTitle: 'Victoria Crown LX',
 				backDescription: 'Featuring the traditional George and Dragon',
 				bottomContent: 'Featuring the traditional George and Dragon',
-				price: '$200',
+				price: '$800',
 				ebay: '',
 			},
 			{
@@ -1168,7 +1168,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1902 King Edward VII Crown',
 				description:
-					'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
+					'An original Edward VII crown; Dated 1902 \u001a the only year of issue; Offered for sale in a minimum of Fine condition.',
 				frontImg: '1902f.jpg',
 				frontTitle: 'King Edward',
 				frontDescription: 'Seventh facing left',
@@ -1191,7 +1191,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1928 King George V Crown',
 				description:
-					'George V was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936. George was born during the reign of his paternal grandmother, Queen Victoria, as the second son of the Prince and Princess of Wales.',
+					'This is the 1928 Silver Crown of George V. The Royal Mint struck the first of a new series of crowns known as the Christmas crowns as they displayed the Christmas wreath on the reverse. This coin was made of silver, has a weight of 28.28g and a diameter of 38.60mm.',
 				frontImg: '1928f.jpg',
 				frontTitle: 'George V',
 				frontDescription:
@@ -1216,12 +1216,12 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1935 King George V Crown',
 				description:
-					'George V was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936. George was born during the reign of his paternal grandmother, Queen Victoria, as the second son of the Prince and Princess of Wales.',
+					'This is the 1935 Silver Crown of George V.  The Royal Mint in 1935 to mark King George V\u001as Silver Jubilee. Struck in Solid Silver. This coin was made of silver, has a weight of 28.28g and a diameter of 38.60mm.',
 				frontImg: '1935f.jpg',
 				frontTitle: 'Jubilee Crown',
 				frontDescription: 'GEORGE',
 				backImg: '1935b.jpg',
-				backTitle: 'Mackennal',
+				backTitle: 'Rocking Horse',
 				backDescription: 'Stylised St George and dragon.',
 				bottomContent: 'GEORGE',
 				price: '$300',
@@ -1239,7 +1239,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1937 King George VI Crown',
 				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+					'1937 George VI Silver Crown, Struck for the Coronation year of King George VI in 1937',
 				frontImg: '1937f.jpg',
 				frontTitle: 'GEORGE VI',
 				frontDescription: 'The Coronation year of King George VI in 1937',
@@ -1264,7 +1264,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1953 Queen Elizabeth II Crown',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'1953 Elizabeth II 5 Shilling, Commemorative Crown, Features a portrait of The Queen mounted on her horse Winston',
 				frontImg: '1953f.jpg',
 				frontTitle: 'Queen Elizabeth',
 				frontDescription: '1953 Great Britain 5 Shillings',
@@ -1287,7 +1287,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1960 Queen Elizabeth II Crown',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'1960 Elizabeth II Crown - Young Head Variant British Exhibition in New York',
 				frontImg: '1960f.jpg',
 				frontTitle: 'Elizabeth II',
 				frontDescription:
@@ -1311,7 +1311,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1965 Queen Elizabeth II Crown',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'1965 Queen Elizabeth II Churchill Crown.  The first time a non-monarch had appeared on a coin of the United Kingdom',
 				frontImg: '1965f.jpg',
 				frontTitle: 'Elizabeth II',
 				frontDescription:
@@ -1335,7 +1335,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '1977 Queen Elizabeth II Crown',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'Silver Jubilee Crowns were minted in 1977 to celebrate the Silver Jubilee of Her Majesty, Queen Elizabeth II.',
 				frontImg: '1977f.jpg',
 				frontTitle: 'horseback',
 				frontDescription: 'THE JUBILEE EQUESTRIAN PORTRAIT',
@@ -1358,7 +1358,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '2023 King Charles III Crown',
 				description:
-					'Charles III is King of the United Kingdom and the 14 other Commonwealth realms. Charles was born in Buckingham Palace during the reign of his maternal grandfather, King George VI, and became heir apparent when his mother, Queen Elizabeth II, acceded to the throne in 1952.',
+					'2023 King Charles III Coronation Two Ounce Silver Proof Coin.  limited edition of just 1,000 pieces, this beautiful two-ounce silver proof coin was produced by The Royal Mint to celebrate the coronation of King Charles III.',
 				frontImg: '2023f.jpg',
 				frontTitle: 'Charles III',
 				frontDescription:
@@ -1382,7 +1382,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Crown',
 				title: '2024 King Charles III Crown',
 				description:
-					'Charles III is King of the United Kingdom and the 14 other Commonwealth realms. Charles was born in Buckingham Palace during the reign of his maternal grandfather, King George VI, and became heir apparent when his mother, Queen Elizabeth II, acceded to the throne in 1952.',
+					'2024 UK 2 Pound King Charles III Silver Britannia 1 oz .999 BU',
 				frontImg: '2024f.jpg',
 				frontTitle: 'Charles III',
 				frontDescription: 'Design from Martin Jennings',
@@ -1429,7 +1429,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1696 King William III  Half Crowns',
 				description:
-					'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
+					'The Latin legends translate as on the obverse "William III by the Grace of God," and abbreviated on the reverse as King of Great Britain, France and Ireland. and additionally on the edge An ornament and a safeguard, in the eighth year of the reign.',
 				frontImg: '1696f.jpg',
 				frontTitle: 'GVLIELMVS· III·DEI·GRA',
 				frontDescription:
@@ -1454,7 +1454,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1714 Queen Anne  Half Crowns',
 				description:
-					'Anne was Queen of Great Britain and Ireland following the ratification of the Acts of Union on 1 May 1707, which merged the kingdoms of Scotland and England. Before this, she was Queen of England, Scotland, and Ireland from 8 March 1702. Anne was born during the reign of her uncle King Charles II.',
+					'1714 Queen Anne Early Milled Silver Half Crown, Roses and Plumes',
 				frontImg: '1714f.jpg',
 				frontTitle: 'ANNA·DEI· GRATIA',
 				frontDescription: 'Anne by the Grace of God',
@@ -1478,7 +1478,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1745 King George II Half Crowns',
 				description:
-					'George II (George Augustus; German: Georg August; 30 October / 9 November 1683[a] 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.',
+					'Great Britain under KING GEORGE II: 1745 - LIMA. 1745 Silver Half-Crown..  War Of Jenkins Ear Cost Spain A Million Pieces Of Eight.',
 				frontImg: '1745f.jpg',
 				frontTitle: 'GEORGIUS·II· DEI·GRATIA',
 				frontDescription: 'George the Second by the Grace of God',
@@ -1525,7 +1525,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1819 King George III Half Crowns',
 				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+					"1819 George III Half-crown Dated with the year of Queen Victoria's birth; An original George III half-crown; A circulating coin of the era, used in everyday transactions",
 				frontImg: '1819f.jpg',
 				frontTitle: 'George III',
 				frontDescription: 'GEORGIUS III DEI GRATIA',
@@ -1605,7 +1605,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription:
 					'King of the Britains Defender of the FaithGod and my right',
 				bottomContent: 'King William IIII',
-				price: '$300',
+				price: '$200',
 				ebay: '',
 			},
 			{
