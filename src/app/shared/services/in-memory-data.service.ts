@@ -1548,7 +1548,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1820 King George IV Half Crowns',
 				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+					'1820 King George IV Half Crowns This 1820 half crown was issued during the reign of King George III. The coin features the small portrait of George on the obverse, with the crowned shield on the reverse.',
 				frontImg: '1820f.jpg',
 				frontTitle: 'GEORGIUS',
 				frontDescription: 'George the Fourth by the Grace of God',
@@ -1572,7 +1572,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1826 King George IV Half Crowns',
 				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+					'1826 George IV Milled Silver Half Crown, A/EF. Light toning over underlying lustre',
 				frontImg: '1826f.jpg',
 				frontTitle: 'GEORGIUS',
 				frontDescription: 'George the Fourth by the Grace of God',
@@ -1596,7 +1596,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1834 King William IIII  Half Crowns',
 				description:
-					"William IV (William Henry; 21 August 1765 \u001a 20 June 1837) was King of the United Kingdom of Great Britain and Ireland and King of Hanover from 26 June 1830 until his death in 1837. The third son of George III, William succeeded his elder brother George IV, becoming the last king and penultimate monarch of Britain's House of Hanover.",
+					'WILLIAM IV, 1834 HALF-CROWN .  The half crowns were the highest denomination issued for William IV',
 				frontImg: '1834f.jpg',
 				frontTitle: 'GEORGIUS',
 				frontDescription: 'George the Fourth by the Grace of God',
@@ -1620,7 +1620,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1883 Queen Victoria Half Crowns',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					'1883 Queen Victoria Half Crown (2/6d) Silver (92.5%) Coin.',
 				frontImg: '1883f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription:
@@ -1630,7 +1630,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription:
 					'Crowned quartered shield of arms within olive wreath legend around national flower emblems below.',
 				bottomContent: 'Queen Victoria',
-				price: '$250',
+				price: '$300',
 				ebay: '',
 			},
 			{
@@ -1644,8 +1644,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1887,
 				tagline: 'Half Crowns',
 				title: '1887 Queen Victoria Half Crowns',
-				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description: '1887 Victoria, Halfcrown (Jubilee Head) 1887-1892 VG',
 				frontImg: '1887f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription:
@@ -1655,7 +1654,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription:
 					'Crowned quartered shield of arms within garter and collar legend around divided date below.',
 				bottomContent: 'Queen Victoria',
-				price: '$250',
+				price: '$150',
 				ebay: '',
 			},
 			{
@@ -1670,7 +1669,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1893 Queen Victoria Half Crowns',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					'1893 Victoria Half Crown, The 1893 United Kingdom halfcrown reverse shows a crowned shield inside a floral design.',
 				frontImg: '1893f.jpg',
 				frontTitle: 'Queen Victoria',
 				frontDescription: 'Victoria Old Veiled Head Crown',
@@ -1678,7 +1677,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backTitle: 'Victorian crown',
 				backDescription: 'Silver Half Crown',
 				bottomContent: 'Queen Victoria',
-				price: '$250',
+				price: '$75',
 				ebay: '',
 			},
 			{
@@ -1693,7 +1692,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1902 King Edward VII Half Crowns',
 				description:
-					'Edward VII (Albert Edward; 9 November 1841 6 May 1910) was King of the United Kingdom and the British Dominions, and Emperor of India, from 22 January 1901 until his death in 1910.',
+					'1902 King Edward VII Half Crowns Silver Half Crown coins of Edward VII, with the portrait of the King on the obverse and crowned, quartered shield of arms on the reverse.',
 				frontImg: '1902f.jpg',
 				frontTitle: 'Edward VII',
 				frontDescription: 'Uncrowned portrait of King Edward VII',
@@ -1717,7 +1716,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1911 King George V Half Crowns',
 				description:
-					'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
+					'This 1911 Half Crown from Great Britain features King George V and is made of 92.5% silver.',
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
@@ -1742,7 +1741,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1935 King George V Half Crowns',
 				description:
-					'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
+					'1935 Year UK Half Crown Coins ; 1935 United Kingdom 1 Crown - .500 Silver - 38.6mm',
 				frontImg: '1935f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription:
@@ -1767,7 +1766,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1940 King George VI Half Crowns',
 				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+					'1940 Great Britain 1/2 Crown Silver Coin George VI Half Crown.',
 				frontImg: '1940f.jpg',
 				frontTitle: 'GEORGIVS VI',
 				frontDescription:
@@ -1790,9 +1789,9 @@ export class InMemoryDataService implements InMemoryDbService {
 				monarchtype: 'Elizabeth2',
 				year: 1970,
 				tagline: 'Shilling',
-				title: '1970 Queen Elizabeth II  Shilling',
+				title: '1970 Queen Elizabeth II Shilling',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'1970 Great Britain One Shilling.  The coin is made from Cupro-Nickel, weighs approx 11.5 grammes and is 28.5mm in diameter, the edge is milled.',
 				frontImg: '1970f.jpg',
 				frontTitle: 'Queen ELIZABETH II',
 				frontDescription: 'Young laureate bust of Queen Elizabeth II',
@@ -1814,9 +1813,9 @@ export class InMemoryDataService implements InMemoryDbService {
 				monarchtype: 'Elizabeth2',
 				year: 1964,
 				tagline: 'Shilling',
-				title: '1964 Queen Elizabeth II  Shilling',
+				title: '1964 Queen Elizabeth II Shilling',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'The 1964 Queen Elizabeth II Scottish Shilling is also available in an English version and was worth twelve pennies in the pre-decimal coin system.',
 				frontImg: '1964f.jpg',
 				frontTitle: 'Queen ELIZABETH II',
 				frontDescription: 'Young laureate bust of Queen Elizabeth II',
@@ -1838,9 +1837,9 @@ export class InMemoryDataService implements InMemoryDbService {
 				monarchtype: 'Elizabeth2',
 				year: 1956,
 				tagline: 'Shilling',
-				title: '1956 Queen Elizabeth II  Shilling',
+				title: '1956 Queen Elizabeth II Shilling',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'The 1956 Queen Elizabeth II English Shilling is also available in an Scottish version and was worth twelve pennies in the pre-decimal coin system.',
 				frontImg: '1956f.jpg',
 				frontTitle: 'Queen ELIZABETH II',
 				frontDescription: 'Young laureate bust of Queen Elizabeth II',
@@ -1862,9 +1861,9 @@ export class InMemoryDataService implements InMemoryDbService {
 				monarchtype: 'Elizabeth2',
 				year: 1955,
 				tagline: 'Shilling',
-				title: '1955 Queen Elizabeth II  Shilling',
+				title: '1955 Queen Elizabeth II Shilling',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'1955 Scottish Shilling Coin Great Britain From Queen Elizabeth 2nd',
 				frontImg: '1955f.jpg',
 				frontTitle: 'Queen ELIZABETH II',
 				frontDescription: 'Young laureate bust of Queen Elizabeth II',
@@ -1888,7 +1887,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1950 King George VI Shilling',
 				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+					'Great Britain 1950 - 1 Shilling Copper-Nickel Coin - King George VI - English ... 1950 ONE SHILLING',
 				frontImg: '1950f.jpg',
 				frontTitle: 'George VI',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -1911,7 +1910,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1949 King George VI Shilling',
 				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+					'1949 GREAT BRITAIN KING GEORGE VI ONE SHILLING COPPER-NICKEL COIN',
 				frontImg: '1949f.jpg',
 				frontTitle: 'George VI',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -1933,8 +1932,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1945,
 				tagline: 'Shilling',
 				title: '1945 King George VI Shilling',
-				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+				description: '1945 GREAT BRITAIN KING GEORGE VI ONE SHILLING',
 				frontImg: '1945f.jpg',
 				frontTitle: 'George VI',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -1956,8 +1954,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1943,
 				tagline: 'Shilling',
 				title: '1943 King George VI Shilling',
-				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+				description: '1943 GREAT BRITAIN KING GEORGE VI ONE SHILLING',
 				frontImg: '1943f.jpg',
 				frontTitle: 'George VI',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -1979,8 +1976,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1938,
 				tagline: 'Shilling',
 				title: '1938 King George VI Shilling',
-				description:
-					'George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death on 6 February 1952.',
+				description: '1938 GREAT BRITAIN KING GEORGE VI ONE SHILLING',
 				frontImg: '1938f.jpg',
 				frontTitle: 'George VI',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -2003,7 +1999,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1935 King George V Shilling',
 				description:
-					'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
+					'1935 Great Britain British England King George V SILVER shilling coin.',
 				frontImg: '1935f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -2026,7 +2022,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1914 King George V Shilling',
 				description:
-					'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
+					'1914 Great Britain British England King George V SILVER shilling coin.',
 				frontImg: '1914f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -2049,7 +2045,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1911 King George V Shilling',
 				description:
-					'George V (George Frederick Ernest Albert; 3 June 1865 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.',
+					'1911 Great Britain British England King George V SILVER shilling coin.',
 				frontImg: '1911f.jpg',
 				frontTitle: 'GEORGIVS V',
 				frontDescription: 'Uncrowned portrait of King George VI left',
@@ -2072,7 +2068,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1910 King Edward VII Shilling',
 				description:
-					'The second child and eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward, nicknamed "Bertie", was related to royalty throughout Europe.',
+					'1910 Great Britain 3 Three pence King Edwards VII (.925) Silver Coin.',
 				frontImg: '1910f.jpg',
 				frontTitle: 'Edward VII',
 				frontDescription: 'Uncrowned portrait of King Edward VII',
@@ -2094,8 +2090,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1895,
 				tagline: 'Shilling',
 				title: '1895 Queen Victoria Shilling',
-				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description: 'Great Britain 1895 QUEEN VICTORIA Silver Shilling',
 				frontImg: '1895f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription: 'Victoria Old Veiled Head Crown',
@@ -2118,8 +2113,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1889,
 				tagline: 'Shilling',
 				title: '1889 Queen Victoria Shilling',
-				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description: '1889 Queen Victoria Jubilee Head Silver Shilling.',
 				frontImg: '1889f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription:
@@ -2143,8 +2137,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1887,
 				tagline: 'Shilling',
 				title: '1887 Queen Victoria Shilling',
-				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description: '1887 GREAT BRITAIN Queen Victoria Silver Shilling Coin',
 				frontImg: '1887f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription:
@@ -2169,7 +2162,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1881 Queen Victoria Shilling',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					'Great Britain 1881 SILVER Shilling VG+ Nice Young Queen Victoria OLD UK Coin.',
 				frontImg: '1881f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription:
@@ -2192,8 +2185,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1875,
 				tagline: 'Shilling',
 				title: '1875 Queen Victoria Shilling',
-				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				description: '1875 1 Shilling - Victoria Silver 925)',
 				frontImg: '1875f.jpg',
 				frontTitle: 'VICTORIA DEI GRATIA',
 				frontDescription:
@@ -2241,8 +2233,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1826,
 				tagline: 'Shilling',
 				title: '1826 King George IV Shilling',
-				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+				description: '1826 Silver George IV Shilling Bare Head',
 				frontImg: '1826f2.jpg',
 				frontTitle: 'George IV',
 				frontDescription: 'George the Fourth by the Grace of God',
@@ -2265,8 +2256,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1826,
 				tagline: 'Shilling',
 				title: '1826 King George IV Shilling',
-				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+				description: '1826 Silver George IV Shilling Bare Head',
 				frontImg: '1826f.jpg',
 				frontTitle: 'George IV',
 				frontDescription: 'George the Fourth by the Grace of God',
@@ -2289,8 +2279,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1823,
 				tagline: 'Shilling',
 				title: '1823 King George IIII Shilling',
-				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+				description: 'George IV 1823 second issue laureate head shilling.',
 				frontImg: '1823f.jpg',
 				frontTitle: 'George IIII',
 				frontDescription: 'New laureate portrait of King George III',
@@ -2313,8 +2302,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1823,
 				tagline: 'Shilling',
 				title: '1823 King George IIII Shilling',
-				description:
-					'George IV was the eldest child of King George III and Queen Charlotte. He led an extravagant lifestyle that contributed to the fashions of the Regency era. He was a patron of new forms of leisure, style and taste.',
+				description: 'George IV 1823 second issue laureate head shilling.',
 				frontImg: '1823f.jpg',
 				frontTitle: 'George IIII',
 				frontDescription: 'New laureate portrait of King George III',
@@ -2337,8 +2325,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1819,
 				tagline: 'Shilling',
 				title: '1819 King George III Shilling',
-				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+				description: 'Rare 1819 over 3 Shilling George III Coin UK Silver',
 				frontImg: '1819f2.jpg',
 				frontTitle: 'George III',
 				frontDescription:
@@ -2362,8 +2349,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1819,
 				tagline: 'Shilling',
 				title: '1819 King George III Shilling',
-				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+				description: 'Rare 1819 over 3 Shilling George III Coin UK Silver',
 				frontImg: '1819f.jpg',
 				frontTitle: 'George III',
 				frontDescription:
@@ -2388,7 +2374,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1817 King George III Shilling',
 				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+					'1817 King George III Silver Shilling Coin  House of Hanover (1714-1901)',
 				frontImg: '1817f.jpg',
 				frontTitle: 'George III',
 				frontDescription:
@@ -2413,7 +2399,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1817 King George III Shilling',
 				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+					'1817 King George III Silver Shilling Coin  House of Hanover (1714-1901)',
 				frontImg: '1817f.jpg',
 				frontTitle: 'George III',
 				frontDescription:
@@ -2438,7 +2424,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1787 King George III Shilling',
 				description:
-					'George III was King of Great Britain and Ireland from 25 October 1760 until his death in 1820. The Acts of Union 1800 unified Great Britain and Ireland into the United Kingdom of Great Britain and Ireland, with George as its king.',
+					'1787 George III Shilling Great Britain Silver Coin The standard weight of these coins was 6/31 troy ounce (92.9 grains).',
 				frontImg: '1787f.jpg',
 				frontTitle: 'George III',
 				frontDescription:
@@ -2463,7 +2449,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1745 King George II Shilling',
 				description:
-					'George II (George Augustus; German: Georg August; 30 October / 9 November 1683[a] 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.',
+					'Issued under the rule of King George II , this shilling is marked LIMA below the head. This mark denotes this coin as being struck from Spanish-American silver that was seized by the British at Lima.',
 				frontImg: '1745f2.jpg',
 				frontTitle: 'Lima',
 				frontDescription: 'George the Second by the Grace of God',
@@ -2487,7 +2473,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1745 King George II Shilling',
 				description:
-					'George II (George Augustus; German: Georg August; 30 October / 9 November 1683[a] 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death in 1760.',
+					'Issued under the rule of King George II , this shilling is marked LIMA below the head. This mark denotes this coin as being struck from Spanish-American silver that was seized by the British at Lima.',
 				frontImg: '1745f.jpg',
 				frontTitle: 'Lima',
 				frontDescription: 'George the Second by the Grace of God',
@@ -2511,7 +2497,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1723 King George I Shilling',
 				description:
-					'George I (George Louis; German: Georg Ludwig; 28 May 1660 \u001a 11 June 1727)[a] was King of Great Britain and Ireland from 1 August 1714 and ruler of the Electorate of Hanover within the Holy Roman Empire from 23 January 1698 until his death in 1727. He was the first British monarch of the House of Hanover.',
+					'1723 George I First Bust Shilling King George I Second monarch of Great Brittan. Shilling 1723 SSC in angles.',
 				frontImg: '1723f.jpg',
 				frontTitle: 'George I',
 				frontDescription: 'Second laureate and draped bust of King George I',
@@ -2535,7 +2521,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1711 Queen Anne Shilling',
 				description:
-					'Anne was Queen of Great Britain and Ireland following the ratification of the Acts of Union on 1 May 1707, which merged the kingdoms of Scotland and England. Before this, she was Queen of England, Scotland, and Ireland from 8 March 1702. Anne was born during the reign of her uncle King Charles II.',
+					'1711 Queen Anne Early Milled Silver Shilling, Fourth Bust',
 				frontImg: '1711f.jpg',
 				frontTitle: 'Third draped bust',
 				frontDescription: 'Anne by the Grace of God',
@@ -2544,7 +2530,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				backDescription:
 					'Crowned cruciform shields with central Garter star divided date above legend around.',
 				bottomContent: 'Queen Anne',
-				price: '$500',
+				price: '$450',
 				ebay: '',
 			},
 			{
@@ -2559,7 +2545,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Shilling',
 				title: '1708 Queen Anne Shilling',
 				description:
-					'Anne was Queen of Great Britain and Ireland following the ratification of the Acts of Union on 1 May 1707, which merged the kingdoms of Scotland and England. Before this, she was Queen of England, Scotland, and Ireland from 8 March 1702. Anne was born during the reign of her uncle King Charles II.',
+					'1708 Great Britain Queen Anne Silver Shilling, Struck in highly pure 92.5% Sterling silver by the London Mint.',
 				frontImg: '1708f.jpg',
 				frontTitle: 'Grace of God',
 				frontDescription: 'Second draped bust of Queen Anne left',
@@ -2654,8 +2640,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				year: 1663,
 				tagline: 'Shilling',
 				title: '1663 King Charles II Shilling',
-				description:
-					'Charles III is King of the United Kingdom and the 14 other Commonwealth realms. Charles was born in Buckingham Palace during the reign of his maternal grandfather, King George VI, and became heir apparent when his mother, Queen Elizabeth II, acceded to the throne in 1952.',
+				description: 'Charles II silver Shilling dated 1663, First Bust.',
 				frontImg: '1663f.jpg',
 				frontTitle: 'King Charles II',
 				frontDescription:
@@ -2680,7 +2665,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Half Crowns',
 				title: '1960 Queen Elizabeth II  Half Crowns',
 				description:
-					'Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states over the course of her lifetime and remained the monarch of 15 realms by the time of her death.',
+					'In 1960 the Royal Mint issued a Special Crown for the British Exhibition in New York. It is without doubt, the most difficult of the Queen Elizabeth II Crowns to obtain.',
 				frontImg: '1960f.jpg',
 				frontTitle: 'Queen ELIZABETH II',
 				frontDescription: 'Queen ELIZABETH II',
@@ -2703,7 +2688,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'Florin',
 				title: '1849 Queen Victoria Florin',
 				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+					'1849 Victoria Godless Florin, This infamous coin caused controversy for omitting a reference to God (Del Gratia) from Queen Victorias titles',
 				frontImg: '1877f.jpg',
 				frontTitle: 'Godless',
 				frontDescription:
@@ -2724,13 +2709,12 @@ export class InMemoryDataService implements InMemoryDbService {
 				typeid: 3,
 				name: 'Queen Victoria',
 				monarchtype: 'Victoria',
-				year: 1849,
+				year: 1887,
 				tagline: 'Florin',
-				title: '1849 Queen Victoria Florin',
-				description:
-					'Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, is known as the Victorian era.',
+				title: '1887 Queen Victoria Gothic Florin',
+				description: '1887 Queen Victoria Silver Gothic Florin.',
 				frontImg: '1878f.jpg',
-				frontTitle: 'Godless',
+				frontTitle: 'mdccclxxxvii',
 				frontDescription:
 					'Crowned bust of Queen Victoria left legend and date around.',
 				backImg: '1878b.jpg',
@@ -3339,7 +3323,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				type: 'sixpence',
 				typeid: 5,
 				name: 'King William IV',
-				monarchtype: 'William3',
+				monarchtype: 'William4',
 				year: 1834,
 				tagline: 'Sixpence',
 				title: '1834 King William IV Sixpence',
@@ -4935,12 +4919,12 @@ export class InMemoryDataService implements InMemoryDbService {
 				type: 'halfpenny',
 				typeid: 8,
 				name: 'King William III',
-				monarchtype: 'William3',
+				monarchtype: 'William4',
 				year: 1837,
 				tagline: 'halfpenny',
-				title: '1837 King William III  halfpenny',
+				title: '1837 King William IIII halfpenny',
 				description:
-					'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
+					'King William IV, also known as the Sailor King, only ruled from 1830-1837',
 				frontImg: '1837f.jpg',
 				frontTitle: 'GULIELMUS',
 				frontDescription:
@@ -5188,7 +5172,7 @@ export class InMemoryDataService implements InMemoryDbService {
 				tagline: 'farthing',
 				title: '1837 King William III  farthing',
 				description:
-					'William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702),[b] also widely known as William of Orange',
+					'King William IV, also known as the Sailor King, only ruled from 1830-1837',
 				frontImg: '1837f.jpg',
 				frontTitle: 'GULIELMUS IIII',
 				frontDescription:
