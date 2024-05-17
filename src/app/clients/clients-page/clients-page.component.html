@@ -11,6 +11,7 @@
 		}
 
 		<div class="col-2-3">
+
 			@for (company of companies$ | async; track company; let i = $index) {
 				<div>
 					<app-companies-block [company]="company"></app-companies-block>

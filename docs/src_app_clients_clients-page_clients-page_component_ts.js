@@ -101,7 +101,7 @@ CompaniesBlockComponent = (0,tslib__WEBPACK_IMPORTED_MODULE_2__.__decorate)([(0,
   \*****************************************************************************/
 /***/ ((module) => {
 
-module.exports = "<section id=\"clients\" class=\"scrollto clearfix\">\n\t<div class=\"row clearfix\">\n\t\t@if (clients$ | async; as client) {\n\t\t\t<div class=\"col-3\">\n\t\t\t\t<div class=\"section-heading\">\n\t\t\t\t\t<h3>{{ client.tagline }}</h3>\n\t\t\t\t\t<h2 class=\"section-title\">{{ client.title }}</h2>\n\t\t\t\t\t<p class=\"section-subtitle\">{{ client.description }}</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t}\n\n\t\t<div class=\"col-2-3\">\n\t\t\t@for (company of companies$ | async; track company; let i = $index) {\n\t\t\t\t<div>\n\t\t\t\t\t<app-companies-block [company]=\"company\"></app-companies-block>\n\t\t\t\t</div>\n\t\t\t}\n\t\t</div>\n\t</div>\n</section>\n";
+module.exports = "<section id=\"clients\" class=\"scrollto clearfix\">\n\t<div class=\"row clearfix\">\n\t\t@if (clients$ | async; as client) {\n\t\t\t<div class=\"col-3\">\n\t\t\t\t<div class=\"section-heading\">\n\t\t\t\t\t<h3>{{ client.tagline }}</h3>\n\t\t\t\t\t<h2 class=\"section-title\">{{ client.title }}</h2>\n\t\t\t\t\t<p class=\"section-subtitle\">{{ client.description }}</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t}\n\n\t\t<div class=\"col-2-3\">\n\n\t\t\t@for (company of companies$ | async; track company; let i = $index) {\n\t\t\t\t<div>\n\t\t\t\t\t<app-companies-block [company]=\"company\"></app-companies-block>\n\t\t\t\t</div>\n\t\t\t}\n\t\t</div>\n\t</div>\n</section>\n";
 
 /***/ }),
 
