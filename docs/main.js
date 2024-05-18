@@ -471,7 +471,7 @@ let InMemoryDataService = class InMemoryDataService {
       name: 'intro',
       tagline: 'About Us',
       title: 'Buying and Trading Coins',
-      description: 'We collect various forms of currency from the United States, United Kingdom to world coins.  The coins and currency collection is a great opportunity for collectors and investors alike.'
+      description: 'George Gilliam has been collecting rare coins his whole life, and he has passed his passion down to his children. Together, they run Gilliam World Coins. We buy and sell rare coins, foreign and U.S. paper currency. We collect various forms of currency from the United States, United Kingdom to world coins.  The coins and currency collection is a great opportunity for collectors and investors alike.'
     }, {
       id: 2,
       name: 'Help Center',
@@ -505,8 +505,8 @@ let InMemoryDataService = class InMemoryDataService {
     }, {
       id: 7,
       name: 'header',
-      tagline: 'World Coin',
-      title: 'Welcome to coin collecting, Coin collecting can be a masterclass in history, geography, and even economics.',
+      tagline: 'Gilliam World Coin',
+      title: 'Welcome to world of coin collecting, Coin collecting can be a masterclass in history, geography, and even economics. Gilliam world coins is a family-owned coin shop. We specialize in coins, currency. We work with all types of coins including UK Coins, US Coins, foreign coins, ancient coins, antique coins, mint and proof sets.',
       buttontext: 'Get an Estimate',
       buttonlink: '/home',
       image: 'homepage.png'
