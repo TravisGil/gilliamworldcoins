@@ -1,26 +1,27 @@
 @if (header$ | async; as header) {
-	<div class="row clearfix">
-
-		<header
-			id="banner"
-			class="scrollto clearfix shift-right"
-			data-enllax-ratio=".5"
-			[style.background]="
-				'url(../assets/images/banner-images/' +
-				header.image +
-				' ) no-repeat right top;'
-			">
-			<div id="banner-content" class="row clearfix pull-left">
-				<div class="col-38">
-					<div class="section-heading">
-						<h1>{{ header.tagline }}</h1>
-						<h2>{{ header.title }}</h2>
+	<section id="about" class="introduction scrollto">
+		<div class="row clearfix">
+			<header
+				id="banner"
+				class="scrollto clearfix shift-right"
+				data-enllax-ratio=".5"
+				[style.background]="
+					'url(../assets/images/banner-images/' +
+					header.image +
+					' ) no-repeat right top;'
+				">
+				<div id="banner-content" class="row clearfix pull-left">
+					<div class="col-38">
+						<div class="section-heading">
+							<h1>{{ header.tagline }}</h1>
+							<h2>{{ header.title }}</h2>
+						</div>
+						<a routerLink="{{ header.buttonlink }}" class="button">{{
+							header.buttontext
+						}}</a>
 					</div>
-					<a routerLink="{{ header.buttonlink }}" class="button">{{
-						header.buttontext
-					}}</a>
 				</div>
-			</div>
-		</header>
-	</div>
+			</header>
+		</div>
+	</section>
 }
