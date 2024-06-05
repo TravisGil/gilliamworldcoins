@@ -10295,6 +10295,28 @@ export class InMemoryDataService implements InMemoryDbService {
         "bottomContent": "iceland",
         "price": 15,
         "ebay": ""
+      },
+      {
+        "id": 426,
+        "country": "United States",
+        "countryname": "unitedstates",
+        "type": "morgan",
+        "typeid": 10,
+        "name": "Morgan Dollars",
+        "monarchtype": "unitedstates",
+        "year": 1878,
+        "tagline": "Morgan Dollars",
+        "title": "1878 S Morgan Dollars",
+        "description": "1878 S Morgan Dollars",
+        "frontImg": "1878sf.jpg",
+        "frontTitle": "San Francisco",
+        "frontDescription": "The bust of Lady Liberty",
+        "backImg": "1878sb.jpg",
+        "backTitle": "Liberty",
+        "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
+        "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
+        "price": "$76",
+        "ebay": ""
       }
     ];
 
