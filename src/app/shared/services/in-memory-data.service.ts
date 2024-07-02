@@ -987,7 +987,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "OCTAVO",
         "backDescription": "An original crown from the reign of Charles II .",
         "bottomContent": "An original crown from the reign of Charles II .",
-        "price": "$3,500",
+        "price": "$800.00",
         "ebay": ""
       },
       {
@@ -1009,7 +1009,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Cruciform",
         "backDescription": "Qvarto edge Crowned Cruciform shields.",
         "bottomContent": "Qvarto edge, Crowned Cruciform shields.",
-        "price": "$7,800",
+        "price": "$5,400.00",
         "ebay": ""
       },
       {
@@ -1031,7 +1031,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "English silver Crown",
         "backDescription": "First harp in left shield",
         "bottomContent": "First harp in left shield",
-        "price": "$1,400",
+        "price": "$800.00",
         "ebay": ""
       },
       {
@@ -1053,7 +1053,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Anne",
         "backDescription": "Crowned shields cruciform six strings to Irish harp.",
         "bottomContent": "Crowned shields cruciform, six strings to Irish harp.",
-        "price": "$1,800",
+        "price": "$750.00",
         "ebay": ""
       },
       {
@@ -1075,7 +1075,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Benedetto Pistrucci",
         "backDescription": "One of the first coins to feature the iconic St George and the dragon design.",
         "bottomContent": "One of the first coins to feature the iconic St George and the dragon design.",
-        "price": "$400",
+        "price": "$400.00",
         "ebay": ""
       },
       {
@@ -1097,7 +1097,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "LX Edge Year",
         "backDescription": "Shame on him who thinks evil of it.",
         "bottomContent": "GEORGE",
-        "price": "$600",
+        "price": "$600.00",
         "ebay": ""
       },
       {
@@ -1119,7 +1119,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Saint George and the Dragon",
         "backDescription": "Reverse by the legendary Benedetto Pistrucc.",
         "bottomContent": "reverse by the legendary Benedetto Pistrucc.",
-        "price": "$400",
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -1141,7 +1141,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIARUM REGIBA FID: DEF",
         "backDescription": "Crowned arms within branches",
         "bottomContent": "Crowned arms within branches",
-        "price": "$200",
+        "price": "$200.00",
         "ebay": ""
       },
       {
@@ -1160,10 +1160,10 @@ export class InMemoryDataService implements InMemoryDbService {
         "frontTitle": "Gothic Portrait",
         "frontDescription": "A sought after 1847 silver Crown of Queen Victoria. This issue is known as the Gothic Crown because its style was inspired by medieval revivalism a popular art style of that looked to the middle ages for inspiration. The ornate obverse portrait shows Victoria wearing an ornate dress and crown a plait looping around her ear.",
         "backImg": "1847b.jpg",
-        "backTitle": "Cruciform",
+        "backTitle": "UNDECIMO",
         "backDescription": "The reverse though the crowned cruciform shields motif is the work of Scottish artist William Wyon.",
         "bottomContent": "Just 8,000 Gothic crowns were used in 1847 and it remains one of the most beautiful and rarest coins in the world.",
-        "price": "$35,000",
+        "price": "$31,500.00",
         "ebay": ""
       },
       {
@@ -1185,7 +1185,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Victoria",
         "backDescription": "Featuring the traditional George and Dragon",
         "bottomContent": "Victoria",
-        "price": "$200",
+        "price": "$200.00",
         "ebay": ""
       },
       {
@@ -1207,7 +1207,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Victoria Crown LX",
         "backDescription": "Featuring the traditional George and Dragon",
         "bottomContent": "Featuring the traditional George and Dragon",
-        "price": "$800",
+        "price": "$800.00",
         "ebay": ""
       },
       {
@@ -1229,7 +1229,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "St George",
         "backDescription": "Coronation day was set for 26th June 1902",
         "bottomContent": "EDWARD",
-        "price": "$400",
+        "price": "$400.00",
         "ebay": ""
       },
       {
@@ -1251,7 +1251,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Wreath Crown",
         "backDescription": "A large royal crown surrounded by a wreath of shamrocks with roses and thistles.",
         "bottomContent": "GEORGE",
-        "price": "$400",
+        "price": "$400.00",
         "ebay": ""
       },
       {
@@ -1273,7 +1273,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Rocking Horse",
         "backDescription": "Stylised St George and dragon.",
         "bottomContent": "GEORGE",
-        "price": "$300",
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -1295,7 +1295,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Lion and unicorn",
         "backDescription": "The engravers initials K.G. appear at either side of the shield between the animals legs.",
         "bottomContent": "The engravers initials K.G. appear at either side of the shield, between the animals legs.",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -1317,7 +1317,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Crowned Queen",
         "backDescription": "The coronation of Queen Elizabeth II",
         "bottomContent": "The coronation of Queen Elizabeth II",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -1339,7 +1339,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Four shields",
         "backDescription": "DEI GRATIA REGINA F D. FIVE SHILLINGS",
         "bottomContent": "DEI GRATIA REGINA F D. FIVE SHILLINGS",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -1361,7 +1361,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Churchill",
         "backDescription": "Portrait of Churchill.",
         "bottomContent": "Portrait of Churchill.",
-        "price": "$10",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -1383,7 +1383,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Jubilee",
         "backDescription": "Silver Jubilee of Her Majesty Queen Elizabeth II.",
         "bottomContent": "Silver Jubilee of Her Majesty, Queen Elizabeth II.",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -1405,7 +1405,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Martin Jennings",
         "backDescription": "The Royal Arms",
         "bottomContent": "The Royal Arms",
-        "price": "$400",
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -1427,7 +1427,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Britannia",
         "backDescription": "Great Britain Silver Britannia.",
         "bottomContent": "Great Britain Silver Britannia.",
-        "price": "$40",
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -1449,7 +1449,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Very attractive original coin.",
         "bottomContent": "William & Mary",
-        "price": "$500",
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -1471,7 +1471,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "William III",
         "backDescription": "Crowned cruciform shields around cental Nassau lion divided date above legend around.",
         "bottomContent": "William III",
-        "price": "$500",
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -1493,7 +1493,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Anne",
         "backDescription": "Crowned cruciform shields with central Garter star divided date above legend around.",
         "bottomContent": "Queen Anne",
-        "price": "$400",
+        "price": "$400.00",
         "ebay": ""
       },
       {
@@ -1515,7 +1515,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George II",
         "backDescription": "Crowned cruciform shields with central Garter star divided date above legend around.",
         "bottomContent": "George II",
-        "price": "$850",
+        "price": "$550.00",
         "ebay": ""
       },
       {
@@ -1537,7 +1537,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIARUM",
         "backDescription": "Crowned and quartered ornate shield",
         "bottomContent": "George III",
-        "price": "$220",
+        "price": "$220.00",
         "ebay": ""
       },
       {
@@ -1559,7 +1559,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIARUM",
         "backDescription": "Crowned and quartered ornate shield",
         "bottomContent": "George III",
-        "price": "$300",
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -1581,7 +1581,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIARUM",
         "backDescription": "King of the Britains Defender of the FaithGod and my right",
         "bottomContent": "George IIII",
-        "price": "$300",
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -1603,7 +1603,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIARUM",
         "backDescription": "King of the Britains Defender of the FaithGod and my right",
         "bottomContent": "George IV",
-        "price": "$300",
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -1625,7 +1625,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "King William IIII",
         "backDescription": "King of the Britains Defender of the FaithGod and my right",
         "bottomContent": "King William IIII",
-        "price": "$400",
+        "price": "$400.00",
         "ebay": ""
       },
       {
@@ -1647,7 +1647,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIARUM",
         "backDescription": "Crowned quartered shield of arms within olive wreath legend around national flower emblems below.",
         "bottomContent": "Queen Victoria",
-        "price": "$300",
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -1669,7 +1669,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crowned quartered shield of arms within garter and collar legend around divided date below.",
         "bottomContent": "Queen Victoria",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -1691,7 +1691,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Victorian crown",
         "backDescription": "Silver Half Crown",
         "bottomContent": "Queen Victoria",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -1713,7 +1713,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Edwardus VII",
         "backDescription": "Crowned quartered shield of arms within Garter legend around.",
         "bottomContent": "Edward VII",
-        "price": "$200",
+        "price": "$200.00",
         "ebay": ""
       },
       {
@@ -1735,7 +1735,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George V",
         "backDescription": "Crowned quartered shield of arms within Garter band legend around.",
         "bottomContent": "George V",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -1757,7 +1757,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George V",
         "backDescription": "Crowned quartered shield of arms within Garter band legend around.",
         "bottomContent": "George V",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -1779,7 +1779,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Pound sterling",
         "backDescription": "Quartered shield of arms flanked by crowned royal cyphers legend above denomination.",
         "bottomContent": "George VI",
-        "price": "$100",
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -1801,7 +1801,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1823,7 +1823,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1845,7 +1845,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1867,7 +1867,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Central Tudor rose surrounded by thistles shamrocks and leeks legend above denomination.",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1889,7 +1889,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Crowned lion passant atop crown",
         "bottomContent": "George VI",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1911,7 +1911,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Crowned lion passant atop crown",
         "bottomContent": "George VI",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1933,7 +1933,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Crowned lion passant atop crown",
         "bottomContent": "George VI",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1955,7 +1955,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Crowned lion passant atop crown",
         "bottomContent": "George VI",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1977,7 +1977,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Shillings",
         "backDescription": "Crowned lion passant atop crown",
         "bottomContent": "George VI",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -1999,7 +1999,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God King",
         "backDescription": "Crowned lion passant atop crown legend above",
         "bottomContent": "George V",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -2021,7 +2021,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God King",
         "backDescription": "Crowned lion passant atop crown legend above",
         "bottomContent": "George V",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -2043,7 +2043,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God King",
         "backDescription": "Crowned lion passant atop crown legend above",
         "bottomContent": "George V",
-        "price": "$20",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -2065,7 +2065,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Edward VII",
         "backDescription": "Crowned lion passant atop crown dividing date.",
         "bottomContent": "Edward VII",
-        "price": "$90",
+        "price": "$90.00",
         "ebay": ""
       },
       {
@@ -2087,7 +2087,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crowned shields of arms with national flower emblems between all within Garter.",
         "bottomContent": "Queen Victoria",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2109,7 +2109,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crowned Royal shield within Garter divided date below.",
         "bottomContent": "Queen Victoria",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2131,7 +2131,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crowned Royal shield within Garter divided date below.",
         "bottomContent": "Queen Victoria",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2153,7 +2153,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crown above denomination within wreath",
         "bottomContent": "Queen Victoria",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2175,7 +2175,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crown above denomination within wreath",
         "bottomContent": "Queen Victoria",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2197,7 +2197,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Defender of the Faith",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George IIII",
-        "price": "$160",
+        "price": "$160.00",
         "ebay": ""
       },
       {
@@ -2219,7 +2219,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George IV",
         "backDescription": "Crowned lion passant atop crown legend around national flower emblems below.",
         "bottomContent": "George IV",
-        "price": "$140",
+        "price": "$140.00",
         "ebay": ""
       },
       {
@@ -2241,7 +2241,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George IV",
         "backDescription": "Crowned lion passant atop crown legend around national flower emblems below.",
         "bottomContent": "George IV",
-        "price": "$140",
+        "price": "$140.00",
         "ebay": ""
       },
       {
@@ -2263,7 +2263,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Hanover",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George IIII",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2285,7 +2285,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Hanover",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George IIII",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2307,7 +2307,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George the Third",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George III",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -2329,7 +2329,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George the Third",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George III",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -2351,7 +2351,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George the Third",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George III",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -2373,7 +2373,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George the Third",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George III",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -2395,7 +2395,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George the Third",
         "backDescription": "Ornate crowned Royal shield overlaid with smaller crowned shield all within Garter.",
         "bottomContent": "George III",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -2417,7 +2417,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George II",
         "backDescription": "Crowned cruciform shields with central Garter star divided date above legend around.",
         "bottomContent": "George II",
-        "price": "$250",
+        "price": "$250.00",
         "ebay": ""
       },
       {
@@ -2439,7 +2439,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "George II",
         "backDescription": "Crowned cruciform shields with central Garter star divided date above legend around.",
         "bottomContent": "George II",
-        "price": "$250",
+        "price": "$250.00",
         "ebay": ""
       },
       {
@@ -2461,7 +2461,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Johann Ochs",
         "backDescription": "Duke of Brunswick and Lueneburg Arch Treasurer and Prince Elector of the Holy Roman Empire",
         "bottomContent": "George I",
-        "price": "$600",
+        "price": "$600.00",
         "ebay": ""
       },
       {
@@ -2483,7 +2483,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Anne",
         "backDescription": "Crowned cruciform shields with central Garter star divided date above legend around.",
         "bottomContent": "Queen Anne",
-        "price": "$450",
+        "price": "$450.00",
         "ebay": ""
       },
       {
@@ -2505,7 +2505,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Anne",
         "backDescription": "Crowned cruciform shields with central Garter star divided date above legend around.",
         "bottomContent": "Queen Anne",
-        "price": "$500",
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -2527,7 +2527,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Anne",
         "backDescription": "Crowned cruciform shields around central Garter star divided date above legend around.",
         "bottomContent": "Queen Anne",
-        "price": "$500",
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -2549,7 +2549,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Anne",
         "backDescription": "Magnae Britanniae Franciae Et Hiberniae Regina",
         "bottomContent": "Queen Anne",
-        "price": "$500",
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -2571,7 +2571,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Arms of England",
         "backDescription": "The Reverse is four crowned shields bearing the arms of England Scotland France and Ireland arranged in a cross. Star of the Garter at the centre.",
         "bottomContent": "King William IIII",
-        "price": "$900",
+        "price": "$900.00",
         "ebay": ""
       },
       {
@@ -2593,7 +2593,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Milled",
         "backDescription": "Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
         "bottomContent": "King Charles II",
-        "price": "$800",
+        "price": "$800.00",
         "ebay": ""
       },
       {
@@ -2615,7 +2615,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen ELIZABETH II",
         "backDescription": "Queen ELIZABETH II",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -2637,7 +2637,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.",
         "bottomContent": "Queen Victoria",
-        "price": "$1,430",
+        "price": "$1,430.00",
         "ebay": ""
       },
       {
@@ -2659,7 +2659,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen Victoria",
         "backDescription": "Crowned cruciform shields of arms around central Tudor rose national flower emblems in angles legend above denomination below.",
         "bottomContent": "Queen Victoria",
-        "price": "$1,200",
+        "price": "$1,200.00",
         "ebay": ""
       },
       {
@@ -2681,7 +2681,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Reverse",
         "backDescription": "Crowned cruciform shields of England Scotland and Ireland sceptres with national flower emblems in angles divided date above legend around.",
         "bottomContent": "Queen Victoria",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -2703,7 +2703,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "3rd portrait",
         "backDescription": "Crown above shields of England Scotland and Ireland with national flower emblems between all within Garter with divided date below and legend around.",
         "bottomContent": "Queen Victoria",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -2725,7 +2725,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "EDWARDVS VII",
         "backDescription": "Standing figure of Britannia on ship's bow holding trident in the right hand and shield bearing the Union flag in the left legend around date below.",
         "bottomContent": "Edward VII",
-        "price": "$100",
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -2747,7 +2747,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.",
         "bottomContent": "George V",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2769,7 +2769,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "Crowned cruciform shields around central Garter star sceptres with national emblems in angles denomination above divided date below.",
         "bottomContent": "George V",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2791,7 +2791,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "Coat of arms",
         "bottomContent": "George VI",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2813,7 +2813,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "Coat of arms",
         "bottomContent": "George VI",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2835,7 +2835,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "floral design",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -2857,7 +2857,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "floral design",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -2879,7 +2879,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ONE FLORIN",
         "backDescription": "floral design",
         "bottomContent": "Queen ELIZABETH II",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -2889,7 +2889,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "type": "morgan",
         "typeid": 10,
         "name": "Morgan Dollars",
-        "monarchtype": "",
+        "monarchtype": "unitedstates",
         "year": 1881,
         "tagline": "Morgan Dollars",
         "title": "1881 1881 Morgan Dollars Morgan Dollars",
@@ -2901,7 +2901,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Morgan Dollar Reverse",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$100",
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -2911,7 +2911,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "type": "morgan",
         "typeid": 10,
         "name": "Morgan Dollars",
-        "monarchtype": "",
+        "monarchtype": "unitedstates",
         "year": 1885,
         "tagline": "Morgan Dollars",
         "title": "1885 1885 Morgan Dollars Morgan Dollars",
@@ -2923,7 +2923,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Morgan Dollar Reverse",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -2933,7 +2933,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "type": "morgan",
         "typeid": 10,
         "name": "Morgan Dollars",
-        "monarchtype": "",
+        "monarchtype": "unitedstates",
         "year": 1890,
         "tagline": "Morgan Dollars",
         "title": "1890 1890 Morgan Dollars Morgan Dollars",
@@ -2945,7 +2945,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Morgan Dollar Reverse",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -2955,7 +2955,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "type": "morgan",
         "typeid": 10,
         "name": "Morgan Dollars",
-        "monarchtype": "",
+        "monarchtype": "unitedstates",
         "year": 1900,
         "tagline": "Morgan Dollars",
         "title": "1900 1900 Morgan Dollars Morgan Dollars",
@@ -2967,7 +2967,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Morgan Dollar Reverse",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -2977,7 +2977,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "type": "morgan",
         "typeid": 10,
         "name": "Morgan Dollars",
-        "monarchtype": "",
+        "monarchtype": "unitedstates",
         "year": 2023,
         "tagline": "Morgan Dollars",
         "title": "2023 2023 Morgan Dollars Morgan Dollars",
@@ -2989,7 +2989,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Morgan Dollar Reverse",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -3011,7 +3011,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Stuart",
         "backDescription": "Crowned cruciform shields around central Garter star with interlinked C's in angles divided date above legend around.",
         "bottomContent": "King Charles II",
-        "price": "$600",
+        "price": "$600.00",
         "ebay": ""
       },
       {
@@ -3033,7 +3033,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Stuart",
         "backDescription": "Crowned cruciform shields around central lion rampant divided date above legend around.",
         "bottomContent": "",
-        "price": "$600",
+        "price": "$600.00",
         "ebay": ""
       },
       {
@@ -3055,7 +3055,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Circulated",
         "backDescription": "Crowned cruciform shields around central Garter star divided date above legend around.",
         "bottomContent": "Queen Anne",
-        "price": "N/A",
+        "price": "$700.00",
         "ebay": ""
       },
       {
@@ -3077,7 +3077,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Reverse",
         "backDescription": "Crowned cruciform shields around central Garter star divided date above legend around.",
         "bottomContent": "King George I",
-        "price": "$600",
+        "price": "$600.00",
         "ebay": ""
       },
       {
@@ -3099,7 +3099,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Hanover",
         "backDescription": "Crowned cruciform shields around central Garter star divided date above legend around.",
         "bottomContent": "King George II",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -3121,7 +3121,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Cruciform shields around central Garter star with crowns in angles legend around date below.",
         "bottomContent": "King George III",
-        "price": 80,
+        "price": "$80.00",
         "ebay": ""
       },
       {
@@ -3143,7 +3143,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "GEOR:III",
         "backDescription": "George the Third by the Grace of God King of the Britains Defender of the Faith",
         "bottomContent": "King George III",
-        "price": 60,
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -3165,7 +3165,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "ANNO 1821",
         "backDescription": "Ornate garnished crowned quartered shield of arms overlaid with second smaller crowned shield national flower emblems around date below",
         "bottomContent": "King George IIII",
-        "price": 90,
+        "price": "$90.00",
         "ebay": ""
       },
       {
@@ -3187,7 +3187,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Benedetto Pistrucci",
         "backDescription": "Square topped crowned quartered shield of arms overlaid with second smaller crowned shield Garter with legend around date below.",
         "bottomContent": "King George IIII",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -3209,7 +3209,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Benedetto Pistrucci",
         "backDescription": "Crowned quartered shield of arms overlaid with smaller crowned shield legend around on garter.",
         "bottomContent": "King William IV",
-        "price": 150,
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -3223,7 +3223,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "year": 1887,
         "tagline": "Sixpence",
         "title": "1887 Queen Victoria Sixpence",
-        "description": "Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days which was longer than those of any of her predecessors is known as the Victorian era.",
+        "description": "In 1887 the shield reverse of the Jubilee issue proved a favourite with some who gold plated them and passed them off as half sovereigns. As a result the reverse reverted to the earlier SIX PENCE type during that year, making three different designs of sixpence all dated 1887. The withdrawn shield type is common in good condition as many were saved as curios.",
         "frontImg": "1887f.jpg",
         "frontTitle": "VICTORIA",
         "frontDescription": "Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
@@ -3231,7 +3231,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Edgar Boehm",
         "backDescription": "Crowned quartered shield of arms within Garter legend around divided date below.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -3245,7 +3245,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "year": 1887,
         "tagline": "Sixpence",
         "title": "1887 Queen Victoria Sixpence",
-        "description": "Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days which was longer than those of any of her predecessors is known as the Victorian era.",
+        "description": "In 1887 the shield reverse of the Jubilee issue proved a favourite with some who gold plated them and passed them off as half sovereigns. As a result the reverse reverted to the earlier SIX PENCE type during that year, making three different designs of sixpence all dated 1887. The withdrawn shield type is common in good condition as many were saved as curios.",
         "frontImg": "1887yf.jpg",
         "frontTitle": "VICTORIA",
         "frontDescription": "Crowned and veiled bust (Jubilee Head) of Queen Victoria left legend around engraver's initials below truncation.",
@@ -3253,7 +3253,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Edgar Boehm",
         "backDescription": "Crowned quartered shield of arms within Garter legend around divided date below.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -3275,7 +3275,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Edgar Boehm",
         "backDescription": "Crowned quartered shield of arms within Garter legend around divided date below.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -3297,7 +3297,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Thomas Brock",
         "backDescription": "Crowned denomination within wreath date below.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -3319,7 +3319,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "de Saulles",
         "backDescription": "Crowned denomination within wreath (olive sprig on left oak on right) date below.",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -3341,7 +3341,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "MacKennal",
         "backDescription": "Crowned lion passant atop crown dividing date within circle legend above denomination below.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -3363,7 +3363,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "MacKennal",
         "backDescription": "Three oak sprigs with six acorns denomination above date below.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -3385,7 +3385,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Paget",
         "backDescription": "Crowned royal cypher dividing date legend above denomination below.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -3407,7 +3407,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Paget",
         "backDescription": "Crowned royal cypher dividing date legend above denomination below.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3429,7 +3429,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Paget",
         "backDescription": "Crowned royal cypher dividing date legend above denomination below.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3451,7 +3451,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Gillick",
         "backDescription": "Tudor rose shamrock thistle and leek aligned in a cross legend above denomination and date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -3473,7 +3473,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Wyon",
         "backDescription": "Crowned denomination divides date within oak wreath.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -3495,7 +3495,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Boehm",
         "backDescription": "Crowned denomination divides date within oak wreath.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -3517,7 +3517,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Brock",
         "backDescription": "Crowned denomination divides date within oak sprigs.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3539,7 +3539,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "de Saulles",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3561,7 +3561,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "incl. Maundy",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3583,7 +3583,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "MacKennal",
         "backDescription": "Three oak sprigs with three acorns denomination above date below.",
         "bottomContent": "King George V",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -3605,7 +3605,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Paget",
         "backDescription": "Three-headed thrift'plant denomination above date below.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3627,7 +3627,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Paget",
         "backDescription": "Three-headed thrift'plant denomination above date below.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3649,7 +3649,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3671,7 +3671,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3693,7 +3693,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3715,7 +3715,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3737,7 +3737,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3759,7 +3759,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3781,7 +3781,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3803,7 +3803,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3825,7 +3825,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3847,7 +3847,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3869,7 +3869,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3891,7 +3891,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3913,7 +3913,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3935,7 +3935,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3957,7 +3957,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3979,7 +3979,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Windsor",
         "backDescription": "A Tudor portcullis and side chains with crown above dividing value date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -3992,7 +3992,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "William4",
         "year": 1831,
         "tagline": "penny",
-        "title": "1831 King William IIII  penny",
+        "title": "1831 King William IIII penny",
         "description": "William III (William Henry; Dutch: Willem Hendrik; 4 November 1650 8 March 1702)[b] also widely known as William of Orange",
         "frontImg": "1831f.jpg",
         "frontTitle": "GULIELMUS",
@@ -4001,7 +4001,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.",
         "bottomContent": "King William III",
-        "price": "",
+        "price": "$70.00",
         "ebay": ""
       },
       {
@@ -4023,7 +4023,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia facing right trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -4045,7 +4045,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4067,7 +4067,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse on left and ship on right denomination above and date in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4089,7 +4089,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -4111,7 +4111,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -4133,7 +4133,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$12.00",
         "ebay": ""
       },
       {
@@ -4155,7 +4155,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4177,7 +4177,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4199,7 +4199,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4221,7 +4221,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4243,7 +4243,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4265,7 +4265,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4287,7 +4287,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4309,7 +4309,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4331,7 +4331,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4353,7 +4353,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4375,7 +4375,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4397,7 +4397,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4419,7 +4419,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4441,7 +4441,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind with lighthouse to left denomination above and date in exergue.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4463,7 +4463,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right sea behind denomination above and date in exergue.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4485,7 +4485,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITAN",
         "backDescription": "Seated figure of Britannia left with olive branch in raised right hand spear in left shield bearing the Union flag resting at left legend around date in exergue.",
         "bottomContent": "William and Mary",
-        "price": "",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -4507,7 +4507,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITAN",
         "backDescription": "Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.",
         "bottomContent": "King George II",
-        "price": "",
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -4529,7 +4529,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITAN",
         "backDescription": "Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.",
         "bottomContent": "King George II",
-        "price": "",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -4551,7 +4551,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.",
         "bottomContent": "King George III",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4573,7 +4573,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing left trident in left hand olive branch in right shield with Union flag resting on left legend around date in exergue.",
         "bottomContent": "King George III",
-        "price": "",
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -4595,7 +4595,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.",
         "bottomContent": "King George IIII",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4617,7 +4617,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.",
         "bottomContent": "King William III",
-        "price": "",
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -4639,7 +4639,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right with trident in left hand and shield bearing the Union flag in right legend around and national flower emblems in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4661,7 +4661,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -4683,7 +4683,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind with lighthouse on left and ship on right",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4705,7 +4705,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -4727,7 +4727,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -4749,7 +4749,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Seated figure of Britannia right trident in left hand shield bearing the Union flag in right denomination around date in exergue sea behind.",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -4771,7 +4771,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "The Golden Hind",
         "bottomContent": "",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -4793,7 +4793,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "Three-masted ship sailing left denomination above date below.",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -4815,7 +4815,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing left trident in left hand shield with Union flag resting on left olive branch in raised right hand legend above sea behind with ship on left.",
         "bottomContent": "King George III",
-        "price": "",
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -4837,7 +4837,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right legend around national flower emblems in exergue.",
         "bottomContent": "King William III",
-        "price": "",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -4859,7 +4859,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above date in exergue sea behind with lighthouse on left and ship on right.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -4881,7 +4881,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia right trident in left hand shield with Union flag in right hand denomination above sea behind date in exergue.",
         "bottomContent": "Queen Victoria",
-        "price": "",
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -4903,7 +4903,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4925,7 +4925,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4947,7 +4947,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4969,7 +4969,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -4991,7 +4991,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George V",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5013,7 +5013,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5035,7 +5035,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5057,7 +5057,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5079,7 +5079,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5101,7 +5101,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King George VI",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5123,7 +5123,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIAR",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "Queen Elizabeth II",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5145,7 +5145,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BRITANNIA",
         "backDescription": "Seated figure of Britannia facing right trident in left hand shield with Union flag in right hand denomination above sea behind date in",
         "bottomContent": "King Edward VII",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5167,7 +5167,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "austria",
         "backDescription": "The Austrian escutcheon the face value and two laurel branchesBinomial Name: Laurus nobilis",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5189,7 +5189,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "A most attractive and beautifully matched set.",
         "bottomContent": "Queen Victoria",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -5211,7 +5211,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "A most attractive and beautifully matched set.",
         "bottomContent": "Queen Victoria",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -5233,7 +5233,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "A most attractive and beautifully matched set.",
         "bottomContent": "Queen Victoria",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -5255,7 +5255,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "A most attractive and beautifully matched set.",
         "bottomContent": "King Edward VII",
-        "price": 450,
+        "price": "$450.00",
         "ebay": ""
       },
       {
@@ -5277,7 +5277,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "A most attractive and beautifully matched set.",
         "bottomContent": "King George V",
-        "price": 450,
+        "price": "$450.00",
         "ebay": ""
       },
       {
@@ -5299,7 +5299,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Grace of God",
         "backDescription": "A most attractive and beautifully matched set.",
         "bottomContent": "King George VI",
-        "price": 450,
+        "price": "$450.00",
         "ebay": ""
       },
       {
@@ -5321,7 +5321,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "EIN SCHILLING",
         "backDescription": "Three edelweiss flowers (Leontopodium alpinum or Leontopodium nivale ssp.) and face value in words surrounding",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5343,7 +5343,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "SCHILLING",
         "backDescription": "Woman head wearing the traditional Lower Austria hat",
         "bottomContent": "austria",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -5365,7 +5365,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "GROSCHEN",
         "backDescription": "The face value divides the date and a gentian flower or Stemless gentian flower (Binomial Name: Gentiana acaulis) partially inside the number '50'",
         "bottomContent": "austria",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -5387,7 +5387,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "BELGIE",
         "backDescription": "Spray of leaves to left of center hole denomination to right",
         "bottomContent": "belgium",
-        "price": 25,
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -5409,7 +5409,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "",
         "backDescription": "Plant divides denomination Crown at top legend in Dutch",
         "bottomContent": "belgium",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -5431,7 +5431,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Rouble",
         "backDescription": "Value and date within wheat sprigs.",
         "bottomContent": "cccp",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5453,7 +5453,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Rouble",
         "backDescription": "Value and date within wheat sprigs.",
         "bottomContent": "cccp",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5475,7 +5475,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Rouble",
         "backDescription": "Value and date within wheat sprigs.",
         "bottomContent": "cccp",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -5497,7 +5497,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Rouble",
         "backDescription": "Value and date within wheat sprigs.",
         "bottomContent": "cccp",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -5519,7 +5519,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Frederik IX",
         "backDescription": "Crowned royal arms divide date value above",
         "bottomContent": "denmark",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5541,7 +5541,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Crowned Norwegian coat of arms with the Norwegian lion",
         "bottomContent": "norway",
-        "price": 40,
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -5563,7 +5563,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Den norske løve.",
         "bottomContent": "norway",
-        "price": 25,
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -5585,7 +5585,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Two ornamental roses",
         "bottomContent": "norway",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -5607,7 +5607,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Two ornamental roses",
         "bottomContent": "norway",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5629,7 +5629,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Two ornamental roses",
         "bottomContent": "norway",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5651,7 +5651,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Two ornamental roses",
         "bottomContent": "norway",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5673,7 +5673,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Crowned collar chain of the Royal Norwegian Order of Saint Olav around a hole.",
         "bottomContent": "norway",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5695,7 +5695,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Central hole. Date below with value at bottom an ornamental rose either side crown at top.",
         "bottomContent": "norway",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5717,7 +5717,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Value and date below two ornamental roses flank centre hole crown above",
         "bottomContent": "norway",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -5739,7 +5739,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "All for Norway",
         "bottomContent": "norway",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -5761,7 +5761,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Haakon VII",
         "backDescription": "Kingdom of Norway",
         "bottomContent": "norway",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5783,7 +5783,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Second Zloty",
         "backDescription": "A Stylized flower on either side of Denomination",
         "bottomContent": "poland",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5805,7 +5805,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "LIBERTE EGALITE",
         "backDescription": "Value and date with mintmark on left.",
         "bottomContent": "france",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -5827,7 +5827,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "10 Francs",
         "backDescription": "Rooster facing right laurel branch value year of production pattern around edge.",
         "bottomContent": "france",
-        "price": 35,
+        "price": "$35.00",
         "ebay": ""
       },
       {
@@ -5849,7 +5849,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "10 Francs",
         "backDescription": "Denomination above date inscription below grain columns flank.",
         "bottomContent": "france",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -5871,7 +5871,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1 Francs",
         "backDescription": "Value encompassed on either side by Cornucopia (or horn of plenty overflowing with produce flowers or nuts).",
         "bottomContent": "france",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -5893,7 +5893,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "COMMERCE",
         "backDescription": "Denomination in center lettering surrounding",
         "bottomContent": "france",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -5915,7 +5915,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "COMMERCE",
         "backDescription": "Denomination in center lettering surrounding",
         "bottomContent": "france",
-        "price": 40,
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -5937,7 +5937,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "EM LINDAUER",
         "backDescription": "A plant below the hole date at the bottom. Lettering above the hole value divided by hole date at the bottom and the privy mark on the left below the 1",
         "bottomContent": "france",
-        "price": 40,
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -5959,7 +5959,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Royal Mint of Spain",
         "backDescription": "The Spanish coat of arms with the eagle of Saint John and the year in the star to the left with the denomination at the top",
         "bottomContent": "spain",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -5972,7 +5972,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "",
         "year": 1955,
         "tagline": "sweden",
-        "title": "1955 1 Krona",
+        "title": "1955 1 sweden Krona",
         "description": "Gustaf VI Adolf was King of Sweden from 29 October 1950 until his death in 1973. He was the eldest son of Gustaf V and his wife Victoria of Baden. Before Gustaf Adolf ascended the throne he had been crown prince for nearly 43 years during his father's reign.",
         "frontImg": "19551krf.jpg",
         "frontTitle": "GUSTAF VI",
@@ -5981,7 +5981,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "King of Sweden",
         "backDescription": "Crowned coat of arms divides date",
         "bottomContent": "sweden",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -5994,7 +5994,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "",
         "year": 1957,
         "tagline": "sweden",
-        "title": "1957 50 ÖRE",
+        "title": "1957 50 sweden ÖRE",
         "description": "Gustaf VI Adolf was King of Sweden from 29 October 1950 until his death in 1973. He was the eldest son of Gustaf V and his wife Victoria of Baden. Before Gustaf Adolf ascended the throne he had been crown prince for nearly 43 years during his father's reign.",
         "frontImg": "195750of.jpg",
         "frontTitle": "GUSTAF VI",
@@ -6003,7 +6003,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "King of Sweden",
         "backDescription": "Value with date below and name of the country above. At sides of value there are: the mintmark at left and at right there is the first letter in the surname of the Governor of the Riksbank.",
         "bottomContent": "sweden",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6016,7 +6016,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "",
         "year": 1919,
         "tagline": "sweden",
-        "title": "1919 2 ÖRE",
+        "title": "1919 2 sweden ÖRE",
         "description": "Gustaf V was King of Sweden from 8 December 1907 until his death in 1950. He was the eldest son of King Oscar II of Sweden and Sophia of Nassau a half-sister of Adolphe Grand Duke of Luxembourg.",
         "frontImg": "19192of.jpg",
         "frontTitle": "GUSTAF V",
@@ -6025,7 +6025,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "With the People for the Motherland",
         "backDescription": "The Three crowns of Sweden divides value in letters at base of lower crown. Above the crowns there is the value in number and below the mintmark of Stockholm mint.",
         "bottomContent": "sweden",
-        "price": "",
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6047,7 +6047,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "",
         "backDescription": "Value within wreath",
         "bottomContent": "switzerland",
-        "price": 75,
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -6069,7 +6069,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Republic of Yugoslavia",
         "backDescription": "Seven stars above value the date on the left and right sides.",
         "bottomContent": "yugoslavia",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6091,7 +6091,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Republic of Yugoslavia",
         "backDescription": "Seven stars above value the date on the left and right sides.",
         "bottomContent": "yugoslavia",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6113,7 +6113,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value date within wreath",
         "bottomContent": "switzerland",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6135,7 +6135,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value date within wreath",
         "bottomContent": "switzerland",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6157,7 +6157,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value date within wreath",
         "bottomContent": "switzerland",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6179,7 +6179,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value date within wreath",
         "bottomContent": "switzerland",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6201,7 +6201,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value date within wreath",
         "bottomContent": "switzerland",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6223,7 +6223,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value date within wreath",
         "bottomContent": "switzerland",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6245,7 +6245,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Wreath with two laurel branches tied with a ribbon below.",
         "bottomContent": "switzerland",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6267,7 +6267,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Wreath with two laurel branches tied with a ribbon below.",
         "bottomContent": "switzerland",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -6289,7 +6289,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value within wreath",
         "bottomContent": "switzerland",
-        "price": 100,
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -6311,7 +6311,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Value within wreath",
         "bottomContent": "switzerland",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6333,7 +6333,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Confoederatio Helvetica",
         "backDescription": "Coat of arms of Switzerland on square shield.",
         "bottomContent": "switzerland",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6355,7 +6355,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Switzerland Franc",
         "backDescription": "Wreath formed of oak and alpine rose branches tied with a ribbon below.",
         "bottomContent": "switzerland",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6377,7 +6377,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Frederik IX",
         "backDescription": "Value country name mint mark initials N-S",
         "bottomContent": "denmark",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -6399,7 +6399,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Kingdom of Italy",
         "backDescription": "Value and date of the coin within a hexagon surrounded by a laurel wreath and the mintmark below the date",
         "bottomContent": "italy",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6421,7 +6421,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Centesimi",
         "backDescription": "A honeybee on a flower with the value on the bottom right the date on the bottom and the mintmark to the left",
         "bottomContent": "italy",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6443,7 +6443,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Centesimi",
         "backDescription": "Large central ear of wheat divides value with the date to the lower right and the mintmark to the bottom right of the wheat.",
         "bottomContent": "italy",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6465,7 +6465,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Centesimi",
         "backDescription": "Denomination inside a central beaded circle and lettering around outside of circle",
         "bottomContent": "italy",
-        "price": 90,
+        "price": "$90.00",
         "ebay": ""
       },
       {
@@ -6487,7 +6487,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Lira",
         "backDescription": "Savoia coat of arms decorated with the Collare dell'Annunziata both within a laurel wreath.Below value of the coin and mintmark.",
         "bottomContent": "italy",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6509,7 +6509,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Centesimi",
         "backDescription": "Value and date within two branches one of laurel and the other of oak with the star of Italy above and the mintmark below",
         "bottomContent": "italy",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -6531,7 +6531,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Lira",
         "backDescription": "Representation of the god Vulcan beating iron on an anvil. Date left denomination right",
         "bottomContent": "italy",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -6553,7 +6553,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Lira",
         "backDescription": "Two ears of wheat dividing by value",
         "bottomContent": "italy",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6575,7 +6575,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Lira",
         "backDescription": "Dolphin and value",
         "bottomContent": "italy",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6597,7 +6597,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Italia",
         "backDescription": "Side view of an eagle with raised wings holding a fasces with an axe in its claws date and year of Fascist Era on the left near the tail. Below the fasces in exergue the Savoy shield divides the value and mintmark at sides.",
         "bottomContent": "italy",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6619,7 +6619,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Giampaoli",
         "backDescription": "Bust left within wreath",
         "bottomContent": "italy",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6641,7 +6641,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Giampaoli",
         "backDescription": "Goddess Minerva facing left reaching an olive tree with her raised right hand while in the left holds a long spear. Value at left of olive trunk; mintmark at right of the Goddess. Date below in exergu",
         "bottomContent": "italy",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6663,7 +6663,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Romagnoli",
         "backDescription": "Eagle in profile with outstretched wings and head left has fasces with axe in its claws. The eagle is encircled by a laurel wreath made of two branches. Where the branches meet together at base is the Shield of Savoy which divides the value below. The date is on the left of the value while the mint mark and the year in the Fascist Era are at right.",
         "bottomContent": "italy",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6685,7 +6685,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Victor Emmanuel II",
         "backDescription": "Value and date within two branches one of laurel and the other of oak and the star of Italy above and the sign of the mint below",
         "bottomContent": "italy",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -6707,7 +6707,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "EIN SCHILLING",
         "backDescription": "A sower the face value and the state title",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6729,7 +6729,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Groschen",
         "backDescription": "Austrian escutcheon and four ears",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6751,7 +6751,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "20 Groschen",
         "backDescription": "Austrian escutcheon and four ears",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6773,7 +6773,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "10 Groschen",
         "backDescription": "The face value above the year in a scalloped rim.",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6795,7 +6795,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "2 Groschen",
         "backDescription": "enomination in circle of dots name of the state around date below.",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6817,7 +6817,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "2 Groschen",
         "backDescription": "Coat of arms on spray of edelweiss",
         "bottomContent": "austria",
-        "price": 40,
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -6839,7 +6839,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "10 Groschen",
         "backDescription": "The value above year within a circular floral wreath of gentian flowers alternating with edelweiss flowers",
         "bottomContent": "austria",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6861,7 +6861,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Häuslerr",
         "backDescription": "2oo",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6883,7 +6883,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Schwartz",
         "backDescription": "Value within wreath date below",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6905,7 +6905,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Schwartz",
         "backDescription": "Value within wreath date below",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6927,7 +6927,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Schwartz",
         "backDescription": "Value within wreath date below",
         "bottomContent": "austria",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -6949,7 +6949,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Neudeck",
         "backDescription": "Value above sprays date below within curved stylised shield",
         "bottomContent": "austria",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -6971,7 +6971,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Francis Joseph I",
         "backDescription": "Crowned imperial eagle value at centre legend around (starts 1h) for Hungariae Bohemiae Galiciae Lodomeriae Illyriae Rex Archidux Austriae.",
         "bottomContent": "austria",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -6993,7 +6993,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Francis Joseph I",
         "backDescription": "Crowned double headed imperial eagle with value on breast. Legend around (starts 1h) date at end of legend.",
         "bottomContent": "austria",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -7015,7 +7015,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Francis Joseph I",
         "backDescription": "Crowned denomination above date",
         "bottomContent": "austria",
-        "price": 25,
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -7037,7 +7037,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Gross",
         "backDescription": "The value above dividing line year and mintmark below",
         "bottomContent": "austria",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -7059,7 +7059,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Bull facing right. Denomination above and in exergue.",
         "bottomContent": "ireland",
-        "price": 75,
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -7081,7 +7081,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Irish Wolfhound facing left",
         "bottomContent": "ireland",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -7103,7 +7103,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Seated hare facing left",
         "bottomContent": "ireland",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -7125,7 +7125,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Bull facing right. Denomination above and in exergue.",
         "bottomContent": "ireland",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -7147,7 +7147,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Irish Wolfhound facing left",
         "bottomContent": "ireland",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -7169,7 +7169,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Seated hare facing left",
         "bottomContent": "ireland",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -7191,7 +7191,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "An Irish Hunter horse facing left with the denomination below",
         "bottomContent": "ireland",
-        "price": 200,
+        "price": "$200.00",
         "ebay": ""
       },
       {
@@ -7213,7 +7213,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Irish Free State",
         "backDescription": "Salmon and value",
         "bottomContent": "ireland",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -7235,7 +7235,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Quartered shield of arms over cross fourchée legend around initial mark crown on reverse only legend commences upper right.",
         "bottomContent": "King Charles II",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7257,7 +7257,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned C dividing date with mark of value above and legend around.",
         "bottomContent": "King Charles II",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7279,7 +7279,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Four central interlinked C's with national emblems in angles (English rose Scottish thistle French fleur de lis Irish harp) with crown above dividing date and legend around.",
         "bottomContent": "King Charles II",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7301,7 +7301,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crown above interlinked C's dividing date legend around.",
         "bottomContent": "King Charles II",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7323,7 +7323,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Three interlocked C's crown above dividing date legend around.",
         "bottomContent": "King Charles II",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7345,7 +7345,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King James II",
-        "price": 250,
+        "price": "$250.00",
         "ebay": ""
       },
       {
@@ -7367,7 +7367,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King James II",
-        "price": 300,
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -7389,7 +7389,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King James II",
-        "price": 300,
+        "price": "$300.00",
         "ebay": ""
       },
       {
@@ -7411,7 +7411,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Mary II",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "William and Mary",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7433,7 +7433,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Mary II",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "William and Mary",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7455,7 +7455,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "King of Great Britain France and Ireland",
         "backDescription": "Central crowned denomination with divided date above legend around.",
         "bottomContent": "King William III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7477,7 +7477,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Queen of Great Britain France and Ireland",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "Queen Anne",
-        "price": 250,
+        "price": "$250.00",
         "ebay": ""
       },
       {
@@ -7499,7 +7499,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "Queen Anne",
-        "price": 350,
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -7521,7 +7521,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George I",
-        "price": 150,
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -7543,7 +7543,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George II",
-        "price": 150,
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -7565,7 +7565,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George II",
-        "price": 350,
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -7587,7 +7587,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George II",
-        "price": 350,
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -7609,7 +7609,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George II",
-        "price": 350,
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -7631,7 +7631,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George II",
-        "price": 350,
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -7653,7 +7653,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7675,7 +7675,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7697,7 +7697,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7719,7 +7719,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7741,7 +7741,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7763,7 +7763,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7785,7 +7785,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7807,7 +7807,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Central denomination below crown dividing date legend around.",
         "bottomContent": "King George III",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7829,7 +7829,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King George IIII",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7851,7 +7851,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King William IV",
-        "price": 100,
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -7873,7 +7873,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King William IV",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7895,7 +7895,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King William IV",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7917,7 +7917,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned denomination divides date within oak wreath.",
         "bottomContent": "Queen Victoria",
-        "price": 500,
+        "price": "$500.00",
         "ebay": ""
       },
       {
@@ -7939,7 +7939,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Edward the Seventh by the Grace of God King of all the Britains Defender of the Faith Emperor of India",
         "bottomContent": "King Edward VII",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -7961,7 +7961,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Maundy",
         "backDescription": "Crowned denomination dividing date within oak wreath.",
         "bottomContent": "King George V",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -7983,7 +7983,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Penny",
         "backDescription": "Hexagram date beneath",
         "bottomContent": "King Edward VIII",
-        "price": 40,
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -8005,7 +8005,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Coronation",
         "backDescription": "The Royal Arms",
         "bottomContent": "The Royal Arms",
-        "price": "$50",
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8027,7 +8027,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Halfpenny",
         "backDescription": "The interior of a smithy showing a large drop hammer and a workman holding a piece of metal on an anvil in front of an open furnace with the date",
         "bottomContent": "Halfpenny",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8049,7 +8049,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Handsworth",
         "backDescription": "Large central monogram; date above lettering around",
         "bottomContent": "Halfpenny",
-        "price": 25,
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -8071,7 +8071,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Copper",
         "backDescription": "Shield of arms of the Borough of Lancaster (gules a lion passant guardant or on a chief azure a fleur-de-lys of the second). Surrounded by legend  date below. Toothed border",
         "bottomContent": "Halfpenny",
-        "price": 70,
+        "price": "$70.00",
         "ebay": ""
       },
       {
@@ -8093,7 +8093,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Conder tokens",
         "backDescription": "Arms combining the 3 Plantagenet lions and the 3 ships of the Cinque Ports.",
         "bottomContent": "Halfpenny",
-        "price": 70,
+        "price": "$70.00",
         "ebay": ""
       },
       {
@@ -8115,7 +8115,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Cartwheel",
         "backDescription": "Seated figure of Britannia left  with trident and shield in left hand  olive branch in raised right hand  shield bearing Union flag resting on left  sea behind with ship on left  mint name below shield  legend above and date below on raised rim.",
         "bottomContent": "penny",
-        "price": 150,
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -8137,7 +8137,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Copper",
         "backDescription": "Seated lady holding scales Boat botton left.",
         "bottomContent": "Penny",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8159,7 +8159,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "",
         "backDescription": "Four shields surrounded by legend",
         "bottomContent": "Souvenir medals",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8181,7 +8181,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Lone Star Mint",
         "backDescription": "",
         "bottomContent": "THE ALAMO",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8203,7 +8203,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "",
         "backDescription": "The United States Pavilion and the reproduction of George Washington's house in Mount Vernon",
         "bottomContent": "Token",
-        "price": 120,
+        "price": "$120.00",
         "ebay": ""
       },
       {
@@ -8225,7 +8225,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value under DEUTSCHLAND and the mintmark under PFENNIG.",
         "bottomContent": "germany",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8247,7 +8247,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value under DEUTSCHLAND and the mintmark under PFENNIG.",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8269,7 +8269,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "Value flanked by oak leaves mintmark above.",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8291,7 +8291,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "Denomination flanked by oak leaves date below",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8313,7 +8313,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The mintmark below the denomination",
         "bottomContent": "germany",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8335,7 +8335,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The mintmark in between two rye ears above the denomination",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8357,7 +8357,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The mintmark in between two rye ears above the denomination",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8379,7 +8379,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The mintmark in between two rye ears above the denomination",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8401,7 +8401,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The mintmark in between two rye ears above the denomination",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8423,7 +8423,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "A large portrait of Paul von Hindenburg facing right",
         "bottomContent": "germany",
-        "price": 70,
+        "price": "$70.00",
         "ebay": ""
       },
       {
@@ -8445,7 +8445,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value and two oak leaves and the mintmark below between the leaves",
         "bottomContent": "germany",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8467,7 +8467,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value and two oak leaves and the mintmark below between the leaves",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8489,7 +8489,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value and two oak leaves and the mintmark below between the leaves",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8511,7 +8511,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value and two oak leaves and the mintmark below between the leaves",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8533,7 +8533,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "Denomination within wreath",
         "bottomContent": "germany",
-        "price": 100,
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -8555,7 +8555,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "Denomination within wreath",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8577,7 +8577,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "The face value surrounded with oak and leaves and acorns. Mintmark below 50.",
         "bottomContent": "germany",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8599,7 +8599,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "DEUTSCHLAND",
         "backDescription": "Wheat ears drawing a pyramid",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8621,7 +8621,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Copper",
         "backDescription": "H.M.S New Brunswick sailing left.",
         "bottomContent": "Halfpenny",
-        "price": 25,
+        "price": "$25.00",
         "ebay": ""
       },
       {
@@ -8643,7 +8643,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "House of Tudor",
         "backDescription": "Quartered shield of arms of England and France over long cross fourchée saltire in each fork legend around.",
         "bottomContent": "Groat",
-        "price": 350,
+        "price": "$350.00",
         "ebay": ""
       },
       {
@@ -8665,7 +8665,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Long Cross",
         "backDescription": "King Henry the Third",
         "bottomContent": "Penny",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8687,7 +8687,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Conder tokens",
         "backDescription": "East India Company's bale mark legend around.",
         "bottomContent": "Halfpenny",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8709,7 +8709,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Conder tokens",
         "backDescription": "TO HANOVER Small date.",
         "bottomContent": "The token",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8731,7 +8731,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "HALF RUPEE",
         "backDescription": "Indian tiger (Panthera tigris) facing left legend and date below. Surrounding this is the value in three languages English Devnagari (Aadha Rupya) and Persian (Hasht Aanay)",
         "bottomContent": "india",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8753,7 +8753,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "HALF RUPEE",
         "backDescription": "Indian tiger (Panthera tigris) facing left legend and date below. Surrounding this is the value in three languages English Devnagari (Aadha Rupya) and Persian (Hasht Aanay)",
         "bottomContent": "india",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8775,7 +8775,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1/4 RUPEE",
         "backDescription": "Date divides legend in English & Urdu (Chaar Aana) within a circle with the outside having a wreath made of roses a thistle shamrock leaves and lotus flowers all within a toothed border",
         "bottomContent": "india",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8797,7 +8797,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "2 Annas",
         "backDescription": "Denomination and date within floral design. Two annas in 4 languages Urdu Bengali Nagari and Telugu",
         "bottomContent": "india",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -8819,7 +8819,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1 Annas",
         "backDescription": "Denomination and date within floral design. Value  in 4 languages Urdu Bengali Devanagari and Telugu",
         "bottomContent": "india",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8841,7 +8841,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1 Annas",
         "backDescription": "Denomination and date within floral design. Value  in 4 languages Urdu Bengali Devanagari and Telugu",
         "bottomContent": "india",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8863,7 +8863,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "2 Annas",
         "backDescription": "Denomination. Value  in 4 languages Urdu Bengali Devanagari and Telugu",
         "bottomContent": "india",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -8885,7 +8885,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1 Annas",
         "backDescription": "Denomination. date below within floral pattern Value  in 4 languages Urdu Bengali Devanagari and Telugu",
         "bottomContent": "india",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8907,7 +8907,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1 Annas",
         "backDescription": "Denomination. date below within floral pattern Value  in 4 languages Urdu Bengali Devanagari and Telugu",
         "bottomContent": "india",
-        "price": 50,
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -8929,7 +8929,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "1 Pice",
         "backDescription": "Prancing horse facing left",
         "bottomContent": "india",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -8951,7 +8951,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Aluminium",
         "backDescription": "The value above the date",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -8973,7 +8973,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Aluminium",
         "backDescription": "The value above the date",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -8995,7 +8995,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Aluminium",
         "backDescription": "The value above the date",
         "bottomContent": "germany",
-        "price": 5,
+        "price": "$5.00",
         "ebay": ""
       },
       {
@@ -9017,7 +9017,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Silver",
         "backDescription": "Denomination within wreath",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -9039,7 +9039,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Silver",
         "backDescription": "Denomination within wreath",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -9061,7 +9061,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Pfennig",
         "backDescription": "The value in the centre",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -9083,7 +9083,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Pfennig",
         "backDescription": "Value and date",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -9105,7 +9105,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Pfennig",
         "backDescription": "Value and date",
         "bottomContent": "germany",
-        "price": 10,
+        "price": "$10.00",
         "ebay": ""
       },
       {
@@ -9127,7 +9127,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Pfennig",
         "backDescription": "Value and date",
         "bottomContent": "germany",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -9149,7 +9149,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Kreuzer",
         "backDescription": "Value and date",
         "bottomContent": "germany",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -9171,7 +9171,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Kreuzer",
         "backDescription": "Denomination above date.",
         "bottomContent": "germany",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -9193,7 +9193,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Pfennig",
         "backDescription": "Denomination above date.",
         "bottomContent": "germany",
-        "price": 20,
+        "price": "$20.00",
         "ebay": ""
       },
       {
@@ -9215,7 +9215,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Heller",
         "backDescription": "Denomination date",
         "bottomContent": "germany",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -9237,7 +9237,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Groschen",
         "backDescription": "Denomination and date",
         "bottomContent": "germany",
-        "price": 30,
+        "price": "$30.00",
         "ebay": ""
       },
       {
@@ -9259,7 +9259,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "PFENNING",
         "backDescription": "Denomination and date in 3-line inscription.",
         "bottomContent": "germany",
-        "price": 80,
+        "price": "$80.00",
         "ebay": ""
       },
       {
@@ -9281,7 +9281,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Conder tokens",
         "backDescription": "TO HANOVER Small date.",
         "bottomContent": "The token",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -9303,7 +9303,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Conder tokens",
         "backDescription": "Legend on three lines in centre circle. Lettering around beaded border",
         "bottomContent": "The token",
-        "price": 45,
+        "price": "$45.00",
         "ebay": ""
       },
       {
@@ -9325,7 +9325,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$170",
+        "price": "$170.00",
         "ebay": ""
       },
       {
@@ -9347,7 +9347,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$170",
+        "price": "$170.00",
         "ebay": ""
       },
       {
@@ -9369,7 +9369,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$651",
+        "price": "$651.00",
         "ebay": ""
       },
       {
@@ -9391,7 +9391,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$455",
+        "price": "$455.00",
         "ebay": ""
       },
       {
@@ -9413,7 +9413,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$245",
+        "price": "$245.00",
         "ebay": ""
       },
       {
@@ -9435,7 +9435,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$90",
+        "price": "$90.00",
         "ebay": ""
       },
       {
@@ -9457,7 +9457,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$140",
+        "price": "$140.00",
         "ebay": ""
       },
       {
@@ -9479,7 +9479,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$140",
+        "price": "$140.00",
         "ebay": ""
       },
       {
@@ -9501,7 +9501,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$160",
+        "price": "$160.00",
         "ebay": ""
       },
       {
@@ -9523,7 +9523,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$100",
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -9545,7 +9545,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -9567,7 +9567,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$130",
+        "price": "$130.00",
         "ebay": ""
       },
       {
@@ -9589,7 +9589,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -9611,7 +9611,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$90",
+        "price": "$90.00",
         "ebay": ""
       },
       {
@@ -9633,7 +9633,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$75",
+        "price": "$75.00",
         "ebay": ""
       },
       {
@@ -9655,7 +9655,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$60",
+        "price": "$60.00",
         "ebay": ""
       },
       {
@@ -9677,7 +9677,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$110",
+        "price": "$110.00",
         "ebay": ""
       },
       {
@@ -9699,7 +9699,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$150",
+        "price": "$150.00",
         "ebay": ""
       },
       {
@@ -9721,7 +9721,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$299",
+        "price": "$299.00",
         "ebay": ""
       },
       {
@@ -9743,7 +9743,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Eagle with arrows and olive branch in talons",
         "bottomContent": "Half Dollars",
-        "price": "$140",
+        "price": "$140.00",
         "ebay": ""
       },
       {
@@ -9765,7 +9765,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Eagle with arrows and olive branch in talons banner with motto above",
         "bottomContent": "Half Dollars",
-        "price": "$160",
+        "price": "$160.00",
         "ebay": ""
       },
       {
@@ -9787,7 +9787,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Eagle with arrows and olive branch in talons banner with motto above",
         "bottomContent": "Half Dollars",
-        "price": "$160",
+        "price": "$160.00",
         "ebay": ""
       },
       {
@@ -9809,7 +9809,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "The Nieuw Netherlandt sailing ship on the Hudson River.",
         "bottomContent": "Half Dollars",
-        "price": "$130",
+        "price": "$130.00",
         "ebay": ""
       },
       {
@@ -9831,7 +9831,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "The log cabin in Point Pleasant  Ohio which was where Grant was born.",
         "bottomContent": "Half Dollars",
-        "price": "$130",
+        "price": "$130.00",
         "ebay": ""
       },
       {
@@ -9853,7 +9853,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Oregon Trail",
         "backDescription": "Full figure of a Native American in headdress. He stands before a map of the United States with the Oregon Trail marked with his left hand outstretched to the east and a bow in his right hand spanning the continent.",
         "bottomContent": "Half Dollars",
-        "price": "$280",
+        "price": "$280.00",
         "ebay": ""
       },
       {
@@ -9875,7 +9875,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Alabama",
         "backDescription": "An eagle perched on a shield which is based on the Alabama State Seal.",
         "bottomContent": "Half Dollars",
-        "price": "$170",
+        "price": "$170.00",
         "ebay": ""
       },
       {
@@ -9897,7 +9897,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "An adaptation of the Great Seal of the United States. It features a heraldic eagle grasping an olive branch with arrows and holding in its beak a ribbon inscribed",
         "bottomContent": "Half Dollars",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -9919,7 +9919,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "An adaptation of the Great Seal of the United States. It features a heraldic eagle grasping an olive branch with arrows and holding in its beak a ribbon inscribed",
         "bottomContent": "Half Dollars",
-        "price": "$40",
+        "price": "$40.00",
         "ebay": ""
       },
       {
@@ -9941,7 +9941,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "An eagle poised on a mountain crag with stars visible in the background and the denomination at the bottom",
         "bottomContent": "Half Dollars",
-        "price": "$70",
+        "price": "$70.00",
         "ebay": ""
       },
       {
@@ -9963,7 +9963,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "An image of a grizzly bear which comes from the state emblem of California.",
         "bottomContent": "Half Dollars",
-        "price": "$70",
+        "price": "$70.00",
         "ebay": ""
       },
       {
@@ -9985,7 +9985,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Victory winged and draped holding an olive branch in her right hand and resting her left hand on what represents the Alamo.",
         "bottomContent": "Half Dollars",
-        "price": "$170",
+        "price": "$170.00",
         "ebay": ""
       },
       {
@@ -10007,7 +10007,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "A portrait of Daniel Boone. Since no known portraits of him exist this is an artist's conception.",
         "bottomContent": "Half Dollars",
-        "price": "$215",
+        "price": "$215.00",
         "ebay": ""
       },
       {
@@ -10029,7 +10029,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Charter Oak.",
         "bottomContent": "Half Dollars",
-        "price": "$375",
+        "price": "$375.00",
         "ebay": ""
       },
       {
@@ -10051,7 +10051,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Chapel of St. Francis and the California Tower",
         "bottomContent": "Half Dollars",
-        "price": "$160",
+        "price": "$160.00",
         "ebay": ""
       },
       {
@@ -10073,7 +10073,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Victory winged and draped holding an olive branch in her right hand and resting her left hand on what represents the Alamo.",
         "bottomContent": "Half Dollars",
-        "price": "$250",
+        "price": "$250.00",
         "ebay": ""
       },
       {
@@ -10095,7 +10095,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "An image of the Hall of Fame at New York University and a log cabin.",
         "bottomContent": "Half Dollars",
-        "price": "$50",
+        "price": "$50.00",
         "ebay": ""
       },
       {
@@ -10117,7 +10117,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "50 Cents",
         "backDescription": "Map of the continental United State (48 out of the 50) with the letters USA superimposed in capitals over said map. One ring of lettering encircling the map of the continental US.",
         "bottomContent": "Half Dollars",
-        "price": "$100",
+        "price": "$100.00",
         "ebay": ""
       },
       {
@@ -10139,7 +10139,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "KRÓNA",
         "backDescription": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10161,7 +10161,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "KRÓNA",
         "backDescription": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10183,7 +10183,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "KRÓNA",
         "backDescription": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10205,7 +10205,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "KRÓNA",
         "backDescription": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10227,7 +10227,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "KRÓNA",
         "backDescription": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10249,7 +10249,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "KRÓNA",
         "backDescription": "Face value at the center and leaves of pubescent birch (Betula pubescens, only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10271,7 +10271,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Eyrir",
         "backDescription": "Face value at the centre and leaves of pubescent birch (Betula pubescens, the only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 2,
+        "price": "$2.00",
         "ebay": ""
       },
       {
@@ -10293,7 +10293,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Aurar",
         "backDescription": "Face value at the centre and leaves of pubescent birch (Betula pubescens, the only endemic tree of Iceland), to left and right.",
         "bottomContent": "iceland",
-        "price": 15,
+        "price": "$15.00",
         "ebay": ""
       },
       {
@@ -10315,9 +10315,10 @@ export class InMemoryDataService implements InMemoryDbService {
         "backTitle": "Liberty",
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
-        "price": "$76",
+        "price": "$76.00",
         "ebay": ""
       }
+
     ];
 
 		return {
