@@ -2892,7 +2892,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "unitedstates",
         "year": 1881,
         "tagline": "Morgan Dollars",
-        "title": "1881 1881 Morgan Dollars Morgan Dollars",
+        "title": "1881 Morgan Dollars Morgan Dollars",
         "description": "The Morgan dollar is a United States dollar coin minted from 1878 to 1904 in 1921 and beginning again in 2021 as a collectible. It was the first standard silver dollar minted since the passage of the Coinage Act of 1873.",
         "frontImg": "1881f.jpg",
         "frontTitle": "Anna Willess Williams",
@@ -2914,7 +2914,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "unitedstates",
         "year": 1885,
         "tagline": "Morgan Dollars",
-        "title": "1885 1885 Morgan Dollars Morgan Dollars",
+        "title": "1885 Morgan Dollars Morgan Dollars",
         "description": "The Morgan dollar is a United States dollar coin minted from 1878 to 1904 in 1921 and beginning again in 2021 as a collectible. It was the first standard silver dollar minted since the passage of the Coinage Act of 1873.",
         "frontImg": "1885f.jpg",
         "frontTitle": "Anna Willess Williams",
@@ -2936,7 +2936,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "unitedstates",
         "year": 1890,
         "tagline": "Morgan Dollars",
-        "title": "1890 1890 Morgan Dollars Morgan Dollars",
+        "title": "1890 Morgan Dollars Morgan Dollars",
         "description": "The Morgan dollar is a United States dollar coin minted from 1878 to 1904 in 1921 and beginning again in 2021 as a collectible. It was the first standard silver dollar minted since the passage of the Coinage Act of 1873.",
         "frontImg": "1890f.jpg",
         "frontTitle": "Anna Willess Williams",
@@ -2958,7 +2958,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "unitedstates",
         "year": 1900,
         "tagline": "Morgan Dollars",
-        "title": "1900 1900 Morgan Dollars Morgan Dollars",
+        "title": "1900 Morgan Dollars Morgan Dollars",
         "description": "The Morgan dollar is a United States dollar coin minted from 1878 to 1904 in 1921 and beginning again in 2021 as a collectible. It was the first standard silver dollar minted since the passage of the Coinage Act of 1873.",
         "frontImg": "1900f.jpg",
         "frontTitle": "Anna Willess Williams",
@@ -2968,7 +2968,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "backDescription": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "bottomContent": "Morgans depiction of the eagle is extremely intricate and the its feathers can be seen in full detail.",
         "price": "$60.00",
-        "ebay": ""
+        "ebay": "https://www.ebay.com/itm/355850530252"
       },
       {
         "id": 93,
@@ -2980,7 +2980,7 @@ export class InMemoryDataService implements InMemoryDbService {
         "monarchtype": "unitedstates",
         "year": 2023,
         "tagline": "Morgan Dollars",
-        "title": "2023 2023 Morgan Dollars Morgan Dollars",
+        "title": "2023 Morgan Dollars Morgan Dollars",
         "description": "The Morgan dollar is a United States dollar coin minted from 1878 to 1904 in 1921 and beginning again in 2021 as a collectible. It was the first standard silver dollar minted since the passage of the Coinage Act of 1873.",
         "frontImg": "2023f.jpg",
         "frontTitle": "Anna Willess Williams",
@@ -10318,7 +10318,6 @@ export class InMemoryDataService implements InMemoryDbService {
         "price": "$76.00",
         "ebay": ""
       }
-
     ];
 
 		return {
